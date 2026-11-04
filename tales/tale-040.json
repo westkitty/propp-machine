@@ -1,0 +1,174 @@
+{
+  "seed": "40",
+  "title": "The Tale of Ivashka and Zmei Pickleback",
+  "sequence": [
+    [
+      "alpha",
+      "gamma",
+      "delta",
+      "eta",
+      "theta",
+      "A",
+      "B",
+      "C",
+      "up",
+      "D",
+      "E",
+      "G",
+      "K",
+      "down",
+      "Pr",
+      "Rs"
+    ],
+    [
+      "A",
+      "K",
+      "down",
+      "L",
+      "M",
+      "N",
+      "Q",
+      "Ex",
+      "W"
+    ]
+  ],
+  "symbols": "α γ δ η θ A B C ↑ D E G K ↓ Pr Rs | A K ↓ L M N Q Ex W",
+  "choices": {
+    "donorTest": "rude",
+    "interdiction": "obey",
+    "path": "below"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "They still tell of Ivashka Ninth-Son in a kingdom so small that the Tsar could hear every sneeze in it: the one, who slept on the stove for nineteen winters."
+    },
+    {
+      "f": "gamma",
+      "move": 0,
+      "text": "Before leaving, the village elder with the brass ear-trumpet warned Ivashka: “do not let the stove go cold while I am away.” The lad crossed his heart, and meant it."
+    },
+    {
+      "f": "delta",
+      "move": 0,
+      "text": "Somewhere a door creaked that had no hinges, and the youngest cousin could not help looking."
+    },
+    {
+      "f": "eta",
+      "move": 0,
+      "text": "Zmei Pickleback came in disguise, holding out a sweet cake."
+    },
+    {
+      "f": "theta",
+      "move": 0,
+      "text": "Ivashka took the cake and fell asleep."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "Then Pickleback came and took Princess Vasilka the Unhurried away."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "The village elder with the brass ear-trumpet wept loudly in the square, and the lad heard."
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "Now Ivashka tightened his belt and resolved to set it right."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "So Ivashka left home. Where three ways met, the lad chose the road that went down a ladder of roots, deeper than the wells go."
+    },
+    {
+      "f": "D",
+      "move": 0,
+      "text": "Before long a hedgehog wearing a bishop’s hat under a cart that had no wheels asked for a name and a kindness: “Feed me, or pass on hungry yourself.”"
+    },
+    {
+      "f": "E",
+      "move": 0,
+      "text": "“Find your own crust,” said our Ivashka. A hedgehog wearing a bishop’s hat watched him go."
+    },
+    {
+      "f": "G",
+      "move": 0,
+      "text": "So Ivashka came to the Copper Kingdom under the earth, having gone down a ladder of roots, deeper than the wells go."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "Princess Vasilka the Unhurried was free."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "Then the lad turned back toward a kingdom so small that the Tsar could hear every sneeze in it."
+    },
+    {
+      "f": "Pr",
+      "move": 0,
+      "text": "Then came a sound of gnawing: Pickleback was coming after them."
+    },
+    {
+      "f": "Rs",
+      "move": 0,
+      "text": "That same week Ivashka ran faster than fear, and Pickleback had to go round, grumbling."
+    },
+    {
+      "f": "A",
+      "move": 1,
+      "text": "On the way home, the elder brothers Glib and Gleb sold our Ivashka to a passing bear and took the prize."
+    },
+    {
+      "f": "K",
+      "move": 1,
+      "text": "With help from sheer stubbornness, Ivashka climbed free, cross but whole."
+    },
+    {
+      "f": "down",
+      "move": 1,
+      "text": "Ivashka came home a second time."
+    },
+    {
+      "f": "L",
+      "move": 1,
+      "text": "The elder brothers Glib and Gleb claimed the deed for themselves."
+    },
+    {
+      "f": "M",
+      "move": 1,
+      "text": "As it happened, King Barley the Bald stroked his beard. “Whoever can manage this: to sit in a red-hot bathhouse and come out cold.”"
+    },
+    {
+      "f": "N",
+      "move": 1,
+      "text": "The task was done by morning."
+    },
+    {
+      "f": "Q",
+      "move": 1,
+      "text": "Then Princess Vasilka the Unhurried recognised Ivashka."
+    },
+    {
+      "f": "Ex",
+      "move": 1,
+      "text": "Not long after, the lie of the elder brothers Glib and Gleb came out."
+    },
+    {
+      "f": "W",
+      "move": 1,
+      "text": "Not long after, Ivashka married Princess Vasilka the Unhurried, and there was a feast."
+    }
+  ]
+}

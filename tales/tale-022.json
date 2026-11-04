@@ -1,0 +1,179 @@
+{
+  "seed": "22",
+  "title": "The Tale of Olya and Count Moth",
+  "sequence": [
+    [
+      "alpha",
+      "eta",
+      "theta",
+      "A",
+      "B",
+      "C",
+      "up",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "K",
+      "down",
+      "Pr",
+      "Rs",
+      "o",
+      "L",
+      "M",
+      "N",
+      "Q",
+      "Ex",
+      "T",
+      "U",
+      "W"
+    ]
+  ],
+  "symbols": "α η θ A B C ↑ D E F G H I K ↓ Pr Rs o L M N Q Ex T U W",
+  "choices": {
+    "donorTest": "kind",
+    "path": "sea",
+    "gift": "thunder",
+    "confront": "contest"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "In a hut beside a river that ran uphill on Sundays there lived Olya Ashpocket, who kept a live coal in her apron for luck."
+    },
+    {
+      "f": "eta",
+      "move": 0,
+      "text": "“Little dove,” said Count Moth, offering a pie that steamed in the wrong direction, “open the door.”"
+    },
+    {
+      "f": "theta",
+      "move": 0,
+      "text": "Our Olya took the cake and fell asleep."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "Then the lord came and took Princess Vasilka the Unhurried away."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "The news went round, and at last it reached the girl."
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "Three days later Olya decided to set things right."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "With the crows for company, Olya took the road. When the road split like a lizard’s tongue, our Olya took the road over the sea, where the fish kept diaries and the waves read them aloud."
+    },
+    {
+      "f": "D",
+      "move": 0,
+      "text": "On the way our Olya met an old woman knitting fog on a stump at the edge of the road, who said: “First, help me.”"
+    },
+    {
+      "f": "E",
+      "move": 0,
+      "text": "Olya helped without complaint."
+    },
+    {
+      "f": "F",
+      "move": 0,
+      "text": "An old woman knitting fog unfolded a rag that held three things: a handkerchief that unfolds into a lake; a bone comb that grows forests when thrown; a jar of borrowed thunder. An old woman knitting fog pulled from a sleeve a jar of borrowed thunder. “Do not thank me yet.”"
+    },
+    {
+      "f": "G",
+      "move": 0,
+      "text": "Then our Olya travelled over the sea, where the fish kept diaries and the waves read them aloud, and came to the Thrice-Tenth Sea."
+    },
+    {
+      "f": "H",
+      "move": 0,
+      "text": "At last, our Olya stood before the Count, a lord made of dust and good manners. The lord proposed a contest."
+    },
+    {
+      "f": "I",
+      "move": 0,
+      "text": "The Count was beaten."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "The sunrise was let out of its sack, and Princess Vasilka the Unhurried stepped out blinking."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "Then the girl turned back toward a hut beside a river that ran uphill on Sundays."
+    },
+    {
+      "f": "Pr",
+      "move": 0,
+      "text": "Behind came the lord, chasing."
+    },
+    {
+      "f": "Rs",
+      "move": 0,
+      "text": "Olya unstopped the jar, and borrowed thunder rolled out, very loud and slightly apologetic, and the lord had to go round, grumbling."
+    },
+    {
+      "f": "o",
+      "move": 0,
+      "text": "Three days later unremembered, Olya took work in the royal kitchen and waited."
+    },
+    {
+      "f": "L",
+      "move": 0,
+      "text": "The elder brothers Glib and Gleb said that they had done everything."
+    },
+    {
+      "f": "M",
+      "move": 0,
+      "text": "The court demanded proof: to sit in a red-hot bathhouse and come out cold."
+    },
+    {
+      "f": "N",
+      "move": 0,
+      "text": "With the gift’s help, our Olya did it before the cock crowed."
+    },
+    {
+      "f": "Q",
+      "move": 0,
+      "text": "Before long Princess Vasilka the Unhurried saw the mark and cried, “This is the one!”"
+    },
+    {
+      "f": "Ex",
+      "move": 0,
+      "text": "The elder brothers Glib and Gleb was exposed."
+    },
+    {
+      "f": "T",
+      "move": 0,
+      "text": "A crown that fitted, for once were waiting for Olya."
+    },
+    {
+      "f": "U",
+      "move": 0,
+      "text": "Nobody was sorry: the Count was put in a barrel and rolled into the sea, which rolled him back out, ashamed."
+    },
+    {
+      "f": "W",
+      "move": 0,
+      "text": "Olya married Princess Vasilka the Unhurried, and there was a feast."
+    }
+  ]
+}

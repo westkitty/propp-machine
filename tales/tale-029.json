@@ -1,0 +1,144 @@
+{
+  "seed": "29",
+  "title": "The Tale of Prokop and Count Moth",
+  "sequence": [
+    [
+      "alpha",
+      "gamma",
+      "delta",
+      "A",
+      "B",
+      "up",
+      "D",
+      "E",
+      "F",
+      "H",
+      "I",
+      "K",
+      "down",
+      "L",
+      "M",
+      "N",
+      "Q",
+      "Ex",
+      "U",
+      "W"
+    ]
+  ],
+  "symbols": "α γ δ A B ↑ D E F H I K ↓ L M N Q Ex U W",
+  "choices": {
+    "donorTest": "kind",
+    "interdiction": "disobey",
+    "path": "below",
+    "gift": "cloth",
+    "confront": "fight"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "Beyond the thrice-ninth land, in a kingdom so small that the Tsar could hear every sneeze in it, there once lived Prokop Half-Asleep, who was brave only before breakfast."
+    },
+    {
+      "f": "gamma",
+      "move": 0,
+      "text": "Before leaving, the hero’s grandmother warned the lad: “do not let the stove go cold while I am away.” The lad said “Of course”, and began to wonder at once."
+    },
+    {
+      "f": "delta",
+      "move": 0,
+      "text": "Of course Prokop Half-Asleep did exactly what was forbidden."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "Before cockcrow there was a scorched place where Tsarevich Lev Pale-Hands had been. Count Moth had come."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "The hero’s grandmother called Prokop and said: “Go, and bring it back.”"
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "So the lad left home. When the road split like a lizard’s tongue, Prokop took the road that went down a ladder of roots, deeper than the wells go."
+    },
+    {
+      "f": "D",
+      "move": 0,
+      "text": "A birch tree with a terrible cough in a clearing full of polite mushrooms held out a cracked cup: “First a task, then a road.”"
+    },
+    {
+      "f": "E",
+      "move": 0,
+      "text": "Well, Our Prokop answered politely."
+    },
+    {
+      "f": "F",
+      "move": 0,
+      "text": "A birch tree with a terrible cough unfolded a rag that held three things: a ball of red thread that knows the way; a handkerchief that unfolds into a lake; a birch-bark flute that makes the dead dance politely. A birch tree with a terrible cough gave Prokop a handkerchief that unfolds into a lake."
+    },
+    {
+      "f": "H",
+      "move": 0,
+      "text": "There at the heart of the Copper Kingdom under the earth, the lad stood before the lord, a lord made of dust and good manners. The Count came out, and they fought."
+    },
+    {
+      "f": "I",
+      "move": 0,
+      "text": "The lord was beaten."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "Then, the sunrise was let out of its sack, and Tsarevich Lev Pale-Hands laughed for the first time in a year."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "Then Prokop turned back toward a kingdom so small that the Tsar could hear every sneeze in it."
+    },
+    {
+      "f": "L",
+      "move": 0,
+      "text": "“Who else?,” said the Captain of Mild Courage, and the court believed it."
+    },
+    {
+      "f": "M",
+      "move": 0,
+      "text": "There was one more task: to find which of twelve identical doves was the princess."
+    },
+    {
+      "f": "N",
+      "move": 0,
+      "text": "Before the candle was half gone the task was done, neatly."
+    },
+    {
+      "f": "Q",
+      "move": 0,
+      "text": "Everyone recognised the lad at last."
+    },
+    {
+      "f": "Ex",
+      "move": 0,
+      "text": "The Captain of Mild Courage was exposed."
+    },
+    {
+      "f": "U",
+      "move": 0,
+      "text": "The Count was made to count the crows of the kingdom, and is counting still."
+    },
+    {
+      "f": "W",
+      "move": 0,
+      "text": "Then there was a wedding."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "seed": "41",
+  "title": "The Tale of Kuzma and the Widow of the Well",
+  "sequence": [
+    [
+      "alpha",
+      "beta",
+      "a",
+      "B",
+      "C",
+      "up",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "K",
+      "down",
+      "Pr",
+      "Rs",
+      "o",
+      "M",
+      "N",
+      "Q",
+      "U",
+      "W"
+    ]
+  ],
+  "symbols": "α β a B C ↑ D E F G H I K ↓ Pr Rs o M N Q U W",
+  "choices": {
+    "donorTest": "clever",
+    "path": "forest",
+    "gift": "hair",
+    "confront": "fight"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "Nobody in a village where the rooster crowed backwards expected much of Kuzma Crookedcap, whose hat pointed always toward trouble; the neighbours even less."
+    },
+    {
+      "f": "beta",
+      "move": 0,
+      "text": "One day old father Foma went away to market and did not come back for a long time."
+    },
+    {
+      "f": "a",
+      "move": 0,
+      "text": "Of course Now the Tsar of the Soup Kingdom longed for the water of life and the water of death, and grew thin with longing."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "The news went round, and at last it reached Kuzma."
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "“Give me a crust and a blessing, and I will go,” said our Kuzma."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "The lad set out along the road. When the road split like a lizard’s tongue, Kuzma chose the road through the forest, where the trees whispered half of everything."
+    },
+    {
+      "f": "D",
+      "move": 0,
+      "text": "On the way Kuzma met a ferryman with no shadow at a river that had forgotten its other bank, who said: “First, help me.”"
+    },
+    {
+      "f": "E",
+      "move": 0,
+      "text": "The lad answered with a question and got it right on the third try."
+    },
+    {
+      "f": "F",
+      "move": 0,
+      "text": "A ferryman with no shadow unfolded a rag that held three things: a horse-hair that summons a horse of storm; a handkerchief that unfolds into a lake; a bone comb that grows forests when thrown. In return Kuzma received a horse-hair that summons a horse of storm."
+    },
+    {
+      "f": "G",
+      "move": 0,
+      "text": "Following a hare that was not a hare, Kuzma went through the forest, where the trees whispered half of everything, until the stars changed at the Birch Thicket of Unfinished Sentences."
+    },
+    {
+      "f": "H",
+      "move": 0,
+      "text": "There at the heart of the Birch Thicket of Unfinished Sentences, our Kuzma stood before the Widow of the Well, a wet grey woman who lived under the bucket. Then, the wet grey came out, and they fought."
+    },
+    {
+      "f": "I",
+      "move": 0,
+      "text": "The Widow was beaten fair, which was the bitter part, and slunk away."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "By nobody’s leave but his own, Kuzma recovered the water of life and the water of death."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "Then the lad turned back toward a village where the rooster crowed backwards."
+    },
+    {
+      "f": "Pr",
+      "move": 0,
+      "text": "Then came a sound of gnawing: the Widow was coming after them."
+    },
+    {
+      "f": "Rs",
+      "move": 0,
+      "text": "That same week Our Kuzma burned the horse-hair, and a storm-horse came snorting out of nowhere, and the Widow was stuck behind it for three days."
+    },
+    {
+      "f": "o",
+      "move": 0,
+      "text": "Kuzma came back in rags, and nobody knew him."
+    },
+    {
+      "f": "M",
+      "move": 0,
+      "text": "The court demanded proof: to answer a riddle that had no right answer."
+    },
+    {
+      "f": "N",
+      "move": 0,
+      "text": "By luck and stubbornness, Kuzma did it, and yawned."
+    },
+    {
+      "f": "Q",
+      "move": 0,
+      "text": "By his old crooked grin, they knew Kuzma at last."
+    },
+    {
+      "f": "U",
+      "move": 0,
+      "text": "Justice in that kingdom was strange but thorough: the wet grey was made to count the crows of the kingdom, and is counting still."
+    },
+    {
+      "f": "W",
+      "move": 0,
+      "text": "So Kuzma married Tsarevna Lumina, with pancakes stacked to the rafters."
+    }
+  ]
+}

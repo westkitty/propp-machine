@@ -1,0 +1,174 @@
+{
+  "seed": "43",
+  "title": "The Tale of Kuzma and the Tallow King",
+  "sequence": [
+    [
+      "alpha",
+      "beta",
+      "gamma",
+      "delta",
+      "A",
+      "B",
+      "C",
+      "up",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "K",
+      "down",
+      "Pr",
+      "Rs",
+      "o",
+      "L",
+      "M",
+      "N",
+      "Q",
+      "Ex",
+      "W"
+    ]
+  ],
+  "symbols": "α β γ δ A B C ↑ D E F G H I K ↓ Pr Rs o L M N Q Ex W",
+  "choices": {
+    "donorTest": "clever",
+    "interdiction": "obey",
+    "path": "forest",
+    "gift": "boots",
+    "confront": "fight"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "Nobody in a town whose church bell rang a minute early, out of nerves expected much of Kuzma Crookedcap, whose hat pointed always toward trouble; the cat least of all."
+    },
+    {
+      "f": "beta",
+      "move": 0,
+      "text": "One day the hero’s grandmother went away to market and did not come back for a long time."
+    },
+    {
+      "f": "gamma",
+      "move": 0,
+      "text": "There was a rule in that house, older than the roof: do not open the green door at the end of the passage. The lad nodded very seriously, and meant it."
+    },
+    {
+      "f": "delta",
+      "move": 0,
+      "text": "But the house cat forgot the warning at once."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "Then the Tallow King came and stole the water of life and the water of death, and the whole land went dim."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "The news went round, and at last it reached Kuzma."
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "Kuzma put on his other boot and resolved to set it right."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "Kuzma set out along the road. Where three ways met, Kuzma took the road through the forest, where the trees whispered half of everything."
+    },
+    {
+      "f": "D",
+      "move": 0,
+      "text": "By a fire nobody had lit, Kuzma met a ferryman with no shadow at a river that had forgotten its other bank. “Answer me this,” it said, and its eyes were very old."
+    },
+    {
+      "f": "E",
+      "move": 0,
+      "text": "Kuzma solved the puzzle quickly."
+    },
+    {
+      "f": "F",
+      "move": 0,
+      "text": "A ferryman with no shadow unfolded a rag that held three things: a ball of red thread that knows the way; boots that walk only forward; a bone comb that grows forests when thrown. From under the moss, a ferryman with no shadow brought boots that walk only forward, and the air smelled of thunder."
+    },
+    {
+      "f": "G",
+      "move": 0,
+      "text": "Kuzma was led through the forest, where the trees whispered half of everything as far as the Birch Thicket of Unfinished Sentences."
+    },
+    {
+      "f": "H",
+      "move": 0,
+      "text": "There at the heart of the Birch Thicket of Unfinished Sentences, the lad stood before the monarch, a monarch who melted a little whenever he lied. Meanwhile, the waxen king came out roaring, and they fought till the grass was flattened, while the crows kept score."
+    },
+    {
+      "f": "I",
+      "move": 0,
+      "text": "And so the waxen king was defeated."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "Our Kuzma found the water of life and the water of death again."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "Meanwhile, Our Kuzma went home."
+    },
+    {
+      "f": "Pr",
+      "move": 0,
+      "text": "Then came a sound of gnawing: the waxen king was in pursuit."
+    },
+    {
+      "f": "Rs",
+      "move": 0,
+      "text": "Wouldn’t you know it, Kuzma stamped in the forward-boots and could not be turned back, and escaped."
+    },
+    {
+      "f": "o",
+      "move": 0,
+      "text": "Unremembered, Kuzma took work in the royal kitchen and waited."
+    },
+    {
+      "f": "L",
+      "move": 0,
+      "text": "The elder brothers Glib and Gleb claimed the deed for themselves."
+    },
+    {
+      "f": "M",
+      "move": 0,
+      "text": "The court demanded proof: to find which of twelve identical doves was the princess."
+    },
+    {
+      "f": "N",
+      "move": 0,
+      "text": "By luck and stubbornness, our Kuzma did it, and yawned."
+    },
+    {
+      "f": "Q",
+      "move": 0,
+      "text": "Everyone recognised Kuzma at last."
+    },
+    {
+      "f": "Ex",
+      "move": 0,
+      "text": "The elder brothers Glib and Gleb tried to slip out by the scullery, but the goose remembered."
+    },
+    {
+      "f": "W",
+      "move": 0,
+      "text": "Then there was a wedding."
+    }
+  ]
+}

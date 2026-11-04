@@ -1,0 +1,137 @@
+{
+  "seed": "30",
+  "title": "The Tale of Dunya and the Tallow King",
+  "sequence": [
+    [
+      "alpha",
+      "gamma",
+      "delta",
+      "a",
+      "B",
+      "C",
+      "up",
+      "D",
+      "E",
+      "H",
+      "I",
+      "K",
+      "down",
+      "o",
+      "M",
+      "N",
+      "Q",
+      "T",
+      "W"
+    ]
+  ],
+  "symbols": "α γ δ a B C ↑ D E H I K ↓ o M N Q T W",
+  "choices": {
+    "donorTest": "rude",
+    "interdiction": "obey",
+    "path": "sea",
+    "confront": "fight"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "Once, in a village where the rooster crowed backwards, lived Dunya of the Leaky Bucket, whose bucket leaked only lies."
+    },
+    {
+      "f": "gamma",
+      "move": 0,
+      "text": "Before leaving, a widowed Tsar warned Dunya: “do not eat the third pancake.” Dunya crossed her heart, and meant it."
+    },
+    {
+      "f": "delta",
+      "move": 0,
+      "text": "Before the porridge cooled, the youngest cousin forgot, then remembered, then did it on purpose."
+    },
+    {
+      "f": "a",
+      "move": 0,
+      "text": "“Short of the kingdom’s last true sunrise,” sighed King Barley the Bald, “a kingdom is just a field with a fence.”"
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "“Who will go?” cried a widowed Tsar. Even the cat looked away."
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "Dunya said a short rude prayer and resolved to go."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "And Dunya went, it may be near, it may be far; the tale is quick, the road is not. When the road split like a lizard’s tongue, Dunya chose the road over the sea, where the fish kept diaries and the waves read them aloud."
+    },
+    {
+      "f": "D",
+      "move": 0,
+      "text": "At a crossroads, Dunya met a ferryman with no shadow at a river that had forgotten its other bank. “Answer me this,” it said, and the trees leaned in to listen."
+    },
+    {
+      "f": "E",
+      "move": 0,
+      "text": "Dunya laughed and refused."
+    },
+    {
+      "f": "H",
+      "move": 0,
+      "text": "There at the heart of the Thrice-Tenth Sea, our Dunya stood before the Tallow King, a monarch who melted a little whenever he lied. The waxen king came out, and they fought."
+    },
+    {
+      "f": "I",
+      "move": 0,
+      "text": "At the cock’s first crow, the waxen king was undone."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "By nobody’s leave but her own, Dunya won back the kingdom’s last true sunrise."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "The girl went home."
+    },
+    {
+      "f": "o",
+      "move": 0,
+      "text": "Then, Dunya came back in rags, and nobody knew her."
+    },
+    {
+      "f": "M",
+      "move": 0,
+      "text": "There was one more task: to build a bridge of crystal in a single night."
+    },
+    {
+      "f": "N",
+      "move": 0,
+      "text": "By luck and stubbornness, the girl did it before the cock crowed."
+    },
+    {
+      "f": "Q",
+      "move": 0,
+      "text": "Everyone recognised Dunya at last."
+    },
+    {
+      "f": "T",
+      "move": 0,
+      "text": "Well, Our Dunya bathed in the milk of a white mare and came out glowing like a new kopeck."
+    },
+    {
+      "f": "W",
+      "move": 0,
+      "text": "Three days later Our Dunya married Princess Vasilka the Unhurried, and there was a feast."
+    }
+  ]
+}

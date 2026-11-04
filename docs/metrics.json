@@ -1,0 +1,207 @@
+{
+  "run1-v1-v2": {
+    "generatedAt": "2026-11-04T12:55:25.935Z",
+    "structure": {
+      "generated": {
+        "tales": 1000,
+        "distinct": 985,
+        "distinctRatio": 0.985,
+        "sequenceEntropyBits": 9.936,
+        "maxPossibleBits": 9.966,
+        "functionEntropyBits": 4.901,
+        "transitionCondEntropyBits": 0.891,
+        "distinctTransitions": 110,
+        "meanLength": 20.89,
+        "bigramsTotal": 21892
+      },
+      "generatedFirst12": {
+        "tales": 12,
+        "distinct": 12,
+        "distinctRatio": 1,
+        "sequenceEntropyBits": 3.585,
+        "maxPossibleBits": 3.585,
+        "functionEntropyBits": 4.859,
+        "transitionCondEntropyBits": 0.658,
+        "distinctTransitions": 66,
+        "meanLength": 20.58,
+        "bigramsTotal": 259
+      },
+      "real12": {
+        "tales": 12,
+        "distinct": 12,
+        "distinctRatio": 1,
+        "sequenceEntropyBits": 3.585,
+        "maxPossibleBits": 3.585,
+        "functionEntropyBits": 4.649,
+        "transitionCondEntropyBits": 1.881,
+        "distinctTransitions": 128,
+        "meanLength": 19.83,
+        "bigramsTotal": 250
+      },
+      "realMagic": {
+        "tales": 9,
+        "distinct": 9,
+        "distinctRatio": 1,
+        "sequenceEntropyBits": 3.17,
+        "maxPossibleBits": 3.17,
+        "functionEntropyBits": 4.67,
+        "transitionCondEntropyBits": 1.728,
+        "distinctTransitions": 115,
+        "meanLength": 23.33,
+        "bigramsTotal": 219
+      }
+    },
+    "prose": {
+      "v1": {
+        "tales": 50,
+        "words": 15600,
+        "sentences": 1188,
+        "distinct1": 0.036,
+        "distinct2": 0.139,
+        "distinct3": 0.237,
+        "repeatedOpeningRate": 0.903,
+        "topOpenings": [
+          "dunya of (63)",
+          "kuzma crookedcap (50)",
+          "agafya last (43)",
+          "ivashka ninth (40)",
+          "tikhon who (36)"
+        ],
+        "duplicateSentenceRate": 0.568,
+        "meanPairwise4gramJaccard": 0.0601,
+        "heroFullNameMentionsPerTale": 14.84
+      },
+      "v2": {
+        "tales": 50,
+        "words": 20281,
+        "sentences": 1242,
+        "distinct1": 0.049,
+        "distinct2": 0.203,
+        "distinct3": 0.333,
+        "repeatedOpeningRate": 0.791,
+        "topOpenings": [
+          "by then (73)",
+          "not long (60)",
+          "so it (58)",
+          "at the (56)",
+          "there was (21)"
+        ],
+        "duplicateSentenceRate": 0.217,
+        "meanPairwise4gramJaccard": 0.0416,
+        "heroFullNameMentionsPerTale": 14.04
+      }
+    }
+  },
+  "run2-v1-v2-v3": {
+    "generatedAt": "2026-11-04T12:56:25.926Z",
+    "structure": {
+      "generated": {
+        "tales": 1000,
+        "distinct": 988,
+        "distinctRatio": 0.988,
+        "sequenceEntropyBits": 9.942,
+        "maxPossibleBits": 9.966,
+        "functionEntropyBits": 4.916,
+        "transitionCondEntropyBits": 0.923,
+        "distinctTransitions": 114,
+        "meanLength": 21.39,
+        "bigramsTotal": 22394
+      },
+      "generatedFirst12": {
+        "tales": 12,
+        "distinct": 12,
+        "distinctRatio": 1,
+        "sequenceEntropyBits": 3.585,
+        "maxPossibleBits": 3.585,
+        "functionEntropyBits": 4.906,
+        "transitionCondEntropyBits": 0.694,
+        "distinctTransitions": 68,
+        "meanLength": 21.58,
+        "bigramsTotal": 271
+      },
+      "real12": {
+        "tales": 12,
+        "distinct": 12,
+        "distinctRatio": 1,
+        "sequenceEntropyBits": 3.585,
+        "maxPossibleBits": 3.585,
+        "functionEntropyBits": 4.649,
+        "transitionCondEntropyBits": 1.881,
+        "distinctTransitions": 128,
+        "meanLength": 19.83,
+        "bigramsTotal": 250
+      },
+      "realMagic": {
+        "tales": 9,
+        "distinct": 9,
+        "distinctRatio": 1,
+        "sequenceEntropyBits": 3.17,
+        "maxPossibleBits": 3.17,
+        "functionEntropyBits": 4.67,
+        "transitionCondEntropyBits": 1.728,
+        "distinctTransitions": 115,
+        "meanLength": 23.33,
+        "bigramsTotal": 219
+      }
+    },
+    "prose": {
+      "v1": {
+        "tales": 50,
+        "words": 15850,
+        "sentences": 1218,
+        "distinct1": 0.037,
+        "distinct2": 0.143,
+        "distinct3": 0.243,
+        "repeatedOpeningRate": 0.903,
+        "topOpenings": [
+          "dunya of (64)",
+          "kuzma crookedcap (53)",
+          "agafya last (49)",
+          "ivashka ninth (42)",
+          "tikhon who (37)"
+        ],
+        "duplicateSentenceRate": 0.565,
+        "meanPairwise4gramJaccard": 0.0594,
+        "heroFullNameMentionsPerTale": 15.34
+      },
+      "v2": {
+        "tales": 50,
+        "words": 20647,
+        "sentences": 1272,
+        "distinct1": 0.049,
+        "distinct2": 0.205,
+        "distinct3": 0.337,
+        "repeatedOpeningRate": 0.792,
+        "topOpenings": [
+          "by then (75)",
+          "so it (58)",
+          "not long (57)",
+          "at the (56)",
+          "and so (21)"
+        ],
+        "duplicateSentenceRate": 0.212,
+        "meanPairwise4gramJaccard": 0.0407,
+        "heroFullNameMentionsPerTale": 14.54
+      },
+      "v3": {
+        "tales": 50,
+        "words": 18691,
+        "sentences": 1272,
+        "distinct1": 0.055,
+        "distinct2": 0.228,
+        "distinct3": 0.368,
+        "repeatedOpeningRate": 0.717,
+        "topOpenings": [
+          "at the (56)",
+          "then the (26)",
+          "the lad (23)",
+          "and so (21)",
+          "the girl (21)"
+        ],
+        "duplicateSentenceRate": 0.208,
+        "meanPairwise4gramJaccard": 0.0414,
+        "heroFullNameMentionsPerTale": 1.22
+      }
+    }
+  }
+}

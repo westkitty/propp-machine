@@ -1,0 +1,116 @@
+{
+  "seed": "7",
+  "title": "The Tale of Dunya and Count Moth",
+  "sequence": [
+    [
+      "alpha",
+      "beta",
+      "epsilon",
+      "zeta",
+      "eta",
+      "theta",
+      "A",
+      "C",
+      "up",
+      "K",
+      "down",
+      "M",
+      "N",
+      "Q",
+      "T",
+      "W"
+    ]
+  ],
+  "symbols": "α β ε ζ η θ A C ↑ K ↓ M N Q T W",
+  "choices": {
+    "path": "sea"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "Once, in a village where the rooster crowed backwards, lived Dunya of the Leaky Bucket, whose bucket leaked only lies."
+    },
+    {
+      "f": "beta",
+      "move": 0,
+      "text": "Then the village elder with the brass ear-trumpet set off on business and left Dunya alone."
+    },
+    {
+      "f": "epsilon",
+      "move": 0,
+      "text": "At dusk, Count Moth listened."
+    },
+    {
+      "f": "zeta",
+      "move": 0,
+      "text": "What one hears at a keyhole is soon known in a lair: the Count learned it all."
+    },
+    {
+      "f": "eta",
+      "move": 0,
+      "text": "The Count borrowed a face from a sleeping woman."
+    },
+    {
+      "f": "theta",
+      "move": 0,
+      "text": "And Dunya took the cake and fell asleep."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "The Count bottled up the egg in which a certain death was kept, and the clocks ran backwards."
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "“I have nothing better to do, and I will go,” said Dunya."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "And the girl set off, it may be near, it may be far; the tale is quick, the road is not. When the road split like a lizard’s tongue, the girl took the road over the sea, where the fish kept diaries and the waves read them aloud."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "Everything that had been taken was put right."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "With the prize in her cap, Dunya turned for home."
+    },
+    {
+      "f": "M",
+      "move": 0,
+      "text": "The Tsaritsa of Nine Rivers set a task: to eat a whole oven of bread before dawn."
+    },
+    {
+      "f": "N",
+      "move": 0,
+      "text": "Before the candle was half gone the task was done, neatly."
+    },
+    {
+      "f": "Q",
+      "move": 0,
+      "text": "Then Tsarevich Lev Pale-Hands recognised Dunya."
+    },
+    {
+      "f": "T",
+      "move": 0,
+      "text": "A little wooden doll that ate porridge gave the girl new clothes."
+    },
+    {
+      "f": "W",
+      "move": 0,
+      "text": "Three days later Dunya and Tsarevich Lev Pale-Hands ruled together, and lived long."
+    }
+  ]
+}

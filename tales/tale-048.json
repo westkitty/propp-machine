@@ -1,0 +1,137 @@
+{
+  "seed": "48",
+  "title": "The Tale of Ivashka and Grandmother Ninetoes",
+  "sequence": [
+    [
+      "alpha",
+      "beta",
+      "gamma",
+      "delta",
+      "A",
+      "B",
+      "C",
+      "up",
+      "D",
+      "E",
+      "F",
+      "G",
+      "K",
+      "down",
+      "Pr",
+      "Rs",
+      "o",
+      "U",
+      "W"
+    ]
+  ],
+  "symbols": "α β γ δ A B C ↑ D E F G K ↓ Pr Rs o U W",
+  "choices": {
+    "donorTest": "kind",
+    "interdiction": "disobey",
+    "path": "forest",
+    "gift": "boots"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "Past three rivers and a rumour, in a village where the rooster crowed backwards, there was born Ivashka Ninth-Son, who slept on the stove for nineteen winters."
+    },
+    {
+      "f": "beta",
+      "move": 0,
+      "text": "One day the hero’s grandmother went away to market and did not come back for a long time."
+    },
+    {
+      "f": "gamma",
+      "move": 0,
+      "text": "“Listen,” said the hero’s grandmother, “do not answer if someone calls your name from the forest.” Ivashka nodded, and began to wonder at once."
+    },
+    {
+      "f": "delta",
+      "move": 0,
+      "text": "Forbidden things are heavy; Ivashka Ninth-Son could not stop carrying this one."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "Then Grandmother Ninetoes came and stole the water of life and the water of death, and the whole land went dim."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "The news went round, and at last it reached the lad."
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "Ivashka decided to set things right."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "So the lad left home. Past the post with the rude carving, Ivashka chose the road that went through the forest, where the trees whispered half of everything."
+    },
+    {
+      "f": "D",
+      "move": 0,
+      "text": "At a crossroads, our Ivashka met a drowned soldier who still kept watch beside a lake as flat as a coin. “Answer me this,” it said, and its eyes were very old."
+    },
+    {
+      "f": "E",
+      "move": 0,
+      "text": "Ivashka answered politely."
+    },
+    {
+      "f": "F",
+      "move": 0,
+      "text": "A drowned soldier who still kept watch unfolded a rag that held three things: a bone comb that grows forests when thrown; a handkerchief that unfolds into a lake; boots that walk only forward. A drowned soldier who still kept watch gave Ivashka boots that walk only forward."
+    },
+    {
+      "f": "G",
+      "move": 0,
+      "text": "Wouldn’t you know it, Ivashka was led through the forest, where the trees whispered half of everything as far as the Birch Thicket of Unfinished Sentences."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "Everything that had been taken was put right."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "Our Ivashka went home."
+    },
+    {
+      "f": "Pr",
+      "move": 0,
+      "text": "Behind came the witch, chasing."
+    },
+    {
+      "f": "Rs",
+      "move": 0,
+      "text": "At the last breath, the doll snatched Ivashka up."
+    },
+    {
+      "f": "o",
+      "move": 0,
+      "text": "The lad arrived home, but nobody knew him."
+    },
+    {
+      "f": "U",
+      "move": 0,
+      "text": "And the witch: Ninetoes was made to count the crows of the kingdom, and is counting still."
+    },
+    {
+      "f": "W",
+      "move": 0,
+      "text": "Then there was a wedding."
+    }
+  ]
+}

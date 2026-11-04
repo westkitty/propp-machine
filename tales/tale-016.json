@@ -1,0 +1,111 @@
+{
+  "seed": "16",
+  "title": "The Tale of Marfa and Zmei Pickleback",
+  "sequence": [
+    [
+      "alpha",
+      "beta",
+      "epsilon",
+      "zeta",
+      "a",
+      "up",
+      "D",
+      "E",
+      "G",
+      "K",
+      "down",
+      "o",
+      "T",
+      "U",
+      "W"
+    ]
+  ],
+  "symbols": "α β ε ζ a ↑ D E G K ↓ o T U W",
+  "choices": {
+    "donorTest": "rude",
+    "path": "below"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "Beyond the thrice-ninth land, in a village where the rooster crowed backwards, there was born Marfa Sootfoot, who could whistle in three directions at once."
+    },
+    {
+      "f": "beta",
+      "move": 0,
+      "text": "Then old father Foma set off on business and left Marfa alone."
+    },
+    {
+      "f": "epsilon",
+      "move": 0,
+      "text": "A very thin stranger came asking what the house was afraid of. It was Zmei Pickleback."
+    },
+    {
+      "f": "zeta",
+      "move": 0,
+      "text": "What one hears at a keyhole is soon known in a lair: Pickleback learned exactly enough."
+    },
+    {
+      "f": "a",
+      "move": 0,
+      "text": "Before long Now the Tsaritsa of Nine Rivers longed for a feather of the Ember-Bird, and grew thin with longing."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "So Marfa left home. At the crossroads stone, Marfa took the road down a ladder of roots, deeper than the wells go."
+    },
+    {
+      "f": "D",
+      "move": 0,
+      "text": "There sat a hedgehog wearing a bishop’s hat under a cart that had no wheels, who asked Marfa a question."
+    },
+    {
+      "f": "E",
+      "move": 0,
+      "text": "Our Marfa snorted, and walked on."
+    },
+    {
+      "f": "G",
+      "move": 0,
+      "text": "Now Riding the wind’s spare horse, Marfa went down a ladder of roots, deeper than the wells go, until the stars changed at the Copper Kingdom under the earth."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "By the gift’s doing, Marfa recovered a feather of the Ember-Bird."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "Then the girl turned back toward a village where the rooster crowed backwards."
+    },
+    {
+      "f": "o",
+      "move": 0,
+      "text": "The girl came back with a beard of dust, and nobody knew her."
+    },
+    {
+      "f": "T",
+      "move": 0,
+      "text": "The girl washed and became handsome."
+    },
+    {
+      "f": "U",
+      "move": 0,
+      "text": "As for the salt-green serpent: Pickleback was turned into a draughty doorway that everyone complained about."
+    },
+    {
+      "f": "W",
+      "move": 0,
+      "text": "Then there was a wedding."
+    }
+  ]
+}

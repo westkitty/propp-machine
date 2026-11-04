@@ -1,0 +1,143 @@
+{
+  "seed": "44",
+  "title": "The Tale of Agafya and the Widow of the Well",
+  "sequence": [
+    [
+      "alpha",
+      "beta",
+      "gamma",
+      "delta",
+      "epsilon",
+      "zeta",
+      "A",
+      "B",
+      "C",
+      "up",
+      "D",
+      "E",
+      "F",
+      "K",
+      "down",
+      "Pr",
+      "Rs",
+      "M",
+      "N",
+      "U"
+    ]
+  ],
+  "symbols": "α β γ δ ε ζ A B C ↑ D E F K ↓ Pr Rs M N U",
+  "choices": {
+    "donorTest": "clever",
+    "interdiction": "disobey",
+    "path": "below",
+    "gift": "cloth"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "They still tell of Agafya Last-of-Eleven in a hut beside a river that ran uphill on Sundays: the one, whom nobody remembered to name until she was six."
+    },
+    {
+      "f": "beta",
+      "move": 0,
+      "text": "Then old father Foma went off to sell a cow and a silence, and Agafya was left in charge."
+    },
+    {
+      "f": "gamma",
+      "move": 0,
+      "text": "Before leaving, old father Foma warned Agafya: “do not answer if someone calls your name from the forest.” The girl said “Of course”, and began to wonder at once."
+    },
+    {
+      "f": "delta",
+      "move": 0,
+      "text": "Forbidden things are heavy; Agafya Last-of-Eleven could not stop carrying this one."
+    },
+    {
+      "f": "epsilon",
+      "move": 0,
+      "text": "Meanwhile the Widow of the Well came sniffing round the house, asking questions."
+    },
+    {
+      "f": "zeta",
+      "move": 0,
+      "text": "The goat told the stranger everything, and the wet grey wrote it on a fingernail."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "In the morning there was a wet place where Tsarevna Lumina had been. The Widow had come."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "Old father Foma rang the cracked bell, and it was Agafya who answered."
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "“I have nothing better to do, and I will go,” said Agafya."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "And Agafya went, it may be near, it may be far; the tale is quick, the road is not. At the crossroads stone, the girl chose the road down a ladder of roots, deeper than the wells go."
+    },
+    {
+      "f": "D",
+      "move": 0,
+      "text": "The Grandmother of Owls in a hut built entirely of locked doors held out a cracked cup: “Feed me, or pass on hungry yourself.”"
+    },
+    {
+      "f": "E",
+      "move": 0,
+      "text": "Three days later Agafya found a clever answer."
+    },
+    {
+      "f": "F",
+      "move": 0,
+      "text": "The Grandmother of Owls opened a sack that held three things: a handkerchief that unfolds into a lake; a ball of red thread that knows the way; a birch-bark flute that makes the dead dance politely. The Grandmother of Owls gave our Agafya a handkerchief that unfolds into a lake."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "The spell came unstitched, and Tsarevna Lumina was free."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "With the prize in her cap, the girl turned for home."
+    },
+    {
+      "f": "Pr",
+      "move": 0,
+      "text": "The wet grey scuttled on a hundred borrowed legs after Agafya, shrieking."
+    },
+    {
+      "f": "Rs",
+      "move": 0,
+      "text": "When the teeth were an inch away, the doll snatched Agafya up."
+    },
+    {
+      "f": "M",
+      "move": 0,
+      "text": "There was one more task: to eat a whole oven of bread before dawn."
+    },
+    {
+      "f": "N",
+      "move": 0,
+      "text": "The task was done by morning."
+    },
+    {
+      "f": "U",
+      "move": 0,
+      "text": "The Widow was made to count the crows of the kingdom, and is counting still."
+    }
+  ]
+}

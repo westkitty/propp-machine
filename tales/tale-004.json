@@ -1,0 +1,167 @@
+{
+  "seed": "4",
+  "title": "The Tale of Yelena and Count Moth",
+  "sequence": [
+    [
+      "alpha",
+      "epsilon",
+      "zeta",
+      "A",
+      "B",
+      "C",
+      "up",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "K",
+      "down",
+      "Pr",
+      "Rs",
+      "o",
+      "M",
+      "N",
+      "Q",
+      "T",
+      "U",
+      "W"
+    ]
+  ],
+  "symbols": "α ε ζ A B C ↑ D E F G H I K ↓ Pr Rs o M N Q T U W",
+  "choices": {
+    "donorTest": "clever",
+    "path": "below",
+    "gift": "thread",
+    "confront": "contest"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "Once, in a kingdom so small that the Tsar could hear every sneeze in it, lived Yelena Thimble-Eyes, who could see a needle think."
+    },
+    {
+      "f": "epsilon",
+      "move": 0,
+      "text": "Well, a polite stranger came asking what the house was afraid of. It was Count Moth."
+    },
+    {
+      "f": "zeta",
+      "move": 0,
+      "text": "A chattering neighbour told the lord everything."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "The Count bottled up the singing apple that told the truth, and the clocks ran backwards."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "The hero’s grandmother called Yelena and said: “Go, and bring it back.”"
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "“I will go,” said Yelena."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "Well, Yelena set out along the road. At the crossroads stone, the girl chose the road that went down a ladder of roots, deeper than the wells go."
+    },
+    {
+      "f": "D",
+      "move": 0,
+      "text": "An old woman knitting fog on a stump at the edge of the road held out a cracked cup: “First a task, then a road.”"
+    },
+    {
+      "f": "E",
+      "move": 0,
+      "text": "Our Yelena answered with a question and got it right on the third try."
+    },
+    {
+      "f": "F",
+      "move": 0,
+      "text": "An old woman knitting fog unfolded a rag that held three things: a bone comb that grows forests when thrown; a horse-hair that summons a horse of storm; a ball of red thread that knows the way. In return our Yelena received a ball of red thread that knows the way."
+    },
+    {
+      "f": "G",
+      "move": 0,
+      "text": "So Yelena came to the Copper Kingdom under the earth, having gone down a ladder of roots, deeper than the wells go."
+    },
+    {
+      "f": "H",
+      "move": 0,
+      "text": "There at the heart of the Copper Kingdom under the earth, Yelena stood before the Count, a lord made of dust and good manners. The lord challenged Yelena to a contest of riddles."
+    },
+    {
+      "f": "I",
+      "move": 0,
+      "text": "And so the Count was defeated."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "Of course Yelena found the singing apple that told the truth again."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "With the prize in her cap, the girl took the road back to a kingdom so small that the Tsar could hear every sneeze in it."
+    },
+    {
+      "f": "Pr",
+      "move": 0,
+      "text": "The Count flew after our Yelena."
+    },
+    {
+      "f": "Rs",
+      "move": 0,
+      "text": "Yelena let the red thread roll ahead, and it found the crooked path, and the lord was stuck behind it for three days."
+    },
+    {
+      "f": "o",
+      "move": 0,
+      "text": "At home nobody recognised Yelena."
+    },
+    {
+      "f": "M",
+      "move": 0,
+      "text": "The Moonmiller set a task: to sit in a red-hot bathhouse and come out cold."
+    },
+    {
+      "f": "N",
+      "move": 0,
+      "text": "With the cat’s help, the girl did it, and yawned."
+    },
+    {
+      "f": "Q",
+      "move": 0,
+      "text": "By the deed, they knew the girl at last."
+    },
+    {
+      "f": "T",
+      "move": 0,
+      "text": "Yelena bathed in the milk of a white mare and came out handsome."
+    },
+    {
+      "f": "U",
+      "move": 0,
+      "text": "The Count was made to count the crows of the kingdom, and is counting still."
+    },
+    {
+      "f": "W",
+      "move": 0,
+      "text": "The girl and the Moonmiller’s daughter ruled together, and lived long."
+    }
+  ]
+}

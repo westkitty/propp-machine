@@ -1,0 +1,126 @@
+{
+  "seed": "9",
+  "title": "The Tale of Kuzma and Count Moth",
+  "sequence": [
+    [
+      "alpha",
+      "gamma",
+      "delta",
+      "a",
+      "C",
+      "up",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "K",
+      "down",
+      "T",
+      "U",
+      "W"
+    ]
+  ],
+  "symbols": "α γ δ a C ↑ D E F G H I K ↓ T U W",
+  "choices": {
+    "donorTest": "clever",
+    "interdiction": "obey",
+    "path": "forest",
+    "gift": "hair",
+    "confront": "trick"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "Past three rivers and a rumour, in a town whose church bell rang a minute early, out of nerves, there once lived Kuzma Crookedcap, whose hat pointed always toward trouble."
+    },
+    {
+      "f": "gamma",
+      "move": 0,
+      "text": "There was a rule in that house, older than the roof: do not answer if someone calls your name from the forest. Our Kuzma nodded very seriously, and meant it."
+    },
+    {
+      "f": "delta",
+      "move": 0,
+      "text": "Of course the youngest cousin did exactly what was forbidden."
+    },
+    {
+      "f": "a",
+      "move": 0,
+      "text": "There was a gap in the world the shape of a bride who could laugh, and the Tsaritsa of Nine Rivers talked of nothing else."
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "“I will go,” said Kuzma."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "And Kuzma went, it may be near, it may be far; the tale is quick, the road is not. At the crossroads stone, Kuzma chose the road through the forest, where the trees whispered half of everything."
+    },
+    {
+      "f": "D",
+      "move": 0,
+      "text": "There sat a ferryman with no shadow at a river that had forgotten its other bank, who asked Kuzma a question."
+    },
+    {
+      "f": "E",
+      "move": 0,
+      "text": "“Ask me a harder one,” said our Kuzma, and answered."
+    },
+    {
+      "f": "F",
+      "move": 0,
+      "text": "A ferryman with no shadow opened a sack that held three things: a birch-bark flute that makes the dead dance politely; a horse-hair that summons a horse of storm; a jar of borrowed thunder. A ferryman with no shadow gave Kuzma a horse-hair that summons a horse of storm."
+    },
+    {
+      "f": "G",
+      "move": 0,
+      "text": "Then Kuzma travelled through the forest, where the trees whispered half of everything, and came to the Birch Thicket of Unfinished Sentences."
+    },
+    {
+      "f": "H",
+      "move": 0,
+      "text": "There at the heart of the Birch Thicket of Unfinished Sentences, Kuzma stood before Count Moth, a lord made of dust and good manners. Kuzma tricked the Count instead of fighting."
+    },
+    {
+      "f": "I",
+      "move": 0,
+      "text": "And so the Count was defeated."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "Then, everything that had been taken was put right."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "Then Kuzma turned back toward a town whose church bell rang a minute early, out of nerves."
+    },
+    {
+      "f": "T",
+      "move": 0,
+      "text": "A little wooden doll that ate porridge gave Kuzma new clothes."
+    },
+    {
+      "f": "U",
+      "move": 0,
+      "text": "And the Count was turned into a draughty doorway that everyone complained about."
+    },
+    {
+      "f": "W",
+      "move": 0,
+      "text": "The lad married Tsarevich Lev Pale-Hands, and there was a feast."
+    }
+  ]
+}

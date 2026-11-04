@@ -1,0 +1,187 @@
+{
+  "seed": "5",
+  "title": "The Tale of Marfa and Bonelace the Deathless",
+  "sequence": [
+    [
+      "alpha",
+      "beta",
+      "epsilon",
+      "zeta",
+      "A",
+      "B",
+      "C",
+      "up",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "K",
+      "down",
+      "Pr",
+      "Rs"
+    ],
+    [
+      "A",
+      "K",
+      "down",
+      "Pr",
+      "Rs",
+      "L",
+      "Ex",
+      "U",
+      "W"
+    ]
+  ],
+  "symbols": "α β ε ζ A B C ↑ D E F G H I K ↓ Pr Rs | A K ↓ Pr Rs L Ex U W",
+  "choices": {
+    "donorTest": "clever",
+    "path": "below",
+    "gift": "cloth",
+    "confront": "fight"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "In a kingdom so small that the Tsar could hear every sneeze in it there lived Marfa Sootfoot, who could whistle in three directions at once."
+    },
+    {
+      "f": "beta",
+      "move": 0,
+      "text": "One day the village elder with the brass ear-trumpet went away to market and did not come back for a long time."
+    },
+    {
+      "f": "epsilon",
+      "move": 0,
+      "text": "Meanwhile Bonelace the Deathless came sniffing round the house, asking questions."
+    },
+    {
+      "f": "zeta",
+      "move": 0,
+      "text": "The weathervane told the stranger everything, and Bonelace wrote it on a fingernail."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "Bonelace stole the kingdom’s last true sunrise, and every candle in the land burned blue."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "“Who will go?” cried the village elder with the brass ear-trumpet. Even the cat looked away."
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "“I have nothing better to do, and I will go,” said our Marfa."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "And Marfa set off, it may be near, it may be far; the tale is quick, the road is not. At the crossroads stone, Marfa took the road down a ladder of roots, deeper than the wells go."
+    },
+    {
+      "f": "D",
+      "move": 0,
+      "text": "A birch tree with a terrible cough in a clearing full of polite mushrooms held out a cracked cup: “Feed me, or pass on hungry yourself.”"
+    },
+    {
+      "f": "E",
+      "move": 0,
+      "text": "“Ask me a harder one,” said Marfa, and the answer was correct, which surprised everyone."
+    },
+    {
+      "f": "F",
+      "move": 0,
+      "text": "A birch tree with a terrible cough opened a sack that held three things: a handkerchief that unfolds into a lake; a horse-hair that summons a horse of storm; a jar of borrowed thunder. From under the moss, a birch tree with a terrible cough brought a handkerchief that unfolds into a lake, and the air smelled of thunder."
+    },
+    {
+      "f": "G",
+      "move": 0,
+      "text": "So our Marfa came to the Copper Kingdom under the earth, having gone down a ladder of roots, deeper than the wells go."
+    },
+    {
+      "f": "H",
+      "move": 0,
+      "text": "There at the heart of the Copper Kingdom under the earth, Marfa stood before Bonelace, a sorcerer who kept his death somewhere sensible. Marfa and Bonelace fought in the open field."
+    },
+    {
+      "f": "I",
+      "move": 0,
+      "text": "At the cock’s first crow, Bonelace burst into moths."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "Marfa found the kingdom’s last true sunrise again."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "After that, Marfa went back the way she had come."
+    },
+    {
+      "f": "Pr",
+      "move": 0,
+      "text": "Not long after, the sorcerer flew in a mortar after Marfa, shrieking."
+    },
+    {
+      "f": "Rs",
+      "move": 0,
+      "text": "When the teeth were an inch away, the skull turned her into a spoon nobody looks at."
+    },
+    {
+      "f": "A",
+      "move": 1,
+      "text": "On the way home, the Captain of Mild Courage sold the girl to a passing bear and took the prize."
+    },
+    {
+      "f": "K",
+      "move": 1,
+      "text": "With help from the skull, Marfa came back into the light, cross but whole."
+    },
+    {
+      "f": "down",
+      "move": 1,
+      "text": "Marfa walked home again, angrier than before."
+    },
+    {
+      "f": "Pr",
+      "move": 1,
+      "text": "The Captain of Mild Courage sent dogs after our Marfa."
+    },
+    {
+      "f": "Rs",
+      "move": 1,
+      "text": "A kind miller turned Marfa into a sack of flour for an afternoon."
+    },
+    {
+      "f": "L",
+      "move": 1,
+      "text": "Then, the Captain of Mild Courage claimed the deed for himself."
+    },
+    {
+      "f": "Ex",
+      "move": 1,
+      "text": "The Captain of Mild Courage tried to slip out by the scullery, but everyone had seen."
+    },
+    {
+      "f": "U",
+      "move": 1,
+      "text": "And Bonelace was made to count the crows of the kingdom, and is counting still."
+    },
+    {
+      "f": "W",
+      "move": 1,
+      "text": "Marfa married Tsarevna Lumina, and there was a feast."
+    }
+  ]
+}

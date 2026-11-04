@@ -1,0 +1,135 @@
+{
+  "seed": "37",
+  "title": "The Tale of Marfa and the Tallow King",
+  "sequence": [
+    [
+      "alpha",
+      "eta",
+      "theta",
+      "A",
+      "B",
+      "C",
+      "up",
+      "D",
+      "E",
+      "G",
+      "K",
+      "down",
+      "Pr",
+      "Rs",
+      "M",
+      "N",
+      "Q",
+      "T",
+      "U"
+    ]
+  ],
+  "symbols": "α η θ A B C ↑ D E G K ↓ Pr Rs M N Q T U",
+  "choices": {
+    "donorTest": "rude",
+    "path": "below"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "In a hut beside a river that ran uphill on Sundays there lived Marfa Sootfoot, who could whistle in three directions at once."
+    },
+    {
+      "f": "eta",
+      "move": 0,
+      "text": "In time the Tallow King forged a voice at the smithy."
+    },
+    {
+      "f": "theta",
+      "move": 0,
+      "text": "Marfa nodded, which was exactly what was wanted."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "That night the monarch, a monarch who melted a little whenever he lied, carried off Tsarevna Lumina to a palace of dripping wax."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "“Must I go myself, with my knees?” cried old father Foma. Even the cat looked away."
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "“I will go,” said the girl."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "Marfa set out along the road. Past the post with the rude carving, our Marfa took the road down a ladder of roots, deeper than the wells go."
+    },
+    {
+      "f": "D",
+      "move": 0,
+      "text": "On the way our Marfa met the Grandmother of Owls in a hut built entirely of locked doors, who said: “First, help me.”"
+    },
+    {
+      "f": "E",
+      "move": 0,
+      "text": "“Find your own crust,” said our Marfa. The Grandmother of Owls watched her go."
+    },
+    {
+      "f": "G",
+      "move": 0,
+      "text": "Marfa was led down a ladder of roots, deeper than the wells go as far as the Copper Kingdom under the earth."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "The cage swung open, and Tsarevna Lumina stepped out blinking."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "Our Marfa went home."
+    },
+    {
+      "f": "Pr",
+      "move": 0,
+      "text": "Behind came the waxen king, chasing."
+    },
+    {
+      "f": "Rs",
+      "move": 0,
+      "text": "Marfa ran faster than fear, and escaped."
+    },
+    {
+      "f": "M",
+      "move": 0,
+      "text": "As it happened, the Tsar of the Soup Kingdom tapped the table three times. “Whoever can manage this: to eat a whole oven of bread before dawn.”"
+    },
+    {
+      "f": "N",
+      "move": 0,
+      "text": "Wouldn’t you know it, Overnight the task was done, with a little left over."
+    },
+    {
+      "f": "Q",
+      "move": 0,
+      "text": "By the mark, they knew Marfa at last."
+    },
+    {
+      "f": "T",
+      "move": 0,
+      "text": "New boots appeared for Marfa."
+    },
+    {
+      "f": "U",
+      "move": 0,
+      "text": "Justice in that kingdom was strange but thorough: the waxen king was turned into a draughty doorway that everyone complained about."
+    }
+  ]
+}

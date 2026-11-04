@@ -1,0 +1,81 @@
+{
+  "seed": "36",
+  "title": "The Tale of Ivashka and Count Moth",
+  "sequence": [
+    [
+      "alpha",
+      "gamma",
+      "delta",
+      "A",
+      "C",
+      "up",
+      "K",
+      "down",
+      "U",
+      "W"
+    ]
+  ],
+  "symbols": "α γ δ A C ↑ K ↓ U W",
+  "choices": {
+    "interdiction": "disobey",
+    "path": "forest"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "Once, in a hut beside a river that ran uphill on Sundays, lived Ivashka Ninth-Son, who slept on the stove for nineteen winters."
+    },
+    {
+      "f": "gamma",
+      "move": 0,
+      "text": "“Only one thing,” said a widowed Tsar, not quite meeting his eyes: “do not let the stove go cold while I am away.” The lad said “Of course”, and began to wonder at once."
+    },
+    {
+      "f": "delta",
+      "move": 0,
+      "text": "Before the porridge cooled, Ivashka Ninth-Son broke the rule, as rules are broken."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "Three days later That night Count Moth, a lord made of dust and good manners, carried off Tsarevna Lumina to a castle where every candle was afraid."
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "“I will go,” said Ivashka."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "So the lad left home. When the road split like a lizard’s tongue, Ivashka chose the road that went through the forest, where the trees whispered half of everything."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "Before long Tsarevna Lumina was free."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "And so, the lad went back the way he had come."
+    },
+    {
+      "f": "U",
+      "move": 0,
+      "text": "The Count was made to count the crows of the kingdom, and is counting still."
+    },
+    {
+      "f": "W",
+      "move": 0,
+      "text": "Then there was a wedding."
+    }
+  ]
+}

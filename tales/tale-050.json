@@ -1,0 +1,192 @@
+{
+  "seed": "50",
+  "title": "The Tale of Tikhon and the Widow of the Well",
+  "sequence": [
+    [
+      "alpha",
+      "beta",
+      "gamma",
+      "delta",
+      "epsilon",
+      "zeta",
+      "A",
+      "B",
+      "C",
+      "up",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "J",
+      "I",
+      "K",
+      "down",
+      "Pr",
+      "Rs",
+      "L",
+      "M",
+      "N",
+      "Q",
+      "Ex",
+      "U",
+      "W"
+    ]
+  ],
+  "symbols": "α β γ δ ε ζ A B C ↑ D E F G H J I K ↓ Pr Rs L M N Q Ex U W",
+  "choices": {
+    "donorTest": "clever",
+    "interdiction": "disobey",
+    "path": "below",
+    "gift": "thread",
+    "confront": "contest"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "They still tell of Tikhon Who Counts Crows in a kingdom so small that the Tsar could hear every sneeze in it: that one, who had never once finished counting."
+    },
+    {
+      "f": "beta",
+      "move": 0,
+      "text": "One day the village elder with the brass ear-trumpet went away to market and did not come back for a long time."
+    },
+    {
+      "f": "gamma",
+      "move": 0,
+      "text": "There was a rule in that house, older than the roof: do not open the green door at the end of the passage. The lad nodded, and began to wonder at once."
+    },
+    {
+      "f": "delta",
+      "move": 0,
+      "text": "Forbidden things are heavy; Tikhon Who Counts Crows put it down in exactly the wrong place."
+    },
+    {
+      "f": "epsilon",
+      "move": 0,
+      "text": "A one-eyed stranger came asking whose child that was. It was the Widow of the Well."
+    },
+    {
+      "f": "zeta",
+      "move": 0,
+      "text": "And so the wet grey learned all that was needed."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "That night, the Widow, a wet grey woman who lived under the bucket, came down the chimney and wrapped up and took Tsarevna Lumina to the bottom of the old well."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "The village elder with the brass ear-trumpet called Tikhon and said: “Go, and bring it back.”"
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "Tikhon decided to set things right."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "And our Tikhon set off, long or short, high or low; the tale is quick, the road is not. When the road split like a lizard’s tongue, Tikhon chose the road that went down a ladder of roots, deeper than the wells go."
+    },
+    {
+      "f": "D",
+      "move": 0,
+      "text": "A drowned soldier who still kept watch beside a lake as flat as a coin barred the way: “Feed me, or pass on hungry yourself.”"
+    },
+    {
+      "f": "E",
+      "move": 0,
+      "text": "Tikhon found a clever answer."
+    },
+    {
+      "f": "F",
+      "move": 0,
+      "text": "A drowned soldier who still kept watch opened a sack that held three things: a horse-hair that summons a horse of storm; a ball of red thread that knows the way; a bone comb that grows forests when thrown. From under the moss, a drowned soldier who still kept watch brought a ball of red thread that knows the way, and the air smelled of thunder."
+    },
+    {
+      "f": "G",
+      "move": 0,
+      "text": "Our Tikhon was led down a ladder of roots, deeper than the wells go as far as the Copper Kingdom under the earth."
+    },
+    {
+      "f": "H",
+      "move": 0,
+      "text": "There at the heart of the Copper Kingdom under the earth, our Tikhon stood before the wet grey, a wet grey woman who lived under the bucket. The Widow set out a board of black and bone, and they played three rounds."
+    },
+    {
+      "f": "J",
+      "move": 0,
+      "text": "In the fight, the Widow scorched Tikhon on the palm: a mark that would matter later."
+    },
+    {
+      "f": "I",
+      "move": 0,
+      "text": "And so the Widow was defeated."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "Everything that had been taken was put right."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "Then, Whistling, which was unwise, Tikhon took the road back to a kingdom so small that the Tsar could hear every sneeze in it."
+    },
+    {
+      "f": "Pr",
+      "move": 0,
+      "text": "Then came a sound of gnawing: the Widow was following, and fast."
+    },
+    {
+      "f": "Rs",
+      "move": 0,
+      "text": "A grey wolf in spectacles carried our Tikhon away to safety."
+    },
+    {
+      "f": "L",
+      "move": 0,
+      "text": "“Who else?,” said the elder brothers Glib and Gleb, and the Tsar clapped, slowly."
+    },
+    {
+      "f": "M",
+      "move": 0,
+      "text": "The Tsar of the Soup Kingdom set a task: to sit in a red-hot bathhouse and come out cold."
+    },
+    {
+      "f": "N",
+      "move": 0,
+      "text": "Overnight the task was done, with a little left over."
+    },
+    {
+      "f": "Q",
+      "move": 0,
+      "text": "By his old crooked grin, they knew our Tikhon at last."
+    },
+    {
+      "f": "Ex",
+      "move": 0,
+      "text": "The elder brothers Glib and Gleb went red, but everyone had seen."
+    },
+    {
+      "f": "U",
+      "move": 0,
+      "text": "The wet grey was put in a barrel and rolled into the sea, which rolled her back out, ashamed."
+    },
+    {
+      "f": "W",
+      "move": 0,
+      "text": "Tikhon married Tsarevna Lumina, and there was a feast."
+    }
+  ]
+}

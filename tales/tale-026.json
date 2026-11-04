@@ -1,0 +1,101 @@
+{
+  "seed": "26",
+  "title": "The Tale of Prokop and the Widow of the Well",
+  "sequence": [
+    [
+      "alpha",
+      "beta",
+      "A",
+      "B",
+      "C",
+      "up",
+      "D",
+      "E",
+      "K"
+    ],
+    [
+      "a",
+      "K",
+      "U",
+      "W"
+    ]
+  ],
+  "symbols": "α β A B C ↑ D E K | a K U W",
+  "choices": {
+    "donorTest": "rude",
+    "path": "sea"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "They still tell of Prokop Half-Asleep in a town whose church bell rang a minute early, out of nerves: that one, who was brave only before breakfast."
+    },
+    {
+      "f": "beta",
+      "move": 0,
+      "text": "One day the hero’s grandmother went away to market and did not come back for a long time."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "The Widow of the Well, a wet grey woman who lived under the bucket, stole the singing apple that told the truth."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "The hero’s grandmother rang the cracked bell, and Prokop heard."
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "“I have nothing better to do, and I will go,” said Prokop."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "And Prokop set off, it may be near, it may be far; the tale is quick, the road is not. At the crossroads stone, our Prokop chose the road over the sea, where the fish kept diaries and the waves read them aloud."
+    },
+    {
+      "f": "D",
+      "move": 0,
+      "text": "By a fire nobody had lit, our Prokop met a birch tree with a terrible cough in a clearing full of polite mushrooms. “Do me a service,” it said, and the trees leaned in to listen."
+    },
+    {
+      "f": "E",
+      "move": 0,
+      "text": "The lad laughed and refused."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "Naturally, everything that had been taken was put right."
+    },
+    {
+      "f": "a",
+      "move": 1,
+      "text": "Far from home, Prokop met a king short of exactly one brave fool."
+    },
+    {
+      "f": "K",
+      "move": 1,
+      "text": "Somehow, our Prokop came back into the light, cross but whole."
+    },
+    {
+      "f": "U",
+      "move": 1,
+      "text": "And the wet grey was turned into a draughty doorway that everyone complained about."
+    },
+    {
+      "f": "W",
+      "move": 1,
+      "text": "The lad and Tsarevich Lev Pale-Hands were wed, and are living still, if they have not died."
+    }
+  ]
+}

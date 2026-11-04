@@ -1,0 +1,141 @@
+{
+  "seed": "1",
+  "title": "The Tale of Dunya and Grandmother Ninetoes",
+  "sequence": [
+    [
+      "alpha",
+      "epsilon",
+      "zeta",
+      "A",
+      "B",
+      "C",
+      "up",
+      "G",
+      "H",
+      "I",
+      "K",
+      "down",
+      "Pr",
+      "Rs",
+      "M",
+      "N",
+      "Q",
+      "T",
+      "U",
+      "W"
+    ]
+  ],
+  "symbols": "α ε ζ A B C ↑ G H I K ↓ Pr Rs M N Q T U W",
+  "choices": {
+    "path": "forest",
+    "confront": "contest"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "Once, in a town whose church bell rang a minute early, out of nerves, lived Dunya of the Leaky Bucket, whose bucket leaked only lies."
+    },
+    {
+      "f": "epsilon",
+      "move": 0,
+      "text": "Meanwhile Grandmother Ninetoes came sniffing round the house, asking questions."
+    },
+    {
+      "f": "zeta",
+      "move": 0,
+      "text": "And so Ninetoes learned all that was needed."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "That night Ninetoes, a witch who lived in a hut that paced like a dog, carried off the Moonmiller’s daughter to her pacing hut."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "That same week Old father Foma called our Dunya and said: “Go, and bring it back.”"
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "The girl put on her other boot and resolved to go."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "So Dunya left home. Where three ways met, Dunya took the road that went through the forest, where the trees whispered half of everything."
+    },
+    {
+      "f": "G",
+      "move": 0,
+      "text": "Then Dunya travelled through the forest, where the trees whispered half of everything, and came to the Birch Thicket of Unfinished Sentences."
+    },
+    {
+      "f": "H",
+      "move": 0,
+      "text": "At last, Dunya stood before Ninetoes, a witch who lived in a hut that paced like a dog. “Fighting is for peasants,” said Ninetoes. “Let us weigh ourselves on the great scales.”"
+    },
+    {
+      "f": "I",
+      "move": 0,
+      "text": "With a last blow, Ninetoes melted into a puddle that complained."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "Then, the Moonmiller’s daughter was free."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "And so, Dunya went back the way she had come."
+    },
+    {
+      "f": "Pr",
+      "move": 0,
+      "text": "Behind came Ninetoes, chasing."
+    },
+    {
+      "f": "Rs",
+      "move": 0,
+      "text": "A little wooden doll that ate porridge carried Dunya away to safety."
+    },
+    {
+      "f": "M",
+      "move": 0,
+      "text": "One more trial was set: to eat a whole oven of bread before dawn."
+    },
+    {
+      "f": "N",
+      "move": 0,
+      "text": "Overnight the task was done, neatly."
+    },
+    {
+      "f": "Q",
+      "move": 0,
+      "text": "By the mark, they knew Dunya at last."
+    },
+    {
+      "f": "T",
+      "move": 0,
+      "text": "Then, a little wooden doll that ate porridge gave the girl new clothes."
+    },
+    {
+      "f": "U",
+      "move": 0,
+      "text": "And the witch: Ninetoes was tied to a mule’s tail and taken to a very long sermon."
+    },
+    {
+      "f": "W",
+      "move": 0,
+      "text": "So Dunya married the Moonmiller’s daughter, and I was there, and drank mead; it ran down my beard but never reached my mouth."
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "seed": "45",
+  "title": "The Tale of Tikhon and Bonelace the Deathless",
+  "sequence": [
+    [
+      "alpha",
+      "epsilon",
+      "zeta",
+      "eta",
+      "theta",
+      "A",
+      "B",
+      "C",
+      "up",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "K",
+      "down",
+      "Pr",
+      "Rs",
+      "T",
+      "W"
+    ]
+  ],
+  "symbols": "α ε ζ η θ A B C ↑ D E F G H I K ↓ Pr Rs T W",
+  "choices": {
+    "donorTest": "clever",
+    "path": "forest",
+    "gift": "comb",
+    "confront": "contest"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "They still tell of Tikhon Who Counts Crows in a town whose church bell rang a minute early, out of nerves: that one, who had never once finished counting."
+    },
+    {
+      "f": "epsilon",
+      "move": 0,
+      "text": "Under the window, Bonelace the Deathless counted the family twice."
+    },
+    {
+      "f": "zeta",
+      "move": 0,
+      "text": "Well, the youngest cousin could not keep a secret, and the sorcerer wrote it on a fingernail."
+    },
+    {
+      "f": "eta",
+      "move": 0,
+      "text": "Bonelace forged a voice at the smithy."
+    },
+    {
+      "f": "theta",
+      "move": 0,
+      "text": "Tikhon said yes, which was exactly what was wanted."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "When the dogs fell silent, the sorcerer, a sorcerer who kept his death somewhere sensible, swept in and snatched away Princess Vasilka the Unhurried to a fortress stitched from bones."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "Wouldn’t you know it, a widowed Tsar called our Tikhon and said: “Go, and bring it back.”"
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "“Give me a crust and a blessing, and I will go,” said the lad."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "So our Tikhon left home. At the crossroads stone, Tikhon chose the road that went through the forest, where the trees whispered half of everything."
+    },
+    {
+      "f": "D",
+      "move": 0,
+      "text": "By a fire nobody had lit, Tikhon met a hedgehog wearing a bishop’s hat under a cart that had no wheels. “Do me a service,” it said, and its eyes were very old."
+    },
+    {
+      "f": "E",
+      "move": 0,
+      "text": "“That one is easy,” said Tikhon, and the answer was correct, which surprised everyone."
+    },
+    {
+      "f": "F",
+      "move": 0,
+      "text": "A hedgehog wearing a bishop’s hat opened a sack that held three things: a handkerchief that unfolds into a lake; a bone comb that grows forests when thrown; a ball of red thread that knows the way. A hedgehog wearing a bishop’s hat coughed up, rather damply a bone comb that grows forests when thrown. “Use it once.”"
+    },
+    {
+      "f": "G",
+      "move": 0,
+      "text": "Then the lad travelled through the forest, where the trees whispered half of everything, and came to the Birch Thicket of Unfinished Sentences."
+    },
+    {
+      "f": "H",
+      "move": 0,
+      "text": "There at the heart of the Birch Thicket of Unfinished Sentences, Tikhon stood before the sorcerer, a sorcerer who kept his death somewhere sensible. Bonelace challenged Tikhon to a contest of riddles."
+    },
+    {
+      "f": "I",
+      "move": 0,
+      "text": "And so Bonelace was defeated."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "The sunrise was let out of its sack, and Princess Vasilka the Unhurried was free."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "Then, the lad came home by the short road, which is never short."
+    },
+    {
+      "f": "Pr",
+      "move": 0,
+      "text": "Bonelace flew after the lad."
+    },
+    {
+      "f": "Rs",
+      "move": 0,
+      "text": "Tikhon flung the comb, and a forest sprang up thick as a brush, and escaped."
+    },
+    {
+      "f": "T",
+      "move": 0,
+      "text": "A grey wolf in spectacles gave Tikhon new clothes."
+    },
+    {
+      "f": "W",
+      "move": 0,
+      "text": "Then there was a wedding."
+    }
+  ]
+}

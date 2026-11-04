@@ -1,0 +1,141 @@
+{
+  "seed": "13",
+  "title": "The Tale of Marfa and Old Hungry Mist",
+  "sequence": [
+    [
+      "alpha",
+      "beta",
+      "epsilon",
+      "zeta",
+      "A",
+      "B",
+      "C",
+      "up",
+      "D",
+      "E",
+      "G",
+      "K",
+      "down",
+      "Pr",
+      "Rs",
+      "o",
+      "L",
+      "Ex",
+      "U",
+      "W"
+    ]
+  ],
+  "symbols": "α β ε ζ A B C ↑ D E G K ↓ Pr Rs o L Ex U W",
+  "choices": {
+    "donorTest": "rude",
+    "path": "sea"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "Once, in a kingdom so small that the Tsar could hear every sneeze in it, lived Marfa Sootfoot, who could whistle in three directions at once."
+    },
+    {
+      "f": "beta",
+      "move": 0,
+      "text": "On the eve of the fair, the village elder with the brass ear-trumpet packed three onions and a prayer and went away, and the house felt watched."
+    },
+    {
+      "f": "epsilon",
+      "move": 0,
+      "text": "Three days later a one-eyed stranger came asking whose child that was. It was Old Hungry Mist."
+    },
+    {
+      "f": "zeta",
+      "move": 0,
+      "text": "A chattering neighbour told the Mist everything."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "Not long after, That night, the fog, a fog with teeth and an appetite for names, came down the chimney and snatched away Tsarevna Lumina to the marsh where the road gave up."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "“Is there anyone not busy?” cried the village elder with the brass ear-trumpet. Only Marfa stood up."
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "“I have nothing better to do, and I will go,” said Marfa."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "Marfa set out along the road. When the road split like a lizard’s tongue, Marfa took the road over the sea, where the fish kept diaries and the waves read them aloud."
+    },
+    {
+      "f": "D",
+      "move": 0,
+      "text": "There sat a drowned soldier who still kept watch beside a lake as flat as a coin, who asked the girl a question."
+    },
+    {
+      "f": "E",
+      "move": 0,
+      "text": "“Find your own crust,” said Marfa. A drowned soldier who still kept watch said nothing, which was worse."
+    },
+    {
+      "f": "G",
+      "move": 0,
+      "text": "Marfa was led over the sea, where the fish kept diaries and the waves read them aloud as far as the Thrice-Tenth Sea."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "The cage swung open, and Tsarevna Lumina stepped out blinking."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "Then, our Marfa went back the way she had come."
+    },
+    {
+      "f": "Pr",
+      "move": 0,
+      "text": "Behind came the fog, chasing."
+    },
+    {
+      "f": "Rs",
+      "move": 0,
+      "text": "A talkative skull with lantern eyes carried the girl away to safety."
+    },
+    {
+      "f": "o",
+      "move": 0,
+      "text": "Marfa arrived home, but nobody knew her."
+    },
+    {
+      "f": "L",
+      "move": 0,
+      "text": "The Captain of Mild Courage claimed the deed for himself."
+    },
+    {
+      "f": "Ex",
+      "move": 0,
+      "text": "The lie of the Captain of Mild Courage came out."
+    },
+    {
+      "f": "U",
+      "move": 0,
+      "text": "And the Mist was turned into a draughty doorway that everyone complained about."
+    },
+    {
+      "f": "W",
+      "move": 0,
+      "text": "There was a wedding, and the bells were rung so hard that one ran away."
+    }
+  ]
+}

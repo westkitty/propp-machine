@@ -1,0 +1,198 @@
+{
+  "seed": "42",
+  "title": "The Tale of Agafya and Bonelace the Deathless",
+  "sequence": [
+    [
+      "alpha",
+      "beta",
+      "epsilon",
+      "zeta",
+      "a",
+      "C",
+      "up",
+      "D",
+      "E",
+      "F",
+      "G",
+      "K",
+      "down",
+      "Pr",
+      "Rs"
+    ],
+    [
+      "A",
+      "G",
+      "K",
+      "down",
+      "Pr",
+      "Rs",
+      "o",
+      "L",
+      "M",
+      "N",
+      "Q",
+      "Ex",
+      "U",
+      "W"
+    ]
+  ],
+  "symbols": "α β ε ζ a C ↑ D E F G K ↓ Pr Rs | A G K ↓ Pr Rs o L M N Q Ex U W",
+  "choices": {
+    "donorTest": "kind",
+    "path": "forest",
+    "gift": "comb"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "Nobody in a hut beside a river that ran uphill on Sundays expected much of Agafya Last-of-Eleven, whom nobody remembered to name until she was six; the cat least of all."
+    },
+    {
+      "f": "beta",
+      "move": 0,
+      "text": "One day the hero’s grandmother went away to market and did not come back for a long time."
+    },
+    {
+      "f": "epsilon",
+      "move": 0,
+      "text": "Under the window, Bonelace the Deathless counted the family twice."
+    },
+    {
+      "f": "zeta",
+      "move": 0,
+      "text": "Then, a chattering neighbour told Bonelace everything."
+    },
+    {
+      "f": "a",
+      "move": 0,
+      "text": "“Lacking a feather of the Ember-Bird,” sighed the Tsaritsa of Nine Rivers, “we may as well eat the furniture.”"
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "The girl tightened her belt and resolved to go."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "The girl set out along the road. Where three ways met, Agafya took the road through the forest, where the trees whispered half of everything."
+    },
+    {
+      "f": "D",
+      "move": 0,
+      "text": "There sat a ferryman with no shadow at a river that had forgotten its other bank, who asked our Agafya a question."
+    },
+    {
+      "f": "E",
+      "move": 0,
+      "text": "Being kind, the girl bowed low."
+    },
+    {
+      "f": "F",
+      "move": 0,
+      "text": "A ferryman with no shadow unfolded a rag that held three things: a bone comb that grows forests when thrown; boots that walk only forward; a birch-bark flute that makes the dead dance politely. Out of a knot in the wood, a ferryman with no shadow brought a bone comb that grows forests when thrown, and somewhere a bell rang."
+    },
+    {
+      "f": "G",
+      "move": 0,
+      "text": "Our Agafya was led through the forest, where the trees whispered half of everything as far as the Birch Thicket of Unfinished Sentences."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "By the cat’s help, the girl won back a feather of the Ember-Bird."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "With the prize in her cap, our Agafya took the road back to a hut beside a river that ran uphill on Sundays."
+    },
+    {
+      "f": "Pr",
+      "move": 0,
+      "text": "Bonelace flew in a mortar after the girl, shrieking."
+    },
+    {
+      "f": "Rs",
+      "move": 0,
+      "text": "Just in time, the cat hid her in a cuckoo’s egg."
+    },
+    {
+      "f": "A",
+      "move": 1,
+      "text": "Within sight of the roofs of home, the elder brothers Glib and Gleb sold Agafya to a passing bear and went home with the credit."
+    },
+    {
+      "f": "G",
+      "move": 1,
+      "text": "A stray thread of the road led the girl on."
+    },
+    {
+      "f": "K",
+      "move": 1,
+      "text": "With help from the cat, Agafya climbed free, thinner but alive."
+    },
+    {
+      "f": "down",
+      "move": 1,
+      "text": "The girl came home a second time."
+    },
+    {
+      "f": "Pr",
+      "move": 1,
+      "text": "The elder brothers Glib and Gleb sent dogs after Agafya."
+    },
+    {
+      "f": "Rs",
+      "move": 1,
+      "text": "The girl hid in a haystack until the dogs grew bored."
+    },
+    {
+      "f": "o",
+      "move": 1,
+      "text": "Agafya came back in rags, and nobody knew her."
+    },
+    {
+      "f": "L",
+      "move": 1,
+      "text": "“It was us,” said the elder brothers Glib and Gleb, and the court believed it."
+    },
+    {
+      "f": "M",
+      "move": 1,
+      "text": "The court demanded proof: to answer a riddle that had no right answer."
+    },
+    {
+      "f": "N",
+      "move": 1,
+      "text": "Before the candle was half gone the task was done, neatly."
+    },
+    {
+      "f": "Q",
+      "move": 1,
+      "text": "Tsarevich Lev Pale-Hands looked twice and cried, “This is the one!”"
+    },
+    {
+      "f": "Ex",
+      "move": 1,
+      "text": "The lie fell over by itself: the elder brothers Glib and Gleb had done nothing at all."
+    },
+    {
+      "f": "U",
+      "move": 1,
+      "text": "And the sorcerer was made to count the crows of the kingdom, and is counting still."
+    },
+    {
+      "f": "W",
+      "move": 1,
+      "text": "Then there was a wedding."
+    }
+  ]
+}

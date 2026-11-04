@@ -1,0 +1,113 @@
+{
+  "seed": "25",
+  "title": "The Tale of Tikhon and the Widow of the Well",
+  "sequence": [
+    [
+      "alpha",
+      "beta",
+      "a",
+      "B",
+      "C",
+      "up",
+      "D",
+      "E",
+      "F",
+      "H",
+      "I",
+      "K",
+      "down",
+      "U",
+      "W"
+    ]
+  ],
+  "symbols": "α β a B C ↑ D E F H I K ↓ U W",
+  "choices": {
+    "donorTest": "kind",
+    "path": "below",
+    "gift": "comb",
+    "confront": "contest"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "They still tell of Tikhon Who Counts Crows in a kingdom so small that the Tsar could hear every sneeze in it: that one, who had never once finished counting."
+    },
+    {
+      "f": "beta",
+      "move": 0,
+      "text": "One day the hero’s grandmother went away to market and did not come back for a long time."
+    },
+    {
+      "f": "a",
+      "move": 0,
+      "text": "Now King Barley the Bald longed for the kingdom’s last true sunrise, and grew thin with longing."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "“Must I go myself, with my knees?” cried the hero’s grandmother. Only Tikhon stood up."
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "The lad tightened his belt and resolved to try."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "With the crows for company, the lad went where his feet pointed. When the road split like a lizard’s tongue, the lad took the road that went down a ladder of roots, deeper than the wells go."
+    },
+    {
+      "f": "D",
+      "move": 0,
+      "text": "There sat the Grandmother of Owls in a hut built entirely of locked doors, who asked Tikhon a question."
+    },
+    {
+      "f": "E",
+      "move": 0,
+      "text": "Being polite, Tikhon bowed low."
+    },
+    {
+      "f": "F",
+      "move": 0,
+      "text": "The Grandmother of Owls opened a sack that held three things: a handkerchief that unfolds into a lake; a bone comb that grows forests when thrown; boots that walk only forward. In return our Tikhon received a bone comb that grows forests when thrown."
+    },
+    {
+      "f": "H",
+      "move": 0,
+      "text": "There at the heart of the Copper Kingdom under the earth, Tikhon stood before the Widow of the Well, a wet grey woman who lived under the bucket. Then, the Widow proposed a contest."
+    },
+    {
+      "f": "I",
+      "move": 0,
+      "text": "And so the Widow was defeated."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "By the gift’s doing, Tikhon won back the kingdom’s last true sunrise."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "Then Tikhon turned back toward a kingdom so small that the Tsar could hear every sneeze in it."
+    },
+    {
+      "f": "U",
+      "move": 0,
+      "text": "Justice in that kingdom was strange but thorough: the Widow was put in a barrel and rolled into the sea, which rolled her back out, ashamed."
+    },
+    {
+      "f": "W",
+      "move": 0,
+      "text": "Naturally, the lad married Princess Vasilka the Unhurried, and there was a feast."
+    }
+  ]
+}

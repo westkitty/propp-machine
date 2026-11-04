@@ -1,0 +1,192 @@
+{
+  "seed": "2",
+  "title": "The Tale of Agafya and Zmei Pickleback",
+  "sequence": [
+    [
+      "alpha",
+      "gamma",
+      "delta",
+      "eta",
+      "theta",
+      "A",
+      "B",
+      "C",
+      "up",
+      "G",
+      "H",
+      "I",
+      "K",
+      "down",
+      "Pr",
+      "Rs"
+    ],
+    [
+      "A",
+      "D",
+      "E",
+      "F",
+      "G",
+      "K",
+      "o",
+      "M",
+      "N",
+      "Q",
+      "T",
+      "W"
+    ]
+  ],
+  "symbols": "α γ δ η θ A B C ↑ G H I K ↓ Pr Rs | A D E F G K o M N Q T W",
+  "choices": {
+    "interdiction": "obey",
+    "path": "below",
+    "confront": "trick"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "In a village where the rooster crowed backwards there lived Agafya Last-of-Eleven, whom nobody remembered to name until she was six."
+    },
+    {
+      "f": "gamma",
+      "move": 0,
+      "text": "“Only one thing,” said the village elder with the brass ear-trumpet, not quite meeting her eyes: “do not answer if someone calls your name from the forest.” Agafya nodded very seriously, and meant it."
+    },
+    {
+      "f": "delta",
+      "move": 0,
+      "text": "Within the hour, the youngest cousin forgot, then remembered, then did it on purpose."
+    },
+    {
+      "f": "eta",
+      "move": 0,
+      "text": "“Little dove,” said Zmei Pickleback, wearing a grandmother’s voice like a shawl, “take a bite.”"
+    },
+    {
+      "f": "theta",
+      "move": 0,
+      "text": "The girl believed every word."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "Then, That night Pickleback, a salt-green serpent with three heads and one opinion, carried off Tsarevich Lev Pale-Hands to a cave that smelled of brine."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "Now the village elder with the brass ear-trumpet rang the cracked bell, and it was our Agafya who answered."
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "Agafya decided to set things right."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "The girl set out along the road. Where three ways met, the girl took the road down a ladder of roots, deeper than the wells go."
+    },
+    {
+      "f": "G",
+      "move": 0,
+      "text": "Riding the wind’s spare horse, Agafya went down a ladder of roots, deeper than the wells go, until the road ran out at the Copper Kingdom under the earth."
+    },
+    {
+      "f": "H",
+      "move": 0,
+      "text": "There at the heart of the Copper Kingdom under the earth, Agafya stood before the salt-green serpent, a salt-green serpent with three heads and one opinion. Agafya played a trick on Pickleback."
+    },
+    {
+      "f": "I",
+      "move": 0,
+      "text": "Pickleback was beaten fair, which was the bitter part, and went to pieces, quite literally."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "As it happened, the cage swung open, and Tsarevich Lev Pale-Hands stepped out blinking."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "Meanwhile, Agafya went home."
+    },
+    {
+      "f": "Pr",
+      "move": 0,
+      "text": "Three days later the salt-green serpent flew after the girl."
+    },
+    {
+      "f": "Rs",
+      "move": 0,
+      "text": "A goose who used to be a judge carried the girl away to safety."
+    },
+    {
+      "f": "A",
+      "move": 1,
+      "text": "Within sight of the roofs of home, Cousin Smarm the water-carrier cut the rope and left Agafya in the pit and took the prize."
+    },
+    {
+      "f": "D",
+      "move": 1,
+      "text": "On the way Agafya met a birch tree with a terrible cough in a clearing full of polite mushrooms, who said: “First, help me.”"
+    },
+    {
+      "f": "E",
+      "move": 1,
+      "text": "Agafya helped without complaint."
+    },
+    {
+      "f": "F",
+      "move": 1,
+      "text": "A birch tree with a terrible cough unfolded a rag that held three things: a horse-hair that summons a horse of storm; a bone comb that grows forests when thrown; boots that walk only forward. Then, a birch tree with a terrible cough gave Agafya a horse-hair that summons a horse of storm."
+    },
+    {
+      "f": "G",
+      "move": 1,
+      "text": "A stray thread of the road led Agafya on."
+    },
+    {
+      "f": "K",
+      "move": 1,
+      "text": "Up out of the dark, the girl climbed free, thinner but alive."
+    },
+    {
+      "f": "o",
+      "move": 1,
+      "text": "Before long the girl arrived home, but nobody knew her."
+    },
+    {
+      "f": "M",
+      "move": 1,
+      "text": "The Tsaritsa of Nine Rivers set a task: to find which of twelve identical doves was the princess."
+    },
+    {
+      "f": "N",
+      "move": 1,
+      "text": "Before the candle was half gone the task was done, neatly."
+    },
+    {
+      "f": "Q",
+      "move": 1,
+      "text": "Tsarevich Lev Pale-Hands saw the mark and cried, “It is you!”"
+    },
+    {
+      "f": "T",
+      "move": 1,
+      "text": "Agafya bathed in the milk of a white mare and came out glowing like a new kopeck."
+    },
+    {
+      "f": "W",
+      "move": 1,
+      "text": "Agafya married Tsarevich Lev Pale-Hands, and there was a feast."
+    }
+  ]
+}

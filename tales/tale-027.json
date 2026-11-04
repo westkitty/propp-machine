@@ -1,0 +1,194 @@
+{
+  "seed": "27",
+  "title": "The Tale of Agafya and the Tallow King",
+  "sequence": [
+    [
+      "alpha",
+      "beta",
+      "gamma",
+      "delta",
+      "epsilon",
+      "zeta",
+      "A",
+      "B",
+      "C",
+      "up",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "K",
+      "down",
+      "Pr",
+      "Rs"
+    ],
+    [
+      "A",
+      "K",
+      "L",
+      "M",
+      "N",
+      "Q",
+      "Ex",
+      "W"
+    ]
+  ],
+  "symbols": "α β γ δ ε ζ A B C ↑ D E F G H I K ↓ Pr Rs | A K L M N Q Ex W",
+  "choices": {
+    "donorTest": "clever",
+    "interdiction": "disobey",
+    "path": "below",
+    "gift": "comb",
+    "confront": "contest"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "Once, in a hut beside a river that ran uphill on Sundays, lived Agafya Last-of-Eleven, whom nobody remembered to name until she was six."
+    },
+    {
+      "f": "beta",
+      "move": 0,
+      "text": "Then the village elder with the brass ear-trumpet went off to sell a cow and a silence, and Agafya was left in charge."
+    },
+    {
+      "f": "gamma",
+      "move": 0,
+      "text": "The village elder with the brass ear-trumpet pinned a note to the door: do not open the green door at the end of the passage. Agafya said “Of course”, and began to wonder at once."
+    },
+    {
+      "f": "delta",
+      "move": 0,
+      "text": "By the third day, Agafya Last-of-Eleven broke the rule, as rules are broken."
+    },
+    {
+      "f": "epsilon",
+      "move": 0,
+      "text": "At dusk, the Tallow King asked the wind where the precious things were kept."
+    },
+    {
+      "f": "zeta",
+      "move": 0,
+      "text": "A chattering neighbour told the monarch everything."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "Then the waxen king came and stole a bride who could laugh, and the whole land went dim."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "The village elder with the brass ear-trumpet rang the cracked bell, and it was the girl who answered."
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "Agafya decided to set things right."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "At dawn, Agafya took the road. Past the post with the rude carving, Agafya chose the road down a ladder of roots, deeper than the wells go."
+    },
+    {
+      "f": "D",
+      "move": 0,
+      "text": "On the way Agafya met an old woman knitting fog on a stump at the edge of the road, who said: “First, help me.”"
+    },
+    {
+      "f": "E",
+      "move": 0,
+      "text": "“Ask me a harder one,” said our Agafya, and answered."
+    },
+    {
+      "f": "F",
+      "move": 0,
+      "text": "An old woman knitting fog unfolded a rag that held three things: a jar of borrowed thunder; a horse-hair that summons a horse of storm; a bone comb that grows forests when thrown. Three days later an old woman knitting fog pulled from a sleeve a bone comb that grows forests when thrown. “Use it once.”"
+    },
+    {
+      "f": "G",
+      "move": 0,
+      "text": "So Agafya came to the Copper Kingdom under the earth, led down a ladder of roots, deeper than the wells go."
+    },
+    {
+      "f": "H",
+      "move": 0,
+      "text": "At last, the girl stood before the waxen king, a monarch who melted a little whenever he lied. Wouldn’t you know it, the waxen king proposed a contest."
+    },
+    {
+      "f": "I",
+      "move": 0,
+      "text": "And so the monarch was defeated."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "Then, Agafya found a bride who could laugh again."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "Then Agafya turned back toward a hut beside a river that ran uphill on Sundays."
+    },
+    {
+      "f": "Pr",
+      "move": 0,
+      "text": "The waxen king scuttled on a hundred borrowed legs after Agafya, shrieking."
+    },
+    {
+      "f": "Rs",
+      "move": 0,
+      "text": "Three days later a little wooden doll that ate porridge carried the girl away to safety."
+    },
+    {
+      "f": "A",
+      "move": 1,
+      "text": "Within sight of the roofs of home, a general with polished boots and no battles pushed Agafya down a well and went home with the credit."
+    },
+    {
+      "f": "K",
+      "move": 1,
+      "text": "Up out of the dark, Agafya came back into the light, cross but whole."
+    },
+    {
+      "f": "L",
+      "move": 1,
+      "text": "“It was us,” said a general with polished boots and no battles, and the Tsar clapped, slowly."
+    },
+    {
+      "f": "M",
+      "move": 1,
+      "text": "There was one more task: to answer a riddle that had no right answer."
+    },
+    {
+      "f": "N",
+      "move": 1,
+      "text": "Before the candle was half gone the task was done, neatly."
+    },
+    {
+      "f": "Q",
+      "move": 1,
+      "text": "Now everyone recognised Agafya at last."
+    },
+    {
+      "f": "Ex",
+      "move": 1,
+      "text": "The lie fell over by itself: a general with polished boots and no battles had done nothing at all."
+    },
+    {
+      "f": "W",
+      "move": 1,
+      "text": "Then there was a wedding."
+    }
+  ]
+}

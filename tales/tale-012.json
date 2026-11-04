@@ -1,0 +1,171 @@
+{
+  "seed": "12",
+  "title": "The Tale of Dunya and Grandmother Ninetoes",
+  "sequence": [
+    [
+      "alpha",
+      "epsilon",
+      "zeta",
+      "eta",
+      "theta",
+      "A",
+      "B",
+      "C",
+      "up",
+      "G",
+      "H",
+      "J",
+      "I",
+      "K",
+      "down",
+      "Pr",
+      "Rs",
+      "L",
+      "M",
+      "N",
+      "Q",
+      "Ex",
+      "T",
+      "U",
+      "W"
+    ]
+  ],
+  "symbols": "α ε ζ η θ A B C ↑ G H J I K ↓ Pr Rs L M N Q Ex T U W",
+  "choices": {
+    "path": "below",
+    "confront": "trick"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "Nobody in a town whose church bell rang a minute early, out of nerves expected much of Dunya of the Leaky Bucket, whose bucket leaked only lies; the neighbours even less."
+    },
+    {
+      "f": "epsilon",
+      "move": 0,
+      "text": "Under the window, Grandmother Ninetoes counted the family twice."
+    },
+    {
+      "f": "zeta",
+      "move": 0,
+      "text": "And so Ninetoes learned all that was needed."
+    },
+    {
+      "f": "eta",
+      "move": 0,
+      "text": "Ninetoes put on a kindly face and a borrowed voice."
+    },
+    {
+      "f": "theta",
+      "move": 0,
+      "text": "Our Dunya nodded, which was exactly what was wanted."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "The witch stole the egg in which a certain death was kept, and the cows gave sour milk."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "The news went round, and at last it reached Dunya."
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "“I will go,” said Dunya."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "So Dunya left home. At the crossroads stone, Dunya took the road down a ladder of roots, deeper than the wells go."
+    },
+    {
+      "f": "G",
+      "move": 0,
+      "text": "Following a hare that was not a hare, Dunya went down a ladder of roots, deeper than the wells go, until the stars changed at the Copper Kingdom under the earth."
+    },
+    {
+      "f": "H",
+      "move": 0,
+      "text": "There at the heart of the Copper Kingdom under the earth, Dunya stood before Ninetoes, a witch who lived in a hut that paced like a dog. Our Dunya tricked Ninetoes instead of fighting."
+    },
+    {
+      "f": "J",
+      "move": 0,
+      "text": "In the struggle Dunya was marked on the cheek."
+    },
+    {
+      "f": "I",
+      "move": 0,
+      "text": "With a sound like a wet bell, Ninetoes was undone."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "By sheer stubbornness’s help, Dunya won back the egg in which a certain death was kept."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "With the prize in her cap, the girl took the road back to a town whose church bell rang a minute early, out of nerves."
+    },
+    {
+      "f": "Pr",
+      "move": 0,
+      "text": "Ninetoes flew after Dunya."
+    },
+    {
+      "f": "Rs",
+      "move": 0,
+      "text": "At the last breath, sheer stubbornness hid her in a cuckoo’s egg."
+    },
+    {
+      "f": "L",
+      "move": 0,
+      "text": "Wouldn’t you know it, Cousin Smarm the water-carrier claimed the deed for himself."
+    },
+    {
+      "f": "M",
+      "move": 0,
+      "text": "King Barley the Bald set a task: to answer a riddle that had no right answer."
+    },
+    {
+      "f": "N",
+      "move": 0,
+      "text": "The task was done by morning."
+    },
+    {
+      "f": "Q",
+      "move": 0,
+      "text": "By her old crooked grin, they knew our Dunya at last."
+    },
+    {
+      "f": "Ex",
+      "move": 0,
+      "text": "Cousin Smarm the water-carrier was exposed."
+    },
+    {
+      "f": "T",
+      "move": 0,
+      "text": "A cat with nine lives, six already spent gave Dunya new clothes."
+    },
+    {
+      "f": "U",
+      "move": 0,
+      "text": "Justice in that kingdom was strange but thorough: Ninetoes was put in a barrel and rolled into the sea, which rolled her back out, ashamed."
+    },
+    {
+      "f": "W",
+      "move": 0,
+      "text": "Dunya married Princess Vasilka the Unhurried, and there was a feast."
+    }
+  ]
+}

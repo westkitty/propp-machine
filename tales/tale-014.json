@@ -1,0 +1,167 @@
+{
+  "seed": "14",
+  "title": "The Tale of Yelena and Old Hungry Mist",
+  "sequence": [
+    [
+      "alpha",
+      "beta",
+      "epsilon",
+      "zeta",
+      "A",
+      "B",
+      "C",
+      "up",
+      "G",
+      "H",
+      "J",
+      "I",
+      "K",
+      "down"
+    ],
+    [
+      "A",
+      "K",
+      "down",
+      "Pr",
+      "Rs",
+      "M",
+      "N",
+      "Q",
+      "U",
+      "W"
+    ]
+  ],
+  "symbols": "α β ε ζ A B C ↑ G H J I K ↓ | A K ↓ Pr Rs M N Q U W",
+  "choices": {
+    "path": "forest",
+    "confront": "fight"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "Once, in a village where the rooster crowed backwards, lived Yelena Thimble-Eyes, who could see a needle think."
+    },
+    {
+      "f": "beta",
+      "move": 0,
+      "text": "At first frost, old father Foma packed three onions and a prayer and went away, and the house felt hollow."
+    },
+    {
+      "f": "epsilon",
+      "move": 0,
+      "text": "Meanwhile Old Hungry Mist came sniffing round the house, asking questions."
+    },
+    {
+      "f": "zeta",
+      "move": 0,
+      "text": "What one hears at a keyhole is soon known in a lair: the fog learned it all."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "Then the Mist came and took the Moonmiller’s daughter away."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "Old father Foma rang the cracked bell, and it was Yelena who answered."
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "Yelena said a short rude prayer and resolved to try."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "Yelena set out along the road. Where three ways met, our Yelena took the road that went through the forest, where the trees whispered half of everything."
+    },
+    {
+      "f": "G",
+      "move": 0,
+      "text": "So our Yelena came to the Birch Thicket of Unfinished Sentences, led through the forest, where the trees whispered half of everything."
+    },
+    {
+      "f": "H",
+      "move": 0,
+      "text": "At last, the girl stood before the Mist, a fog with teeth and an appetite for names. The girl and the Mist fought in the open field."
+    },
+    {
+      "f": "J",
+      "move": 0,
+      "text": "The Moonmiller’s daughter pressed a ring into her hand. “So I will know you.”"
+    },
+    {
+      "f": "I",
+      "move": 0,
+      "text": "At the cock’s first crow, the Mist was undone."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "Everything that had been taken was put right."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "Then our Yelena turned back toward a village where the rooster crowed backwards."
+    },
+    {
+      "f": "A",
+      "move": 1,
+      "text": "Within sight of the roofs of home, a general with polished boots and no battles sold Yelena to a passing bear and took the prize."
+    },
+    {
+      "f": "K",
+      "move": 1,
+      "text": "Somehow, Yelena came back into the light, thinner but alive."
+    },
+    {
+      "f": "down",
+      "move": 1,
+      "text": "Yelena walked home again, angrier than before."
+    },
+    {
+      "f": "Pr",
+      "move": 1,
+      "text": "A general with polished boots and no battles sent dogs after Yelena."
+    },
+    {
+      "f": "Rs",
+      "move": 1,
+      "text": "Yelena hid in a haystack until the dogs grew bored."
+    },
+    {
+      "f": "M",
+      "move": 1,
+      "text": "One more trial was set: to eat a whole oven of bread before dawn."
+    },
+    {
+      "f": "N",
+      "move": 1,
+      "text": "With sheer stubbornness’s help, Yelena did it before the cock crowed."
+    },
+    {
+      "f": "Q",
+      "move": 1,
+      "text": "Then the Moonmiller’s daughter recognised Yelena."
+    },
+    {
+      "f": "U",
+      "move": 1,
+      "text": "Justice in that kingdom was strange but thorough: the Mist was put in a barrel and rolled into the sea, which rolled him back out, ashamed."
+    },
+    {
+      "f": "W",
+      "move": 1,
+      "text": "Then there was a wedding."
+    }
+  ]
+}

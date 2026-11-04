@@ -1,0 +1,137 @@
+{
+  "seed": "31",
+  "title": "The Tale of Olya and the Widow of the Well",
+  "sequence": [
+    [
+      "alpha",
+      "beta",
+      "eta",
+      "theta",
+      "A",
+      "B",
+      "C",
+      "up",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "K",
+      "down",
+      "Pr",
+      "Rs",
+      "W"
+    ]
+  ],
+  "symbols": "α β η θ A B C ↑ D E F G H I K ↓ Pr Rs W",
+  "choices": {
+    "donorTest": "kind",
+    "path": "forest",
+    "gift": "flute",
+    "confront": "trick"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "In a hut beside a river that ran uphill on Sundays there lived Olya Ashpocket, who kept a live coal in her apron for luck."
+    },
+    {
+      "f": "beta",
+      "move": 0,
+      "text": "At first frost, the hero’s grandmother took a staff and went away, and the house felt watched."
+    },
+    {
+      "f": "eta",
+      "move": 0,
+      "text": "“Kind soul,” said the Widow of the Well, wearing a grandmother’s voice like a shawl, “open the door.”"
+    },
+    {
+      "f": "theta",
+      "move": 0,
+      "text": "That same week Our Olya yawned, which was exactly what was wanted."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "The wet grey, a wet grey woman who lived under the bucket, stole the kingdom’s last true sunrise."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "Now the hero’s grandmother called Olya and said: “Go, and bring it back.”"
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "Our Olya decided to set things right."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "Meanwhile, Olya set out along the road. When the road split like a lizard’s tongue, the girl took the road through the forest, where the trees whispered half of everything."
+    },
+    {
+      "f": "D",
+      "move": 0,
+      "text": "By a fire nobody had lit, Olya met a birch tree with a terrible cough in a clearing full of polite mushrooms. “Do me a service,” it said, and its eyes were very old."
+    },
+    {
+      "f": "E",
+      "move": 0,
+      "text": "Not long after, Olya helped without complaint."
+    },
+    {
+      "f": "F",
+      "move": 0,
+      "text": "A birch tree with a terrible cough unfolded a rag that held three things: a birch-bark flute that makes the dead dance politely; boots that walk only forward; a horse-hair that summons a horse of storm. From under the moss, a birch tree with a terrible cough brought a birch-bark flute that makes the dead dance politely, and the air smelled of thunder."
+    },
+    {
+      "f": "G",
+      "move": 0,
+      "text": "Riding the wind’s spare horse, our Olya went through the forest, where the trees whispered half of everything, until the road ran out at the Birch Thicket of Unfinished Sentences."
+    },
+    {
+      "f": "H",
+      "move": 0,
+      "text": "At last, the girl stood before the Widow, a wet grey woman who lived under the bucket. The girl mended the villain’s shadow badly on purpose, and the Widow fell for it."
+    },
+    {
+      "f": "I",
+      "move": 0,
+      "text": "The Widow was beaten."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "Olya found the kingdom’s last true sunrise again."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "The girl went home."
+    },
+    {
+      "f": "Pr",
+      "move": 0,
+      "text": "The Widow scuttled on a hundred borrowed legs after our Olya, singing a lullaby, which was worse."
+    },
+    {
+      "f": "Rs",
+      "move": 0,
+      "text": "A grey wolf in spectacles carried Olya away to safety."
+    },
+    {
+      "f": "W",
+      "move": 0,
+      "text": "So our Olya married the Moonmiller’s daughter, and the bells were rung so hard that one ran away."
+    }
+  ]
+}

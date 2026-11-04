@@ -1,0 +1,149 @@
+{
+  "seed": "35",
+  "title": "The Tale of Savva and Bonelace the Deathless",
+  "sequence": [
+    [
+      "alpha",
+      "A",
+      "B",
+      "C",
+      "up",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "J",
+      "I",
+      "K",
+      "down",
+      "L",
+      "M",
+      "N",
+      "Q",
+      "Ex",
+      "U",
+      "W"
+    ]
+  ],
+  "symbols": "α A B C ↑ D E F G H J I K ↓ L M N Q Ex U W",
+  "choices": {
+    "donorTest": "clever",
+    "path": "forest",
+    "gift": "thunder",
+    "confront": "fight"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "In a village where the rooster crowed backwards there lived Savva the Turnip-Brave, who once outstared a turnip."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "When the dogs fell silent, Bonelace the Deathless, a sorcerer who kept his death somewhere sensible, swept in and snatched away Tsarevich Lev Pale-Hands to a fortress stitched from bones."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "Old father Foma called Savva and said: “Go, and bring it back.”"
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "Savva tightened his belt and resolved to try."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "So Savva left home. Where three ways met, Savva chose the road through the forest, where the trees whispered half of everything."
+    },
+    {
+      "f": "D",
+      "move": 0,
+      "text": "A ferryman with no shadow at a river that had forgotten its other bank barred the way: “First a task, then a road.”"
+    },
+    {
+      "f": "E",
+      "move": 0,
+      "text": "Savva answered with a question and got it right on the third try."
+    },
+    {
+      "f": "F",
+      "move": 0,
+      "text": "A ferryman with no shadow unfolded a rag that held three things: a bone comb that grows forests when thrown; a handkerchief that unfolds into a lake; a jar of borrowed thunder. A ferryman with no shadow gave Savva a jar of borrowed thunder."
+    },
+    {
+      "f": "G",
+      "move": 0,
+      "text": "Our Savva was led through the forest, where the trees whispered half of everything as far as the Birch Thicket of Unfinished Sentences."
+    },
+    {
+      "f": "H",
+      "move": 0,
+      "text": "There at the heart of the Birch Thicket of Unfinished Sentences, the lad stood before Bonelace, a sorcerer who kept his death somewhere sensible. Before long iron met brine. Our Savva and the sorcerer wrestled until the moon came out to watch."
+    },
+    {
+      "f": "J",
+      "move": 0,
+      "text": "Tsarevich Lev Pale-Hands tore a ribbon from her sleeve onto his wrist. “So I will know you.”"
+    },
+    {
+      "f": "I",
+      "move": 0,
+      "text": "Bonelace lost, and went to pieces, quite literally."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "Tsarevich Lev Pale-Hands was free."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "That same week Savva went home."
+    },
+    {
+      "f": "L",
+      "move": 0,
+      "text": "“It was us,” said a general with polished boots and no battles, and the court believed it."
+    },
+    {
+      "f": "M",
+      "move": 0,
+      "text": "There was one more task: to answer a riddle that had no right answer."
+    },
+    {
+      "f": "N",
+      "move": 0,
+      "text": "The task was done by morning."
+    },
+    {
+      "f": "Q",
+      "move": 0,
+      "text": "Then Tsarevich Lev Pale-Hands recognised our Savva."
+    },
+    {
+      "f": "Ex",
+      "move": 0,
+      "text": "The lie fell over by itself: a general with polished boots and no battles had spent the whole time hiding."
+    },
+    {
+      "f": "U",
+      "move": 0,
+      "text": "And Bonelace: the sorcerer was made to count the crows of the kingdom, and is counting still."
+    },
+    {
+      "f": "W",
+      "move": 0,
+      "text": "Then there was a wedding."
+    }
+  ]
+}

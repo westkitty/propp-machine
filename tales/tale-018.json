@@ -1,0 +1,132 @@
+{
+  "seed": "18",
+  "title": "The Tale of Tikhon and Zmei Pickleback",
+  "sequence": [
+    [
+      "alpha",
+      "beta",
+      "gamma",
+      "delta",
+      "A",
+      "B",
+      "C",
+      "up",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "K",
+      "down",
+      "o",
+      "W"
+    ]
+  ],
+  "symbols": "α β γ δ A B C ↑ D E F G H I K ↓ o W",
+  "choices": {
+    "donorTest": "clever",
+    "interdiction": "obey",
+    "path": "below",
+    "gift": "cloth",
+    "confront": "fight"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "Nobody in a kingdom so small that the Tsar could hear every sneeze in it expected much of Tikhon Who Counts Crows, who had never once finished counting; Tikhon least of all."
+    },
+    {
+      "f": "beta",
+      "move": 0,
+      "text": "One day the village elder with the brass ear-trumpet went away to market and did not come back for a long time."
+    },
+    {
+      "f": "gamma",
+      "move": 0,
+      "text": "Before leaving, the village elder with the brass ear-trumpet warned Tikhon: “do not eat the third pancake.” The lad crossed his heart, and meant it."
+    },
+    {
+      "f": "delta",
+      "move": 0,
+      "text": "Of course a small sound came from the green dark, and the youngest cousin could not help looking."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "Meanwhile, Zmei Pickleback, a salt-green serpent with three heads and one opinion, stole the kingdom’s last true sunrise."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "“Is there anyone not busy?” cried the village elder with the brass ear-trumpet. The brothers looked at the ceiling."
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "Three days later Our Tikhon tightened his belt and resolved to try."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "Tikhon set out along the road. Where three ways met, our Tikhon took the road down a ladder of roots, deeper than the wells go."
+    },
+    {
+      "f": "D",
+      "move": 0,
+      "text": "The Grandmother of Owls in a hut built entirely of locked doors held out a cracked cup: “First a task, then a road.”"
+    },
+    {
+      "f": "E",
+      "move": 0,
+      "text": "“Ask me a harder one,” said the lad, and the answer was correct, which surprised everyone."
+    },
+    {
+      "f": "F",
+      "move": 0,
+      "text": "The Grandmother of Owls unfolded a rag that held three things: a handkerchief that unfolds into a lake; a ball of red thread that knows the way; a jar of borrowed thunder. In return our Tikhon received a handkerchief that unfolds into a lake."
+    },
+    {
+      "f": "G",
+      "move": 0,
+      "text": "On the back of the judge-goose, Tikhon went down a ladder of roots, deeper than the wells go, until the road ran out at the Copper Kingdom under the earth."
+    },
+    {
+      "f": "H",
+      "move": 0,
+      "text": "There at the heart of the Copper Kingdom under the earth, Tikhon stood before Pickleback, a salt-green serpent with three heads and one opinion. Not long after, Pickleback came out, and they fought."
+    },
+    {
+      "f": "I",
+      "move": 0,
+      "text": "The salt-green serpent was beaten."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "Everything that had been taken was put right."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "With the prize in his cap, our Tikhon turned for home."
+    },
+    {
+      "f": "o",
+      "move": 0,
+      "text": "Unremembered, Tikhon took work minding geese and waited."
+    },
+    {
+      "f": "W",
+      "move": 0,
+      "text": "Tikhon married the Moonmiller’s daughter, and there was a feast."
+    }
+  ]
+}

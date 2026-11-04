@@ -1,0 +1,125 @@
+{
+  "seed": "10",
+  "title": "The Tale of Kuzma and the Widow of the Well",
+  "sequence": [
+    [
+      "alpha",
+      "gamma",
+      "delta",
+      "A",
+      "C",
+      "up",
+      "G",
+      "K"
+    ],
+    [
+      "a",
+      "B",
+      "K",
+      "o",
+      "M",
+      "N",
+      "Q",
+      "U",
+      "W"
+    ]
+  ],
+  "symbols": "α γ δ A C ↑ G K | a B K o M N Q U W",
+  "choices": {
+    "interdiction": "disobey",
+    "path": "sea"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "They still tell of Kuzma Crookedcap in a hut beside a river that ran uphill on Sundays: that one, whose hat pointed always toward trouble."
+    },
+    {
+      "f": "gamma",
+      "move": 0,
+      "text": "“Listen,” said old father Foma, “do not eat the third pancake.” The lad said “Of course”, already wondering."
+    },
+    {
+      "f": "delta",
+      "move": 0,
+      "text": "Forbidden things are heavy; Kuzma Crookedcap put it down in exactly the wrong place."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "The Widow of the Well stole a feather of the Ember-Bird, and the cows gave sour milk."
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "As it happened, the lad said a short rude prayer and resolved to go."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "Before anyone could talk him out of it, our Kuzma took the road. Past the post with the rude carving, Kuzma chose the road that went over the sea, where the fish kept diaries and the waves read them aloud."
+    },
+    {
+      "f": "G",
+      "move": 0,
+      "text": "So the lad came to the Thrice-Tenth Sea, led over the sea, where the fish kept diaries and the waves read them aloud."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "By sheer stubbornness’s help, our Kuzma won back a feather of the Ember-Bird."
+    },
+    {
+      "f": "a",
+      "move": 1,
+      "text": "In the Thrice-Tenth Sea, Kuzma met a king in want of a son-in-law with nerve."
+    },
+    {
+      "f": "B",
+      "move": 1,
+      "text": "Word reached Kuzma that the court was waiting."
+    },
+    {
+      "f": "K",
+      "move": 1,
+      "text": "Up out of the dark, Kuzma climbed free, cross but whole."
+    },
+    {
+      "f": "o",
+      "move": 1,
+      "text": "At home nobody recognised Kuzma."
+    },
+    {
+      "f": "M",
+      "move": 1,
+      "text": "There was one more task: to answer a riddle that had no right answer."
+    },
+    {
+      "f": "N",
+      "move": 1,
+      "text": "With help from sheer stubbornness, the task was done."
+    },
+    {
+      "f": "Q",
+      "move": 1,
+      "text": "Tsarevich Lev Pale-Hands saw the mark and cried, “This is the one!”"
+    },
+    {
+      "f": "U",
+      "move": 1,
+      "text": "Now the Widow was made to count the crows of the kingdom, and is counting still."
+    },
+    {
+      "f": "W",
+      "move": 1,
+      "text": "Then there was a wedding."
+    }
+  ]
+}

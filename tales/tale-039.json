@@ -1,0 +1,150 @@
+{
+  "seed": "39",
+  "title": "The Tale of Dunya and Grandmother Ninetoes",
+  "sequence": [
+    [
+      "alpha",
+      "gamma",
+      "delta",
+      "A",
+      "B",
+      "C",
+      "up",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "K",
+      "down",
+      "M",
+      "N",
+      "Q",
+      "T",
+      "U",
+      "W"
+    ]
+  ],
+  "symbols": "α γ δ A B C ↑ D E F G H I K ↓ M N Q T U W",
+  "choices": {
+    "donorTest": "kind",
+    "interdiction": "obey",
+    "path": "forest",
+    "gift": "boots",
+    "confront": "fight"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "In a hut beside a river that ran uphill on Sundays there lived Dunya of the Leaky Bucket, whose bucket leaked only lies."
+    },
+    {
+      "f": "gamma",
+      "move": 0,
+      "text": "There was a rule in that house, older than the roof: do not look into the well after the sun goes down. Dunya crossed her heart, and meant it."
+    },
+    {
+      "f": "delta",
+      "move": 0,
+      "text": "But the house cat forgot the warning at once."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "That night Grandmother Ninetoes, a witch who lived in a hut that paced like a dog, carried off Princess Vasilka the Unhurried to her pacing hut."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "“Who will go?” cried the hero’s grandmother. The brothers looked at the ceiling."
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "“I will go,” said the girl."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "Dunya set out along the road. Where three ways met, Dunya chose the road that went through the forest, where the trees whispered half of everything."
+    },
+    {
+      "f": "D",
+      "move": 0,
+      "text": "The Grandmother of Owls in a hut built entirely of locked doors held out a cracked cup: “Feed me, or pass on hungry yourself.”"
+    },
+    {
+      "f": "E",
+      "move": 0,
+      "text": "Being polite, Dunya said thank you to the trees."
+    },
+    {
+      "f": "F",
+      "move": 0,
+      "text": "The Grandmother of Owls opened a sack that held three things: a horse-hair that summons a horse of storm; a birch-bark flute that makes the dead dance politely; boots that walk only forward. In return Dunya received boots that walk only forward."
+    },
+    {
+      "f": "G",
+      "move": 0,
+      "text": "Dunya was led through the forest, where the trees whispered half of everything as far as the Birch Thicket of Unfinished Sentences."
+    },
+    {
+      "f": "H",
+      "move": 0,
+      "text": "At last, Dunya stood before Ninetoes, a witch who lived in a hut that paced like a dog. Ninetoes came out roaring, and they fought till the grass was flattened, maybe long, maybe short."
+    },
+    {
+      "f": "I",
+      "move": 0,
+      "text": "With a last blow, Ninetoes melted into a puddle that complained."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "Princess Vasilka the Unhurried was free."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "In time Dunya went home."
+    },
+    {
+      "f": "M",
+      "move": 0,
+      "text": "There was one more task: to eat a whole oven of bread before dawn."
+    },
+    {
+      "f": "N",
+      "move": 0,
+      "text": "With help from the cat, the task was done."
+    },
+    {
+      "f": "Q",
+      "move": 0,
+      "text": "Then Princess Vasilka the Unhurried recognised Dunya."
+    },
+    {
+      "f": "T",
+      "move": 0,
+      "text": "A cat with nine lives, six already spent gave Dunya new clothes."
+    },
+    {
+      "f": "U",
+      "move": 0,
+      "text": "As for Ninetoes: Ninetoes was made to count the crows of the kingdom, and is counting still."
+    },
+    {
+      "f": "W",
+      "move": 0,
+      "text": "Then there was a wedding."
+    }
+  ]
+}

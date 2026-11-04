@@ -1,0 +1,170 @@
+{
+  "seed": "38",
+  "title": "The Tale of Agafya and the Widow of the Well",
+  "sequence": [
+    [
+      "alpha",
+      "beta",
+      "gamma",
+      "delta",
+      "eta",
+      "theta",
+      "A",
+      "B",
+      "C",
+      "up",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "K"
+    ],
+    [
+      "a",
+      "K",
+      "o",
+      "M",
+      "N",
+      "T",
+      "W"
+    ]
+  ],
+  "symbols": "α β γ δ η θ A B C ↑ D E F G H I K | a K o M N T W",
+  "choices": {
+    "donorTest": "kind",
+    "interdiction": "obey",
+    "path": "sea",
+    "gift": "thunder",
+    "confront": "contest"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "Beyond the thrice-ninth land, in a village where the rooster crowed backwards, there lived Agafya Last-of-Eleven, whom nobody remembered to name until she was six."
+    },
+    {
+      "f": "beta",
+      "move": 0,
+      "text": "When the bees went quiet, the hero’s grandmother took a staff and went away, and the house felt hollow."
+    },
+    {
+      "f": "gamma",
+      "move": 0,
+      "text": "There was a rule in that house, older than the roof: do not let the stove go cold while I am away. The girl promised, and meant it."
+    },
+    {
+      "f": "delta",
+      "move": 0,
+      "text": "Of course the youngest cousin did exactly what was forbidden."
+    },
+    {
+      "f": "eta",
+      "move": 0,
+      "text": "The Widow of the Well put on a kindly face and a borrowed voice."
+    },
+    {
+      "f": "theta",
+      "move": 0,
+      "text": "Agafya took the cake and fell asleep."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "The wet grey, a wet grey woman who lived under the bucket, stole the singing apple that told the truth."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "The hero’s grandmother called our Agafya and said: “Go, and bring it back.”"
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "“I have nothing better to do, and I will go,” said the girl."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "And the girl went, long or short, high or low; the tale is quick, the road is not. Where three ways met, the girl chose the road over the sea, where the fish kept diaries and the waves read them aloud."
+    },
+    {
+      "f": "D",
+      "move": 0,
+      "text": "On the way Agafya met a hedgehog wearing a bishop’s hat under a cart that had no wheels, who said: “First, help me.”"
+    },
+    {
+      "f": "E",
+      "move": 0,
+      "text": "The girl shared the last crust, without being asked twice."
+    },
+    {
+      "f": "F",
+      "move": 0,
+      "text": "A hedgehog wearing a bishop’s hat unfolded a rag that held three things: a horse-hair that summons a horse of storm; boots that walk only forward; a jar of borrowed thunder. In return Agafya received a jar of borrowed thunder."
+    },
+    {
+      "f": "G",
+      "move": 0,
+      "text": "Then Agafya travelled over the sea, where the fish kept diaries and the waves read them aloud, and came to the Thrice-Tenth Sea."
+    },
+    {
+      "f": "H",
+      "move": 0,
+      "text": "There at the heart of the Thrice-Tenth Sea, the girl stood before the Widow, a wet grey woman who lived under the bucket. And the wet grey set out the scales of the dead, and they matched wits three rounds."
+    },
+    {
+      "f": "I",
+      "move": 0,
+      "text": "With a sound like a wet bell, the Widow burst into moths."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "Meanwhile, Agafya found the singing apple that told the truth again."
+    },
+    {
+      "f": "a",
+      "move": 1,
+      "text": "In the Thrice-Tenth Sea, Agafya found a court short of exactly one brave fool."
+    },
+    {
+      "f": "K",
+      "move": 1,
+      "text": "Up out of the dark, our Agafya climbed free, thinner but alive."
+    },
+    {
+      "f": "o",
+      "move": 1,
+      "text": "At home nobody recognised Agafya."
+    },
+    {
+      "f": "M",
+      "move": 1,
+      "text": "There was one more task: to answer a riddle that had no right answer."
+    },
+    {
+      "f": "N",
+      "move": 1,
+      "text": "By morning the task was done, with a little left over."
+    },
+    {
+      "f": "T",
+      "move": 1,
+      "text": "Agafya stepped through the judge-goose’s ear and out the other and came out glowing like a new kopeck."
+    },
+    {
+      "f": "W",
+      "move": 1,
+      "text": "Then there was a wedding."
+    }
+  ]
+}

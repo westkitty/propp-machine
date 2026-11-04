@@ -1,0 +1,169 @@
+{
+  "seed": "47",
+  "title": "The Tale of Dunya and Count Moth",
+  "sequence": [
+    [
+      "alpha",
+      "beta",
+      "gamma",
+      "delta",
+      "epsilon",
+      "zeta",
+      "a",
+      "B",
+      "C",
+      "up",
+      "D",
+      "E",
+      "H",
+      "I",
+      "K",
+      "down"
+    ],
+    [
+      "A",
+      "K",
+      "down",
+      "o",
+      "M",
+      "N",
+      "Q",
+      "W"
+    ]
+  ],
+  "symbols": "α β γ δ ε ζ a B C ↑ D E H I K ↓ | A K ↓ o M N Q W",
+  "choices": {
+    "donorTest": "rude",
+    "interdiction": "disobey",
+    "path": "forest",
+    "confront": "contest"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "Where the map gives up and the geese take over, in a town whose church bell rang a minute early, out of nerves, there lived Dunya of the Leaky Bucket, whose bucket leaked only lies."
+    },
+    {
+      "f": "beta",
+      "move": 0,
+      "text": "Then old father Foma went off to sell a cow and a silence, and Dunya was left alone with the stove."
+    },
+    {
+      "f": "gamma",
+      "move": 0,
+      "text": "“Only one thing,” said old father Foma, in the voice reserved for funerals: “do not look into the well after the sun goes down.” Dunya said “Of course”, already wondering."
+    },
+    {
+      "f": "delta",
+      "move": 0,
+      "text": "A small sound came from the green dark, and Dunya of the Leaky Bucket could not help looking."
+    },
+    {
+      "f": "epsilon",
+      "move": 0,
+      "text": "Count Moth sent a crow to find out where things were kept."
+    },
+    {
+      "f": "zeta",
+      "move": 0,
+      "text": "A chattering neighbour told the Count everything."
+    },
+    {
+      "f": "a",
+      "move": 0,
+      "text": "And But the land lacked the egg in which a certain death was kept, and without it nothing was right."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "Old father Foma called the girl and said: “Go, and bring it back.”"
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "Meanwhile, Dunya tightened her belt and resolved to go."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "So Dunya left home. Where three ways met, the girl took the road through the forest, where the trees whispered half of everything."
+    },
+    {
+      "f": "D",
+      "move": 0,
+      "text": "An old woman knitting fog on a stump at the edge of the road asked for a name and a kindness: “Feed me, or pass on hungry yourself.”"
+    },
+    {
+      "f": "E",
+      "move": 0,
+      "text": "Dunya was rude and walked on."
+    },
+    {
+      "f": "H",
+      "move": 0,
+      "text": "At last, Dunya stood before the lord, a lord made of dust and good manners. The lord set out a board of black and bone, and they matched wits three rounds."
+    },
+    {
+      "f": "I",
+      "move": 0,
+      "text": "The lord was beaten."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "Everything that had been taken was put right."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "Whistling, which was unwise, Dunya turned for home."
+    },
+    {
+      "f": "A",
+      "move": 1,
+      "text": "On the way home, the elder brothers Glib and Gleb cut the rope and left Dunya in the pit and took the prize."
+    },
+    {
+      "f": "K",
+      "move": 1,
+      "text": "With help from sheer stubbornness, Dunya came back into the light, cross but whole."
+    },
+    {
+      "f": "down",
+      "move": 1,
+      "text": "The girl walked home again, angrier than before."
+    },
+    {
+      "f": "o",
+      "move": 1,
+      "text": "Dunya arrived home, but nobody knew her."
+    },
+    {
+      "f": "M",
+      "move": 1,
+      "text": "The Tsar of the Soup Kingdom set a task: to sit in a red-hot bathhouse and come out cold."
+    },
+    {
+      "f": "N",
+      "move": 1,
+      "text": "With help from sheer stubbornness, the task was done."
+    },
+    {
+      "f": "Q",
+      "move": 1,
+      "text": "Then Tsarevna Lumina recognised Dunya."
+    },
+    {
+      "f": "W",
+      "move": 1,
+      "text": "Then there was a wedding."
+    }
+  ]
+}

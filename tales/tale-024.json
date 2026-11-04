@@ -1,0 +1,93 @@
+{
+  "seed": "24",
+  "title": "The Tale of Dunya and Count Moth",
+  "sequence": [
+    [
+      "alpha",
+      "beta",
+      "A",
+      "B",
+      "up",
+      "H",
+      "J",
+      "I",
+      "K",
+      "down",
+      "T",
+      "U"
+    ]
+  ],
+  "symbols": "α β A B ↑ H J I K ↓ T U",
+  "choices": {
+    "path": "below",
+    "confront": "trick"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "Past three rivers and a rumour, in a kingdom so small that the Tsar could hear every sneeze in it, there once lived Dunya of the Leaky Bucket, whose bucket leaked only lies."
+    },
+    {
+      "f": "beta",
+      "move": 0,
+      "text": "Then the hero’s grandmother went off to sell a cow and a silence, and our Dunya was left alone with the stove."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "Count Moth bottled up the water of life and the water of death, and the clocks ran backwards."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "The hero’s grandmother wept loudly in the square, and Dunya heard."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "Our Dunya set out along the road. At the crossroads stone, Dunya chose the road that went down a ladder of roots, deeper than the wells go."
+    },
+    {
+      "f": "H",
+      "move": 0,
+      "text": "There at the heart of the Copper Kingdom under the earth, Dunya stood before the lord, a lord made of dust and good manners. “Show me how it is done,\" said our Dunya, and the lord, eager to show off, leaned over the edge."
+    },
+    {
+      "f": "J",
+      "move": 0,
+      "text": "In the struggle, the Count scratched Dunya across the brow: a mark like a little moon."
+    },
+    {
+      "f": "I",
+      "move": 0,
+      "text": "And so the Count was defeated."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "By the gift’s doing, the girl won back the water of life and the water of death."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "Then, Dunya went back the way she had come."
+    },
+    {
+      "f": "T",
+      "move": 0,
+      "text": "Before long Dunya stepped through sheer stubbornness’s ear and out the other and came out handsome."
+    },
+    {
+      "f": "U",
+      "move": 0,
+      "text": "And the Count was turned into a draughty doorway that everyone complained about."
+    }
+  ]
+}

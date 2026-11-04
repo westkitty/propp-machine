@@ -1,0 +1,161 @@
+{
+  "seed": "8",
+  "title": "The Tale of Olya and Grandmother Ninetoes",
+  "sequence": [
+    [
+      "alpha",
+      "beta",
+      "epsilon",
+      "zeta",
+      "eta",
+      "theta",
+      "A",
+      "B",
+      "C",
+      "up",
+      "D",
+      "E",
+      "F",
+      "H",
+      "J",
+      "I",
+      "K",
+      "down",
+      "Pr",
+      "Rs",
+      "Q",
+      "T",
+      "W"
+    ]
+  ],
+  "symbols": "α β ε ζ η θ A B C ↑ D E F H J I K ↓ Pr Rs Q T W",
+  "choices": {
+    "donorTest": "kind",
+    "path": "below",
+    "gift": "thunder",
+    "confront": "trick"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "Past three rivers and a rumour, in a village where the rooster crowed backwards, there was born Olya Ashpocket, who kept a live coal in her apron for luck."
+    },
+    {
+      "f": "beta",
+      "move": 0,
+      "text": "Then old father Foma fell ill and died, and Olya was left in charge."
+    },
+    {
+      "f": "epsilon",
+      "move": 0,
+      "text": "Grandmother Ninetoes sent a crow to find out where things were kept."
+    },
+    {
+      "f": "zeta",
+      "move": 0,
+      "text": "Of course the weathervane told the stranger everything, and Ninetoes smiled with too many teeth."
+    },
+    {
+      "f": "eta",
+      "move": 0,
+      "text": "“Dear child,” said Ninetoes, wearing a grandmother’s voice like a shawl, “open the door.”"
+    },
+    {
+      "f": "theta",
+      "move": 0,
+      "text": "The girl took the cake and fell asleep."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "When the dogs fell silent, the witch, a witch who lived in a hut that paced like a dog, seeped under the door and wrapped up and took Princess Vasilka the Unhurried to her pacing hut."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "“Is there anyone not busy?” cried old father Foma. Only Olya stood up."
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "Olya put on her other boot and resolved to go."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "And Olya set off, long or short, high or low; the tale is quick, the road is not. When the road split like a lizard’s tongue, Olya took the road that went down a ladder of roots, deeper than the wells go."
+    },
+    {
+      "f": "D",
+      "move": 0,
+      "text": "There sat a birch tree with a terrible cough in a clearing full of polite mushrooms, who asked Olya a question."
+    },
+    {
+      "f": "E",
+      "move": 0,
+      "text": "Olya answered politely."
+    },
+    {
+      "f": "F",
+      "move": 0,
+      "text": "A birch tree with a terrible cough opened a sack that held three things: a birch-bark flute that makes the dead dance politely; boots that walk only forward; a jar of borrowed thunder. A birch tree with a terrible cough gave Olya a jar of borrowed thunder."
+    },
+    {
+      "f": "H",
+      "move": 0,
+      "text": "At last, the girl stood before Ninetoes, a witch who lived in a hut that paced like a dog. Olya hid in a cream jug, and Ninetoes fell for it."
+    },
+    {
+      "f": "J",
+      "move": 0,
+      "text": "Princess Vasilka the Unhurried pressed a ring into her hand. “So I will know you.”"
+    },
+    {
+      "f": "I",
+      "move": 0,
+      "text": "Of course Ninetoes was beaten."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "Everything that had been taken was put right."
+    },
+    {
+      "f": "down",
+      "move": 0,
+      "text": "Olya went home."
+    },
+    {
+      "f": "Pr",
+      "move": 0,
+      "text": "Ninetoes rolled like a fog after Olya, shrieking."
+    },
+    {
+      "f": "Rs",
+      "move": 0,
+      "text": "Olya unstopped the jar, and borrowed thunder rolled out, very loud and slightly apologetic, and escaped."
+    },
+    {
+      "f": "Q",
+      "move": 0,
+      "text": "Princess Vasilka the Unhurried saw the ribbon and cried, “It is you!”"
+    },
+    {
+      "f": "T",
+      "move": 0,
+      "text": "Now a crown that fitted, for once appeared for the girl."
+    },
+    {
+      "f": "W",
+      "move": 0,
+      "text": "Our Olya married Princess Vasilka the Unhurried, and there was a feast."
+    }
+  ]
+}

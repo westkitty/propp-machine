@@ -1,0 +1,161 @@
+{
+  "seed": "46",
+  "title": "The Tale of Kuzma and Grandmother Ninetoes",
+  "sequence": [
+    [
+      "alpha",
+      "beta",
+      "gamma",
+      "delta",
+      "eta",
+      "theta",
+      "A",
+      "B",
+      "C",
+      "up",
+      "D",
+      "E",
+      "F",
+      "G",
+      "K",
+      "L",
+      "M",
+      "N",
+      "Q",
+      "Ex",
+      "T",
+      "U",
+      "W"
+    ]
+  ],
+  "symbols": "α β γ δ η θ A B C ↑ D E F G K L M N Q Ex T U W",
+  "choices": {
+    "donorTest": "kind",
+    "interdiction": "obey",
+    "path": "below",
+    "gift": "cloth"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "Nobody in a village where the rooster crowed backwards expected much of Kuzma Crookedcap, whose hat pointed always toward trouble; the neighbours even less."
+    },
+    {
+      "f": "beta",
+      "move": 0,
+      "text": "One day old father Foma went away to market and did not come back for a long time."
+    },
+    {
+      "f": "gamma",
+      "move": 0,
+      "text": "“Listen,” said old father Foma, “do not eat the third pancake.” Kuzma crossed his heart, and meant it."
+    },
+    {
+      "f": "delta",
+      "move": 0,
+      "text": "But the youngest cousin forgot the warning at once."
+    },
+    {
+      "f": "eta",
+      "move": 0,
+      "text": "Grandmother Ninetoes came in disguise, holding out a sweet cake."
+    },
+    {
+      "f": "theta",
+      "move": 0,
+      "text": "The lad believed every word."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "In the morning there was a cold place where the Moonmiller’s daughter had been. Ninetoes had come."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "Of course Old father Foma called Kuzma and said: “Go, and bring it back.”"
+    },
+    {
+      "f": "C",
+      "move": 0,
+      "text": "“I have nothing better to do, and I will go,” said Kuzma."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "With the crows for company, Kuzma walked out of a village where the rooster crowed backwards. When the road split like a lizard’s tongue, our Kuzma chose the road that went down a ladder of roots, deeper than the wells go."
+    },
+    {
+      "f": "D",
+      "move": 0,
+      "text": "By a fire nobody had lit, Kuzma met a hedgehog wearing a bishop’s hat under a cart that had no wheels. “Carry my bundle a while,” it said, and the trees leaned in to listen."
+    },
+    {
+      "f": "E",
+      "move": 0,
+      "text": "Since he had been raised properly, the lad said thank you to the trees."
+    },
+    {
+      "f": "F",
+      "move": 0,
+      "text": "A hedgehog wearing a bishop’s hat unfolded a rag that held three things: a ball of red thread that knows the way; a handkerchief that unfolds into a lake; a horse-hair that summons a horse of storm. A hedgehog wearing a bishop’s hat coughed up, rather damply a handkerchief that unfolds into a lake. “Do not thank me yet.”"
+    },
+    {
+      "f": "G",
+      "move": 0,
+      "text": "On the back of the judge-goose, Kuzma went down a ladder of roots, deeper than the wells go, until the stars changed at the Copper Kingdom under the earth."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "Then, everything that had been taken was put right."
+    },
+    {
+      "f": "L",
+      "move": 0,
+      "text": "Cousin Smarm the water-carrier said that he had done everything."
+    },
+    {
+      "f": "M",
+      "move": 0,
+      "text": "One more trial was set: to sit in a red-hot bathhouse and come out cold."
+    },
+    {
+      "f": "N",
+      "move": 0,
+      "text": "With help from the judge-goose, the task was done."
+    },
+    {
+      "f": "Q",
+      "move": 0,
+      "text": "Everyone recognised our Kuzma at last."
+    },
+    {
+      "f": "Ex",
+      "move": 0,
+      "text": "The lie of Cousin Smarm the water-carrier came out."
+    },
+    {
+      "f": "T",
+      "move": 0,
+      "text": "Kuzma stepped through the judge-goose’s ear and out the other and came out handsome."
+    },
+    {
+      "f": "U",
+      "move": 0,
+      "text": "Ninetoes was put in a barrel and rolled into the sea, which rolled her back out, ashamed."
+    },
+    {
+      "f": "W",
+      "move": 0,
+      "text": "Then there was a wedding."
+    }
+  ]
+}

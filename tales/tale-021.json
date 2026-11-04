@@ -1,0 +1,162 @@
+{
+  "seed": "21",
+  "title": "The Tale of Ivashka and Old Hungry Mist",
+  "sequence": [
+    [
+      "alpha",
+      "epsilon",
+      "zeta",
+      "eta",
+      "theta",
+      "A",
+      "B",
+      "up",
+      "D",
+      "E",
+      "F",
+      "G",
+      "K"
+    ],
+    [
+      "a",
+      "K",
+      "o",
+      "L",
+      "M",
+      "N",
+      "Q",
+      "Ex",
+      "U",
+      "W"
+    ]
+  ],
+  "symbols": "α ε ζ η θ A B ↑ D E F G K | a K o L M N Q Ex U W",
+  "choices": {
+    "donorTest": "kind",
+    "path": "forest",
+    "gift": "comb"
+  },
+  "validation": {
+    "ok": true,
+    "mode": "strict",
+    "violations": [],
+    "refinementsUsed": []
+  },
+  "pages": [
+    {
+      "f": "alpha",
+      "move": 0,
+      "text": "Nobody in a village where the rooster crowed backwards expected much of Ivashka Ninth-Son, who slept on the stove for nineteen winters; our Ivashka least of all."
+    },
+    {
+      "f": "epsilon",
+      "move": 0,
+      "text": "A polite stranger came asking what the house was afraid of. It was Old Hungry Mist."
+    },
+    {
+      "f": "zeta",
+      "move": 0,
+      "text": "And so the Mist learned all that was needed."
+    },
+    {
+      "f": "eta",
+      "move": 0,
+      "text": "The Mist disguised himself as a pedlar of ribbons."
+    },
+    {
+      "f": "theta",
+      "move": 0,
+      "text": "Well, Ivashka said yes, which was the worst thing to say."
+    },
+    {
+      "f": "A",
+      "move": 0,
+      "text": "That night the fog, a fog with teeth and an appetite for names, carried off Princess Vasilka the Unhurried to the marsh where the road gave up."
+    },
+    {
+      "f": "B",
+      "move": 0,
+      "text": "The news went round, and at last it reached Ivashka."
+    },
+    {
+      "f": "up",
+      "move": 0,
+      "text": "And Ivashka went, it may be near, it may be far; the tale is quick, the road is not. Past the post with the rude carving, our Ivashka chose the road through the forest, where the trees whispered half of everything."
+    },
+    {
+      "f": "D",
+      "move": 0,
+      "text": "There sat a birch tree with a terrible cough in a clearing full of polite mushrooms, who asked Ivashka a question."
+    },
+    {
+      "f": "E",
+      "move": 0,
+      "text": "Ivashka mended the cup with a spit and a song, though it took all night."
+    },
+    {
+      "f": "F",
+      "move": 0,
+      "text": "A birch tree with a terrible cough unfolded a rag that held three things: boots that walk only forward; a bone comb that grows forests when thrown; a horse-hair that summons a horse of storm. A birch tree with a terrible cough coughed up, rather damply a bone comb that grows forests when thrown. “Do not thank me yet.”"
+    },
+    {
+      "f": "G",
+      "move": 0,
+      "text": "Well, Our Ivashka was led through the forest, where the trees whispered half of everything as far as the Birch Thicket of Unfinished Sentences."
+    },
+    {
+      "f": "K",
+      "move": 0,
+      "text": "Everything that had been taken was put right."
+    },
+    {
+      "f": "a",
+      "move": 1,
+      "text": "In the Birch Thicket of Unfinished Sentences, the lad met a king in want of a son-in-law with nerve."
+    },
+    {
+      "f": "K",
+      "move": 1,
+      "text": "Up out of the dark, Ivashka came back into the light, thinner but alive."
+    },
+    {
+      "f": "o",
+      "move": 1,
+      "text": "The lad arrived home, but nobody knew him."
+    },
+    {
+      "f": "L",
+      "move": 1,
+      "text": "Not long after, a general with polished boots and no battles claimed the deed for himself."
+    },
+    {
+      "f": "M",
+      "move": 1,
+      "text": "There was one more task: to sit in a red-hot bathhouse and come out cold."
+    },
+    {
+      "f": "N",
+      "move": 1,
+      "text": "With help from the judge-goose, the task was done."
+    },
+    {
+      "f": "Q",
+      "move": 1,
+      "text": "Everyone recognised our Ivashka at last."
+    },
+    {
+      "f": "Ex",
+      "move": 1,
+      "text": "A general with polished boots and no battles tried to slip out by the scullery, but everyone had seen."
+    },
+    {
+      "f": "U",
+      "move": 1,
+      "text": "And the Mist was made to count the crows of the kingdom, and is counting still."
+    },
+    {
+      "f": "W",
+      "move": 1,
+      "text": "Ivashka and Princess Vasilka the Unhurried ruled together, and are living still, if they have not died."
+    }
+  ]
+}

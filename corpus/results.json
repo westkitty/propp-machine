@@ -1,0 +1,1305 @@
+{
+  "summary": {
+    "tales": 12,
+    "strict": "0/12 (0%)",
+    "refined": "2/12 (17%)",
+    "magicOnly": {
+      "n": 9,
+      "strict": "0/9 (0%)",
+      "refined": "2/9 (22%)"
+    },
+    "violationsByCode": {
+      "strict": {
+        "ORDER": 70,
+        "UNPAIRED": 11,
+        "MISSING_PREREQ": 11,
+        "UNMAPPED": 15
+      },
+      "refined": {
+        "ORDER": 27,
+        "UNMAPPED_EXCESS": 2,
+        "UNPAIRED": 4
+      }
+    },
+    "strictPassIfOnlyThisFamilyIgnored": {
+      "ORDER": 1,
+      "UNPAIRED": 0,
+      "MISSING_PREREQ": 0,
+      "NO_COMPLICATION": 0,
+      "UNMAPPED": 2
+    }
+  },
+  "results": [
+    {
+      "id": "dun-cow",
+      "title": "The Dun Cow",
+      "genre": "magic",
+      "atu": "511 + 403 (tentative)",
+      "sequence": "α β F ε ζ A K* M N W  |  A L K ↓ Ex U W",
+      "strict": {
+        "ok": false,
+        "mode": "strict",
+        "violations": [
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 3,
+            "f": "epsilon",
+            "message": "ε (Reconnaissance) is function #4, but it comes after F (Receipt of a magical agent) (#14). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 4,
+            "f": "zeta",
+            "message": "ζ (Delivery) is function #5, but it comes after F (Receipt of a magical agent) (#14). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 5,
+            "f": "A",
+            "message": "A (Villainy) is function #8, but it comes after F (Receipt of a magical agent) (#14). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "UNPAIRED",
+            "move": 0,
+            "pos": 5,
+            "f": "A",
+            "message": "A (Villainy) is never followed by K (Liquidation). Villainy must be liquidated within its move."
+          },
+          {
+            "code": "MISSING_PREREQ",
+            "move": 0,
+            "pos": 2,
+            "f": "F",
+            "message": "F (Receipt of a magical agent) appears without an earlier D (First function of the donor) or E (Hero's reaction). The magical agent normally follows the donor episode."
+          },
+          {
+            "code": "ORDER",
+            "move": 1,
+            "pos": 2,
+            "f": "K",
+            "message": "K (Liquidation) is function #19, but it comes after L (Unfounded claims) (#24). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 1,
+            "pos": 3,
+            "f": "down",
+            "message": "↓ (Return) is function #20, but it comes after L (Unfounded claims) (#24). Within a move Propp's functions keep a fixed order."
+          }
+        ],
+        "refinementsUsed": []
+      },
+      "refined": {
+        "ok": false,
+        "mode": "refined",
+        "violations": [
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 3,
+            "f": "epsilon",
+            "message": "ε (Reconnaissance) is function #4, but it comes after F (Receipt of a magical agent) (#14). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 4,
+            "f": "zeta",
+            "message": "ζ (Delivery) is function #5, but it comes after F (Receipt of a magical agent) (#14). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 1,
+            "pos": 2,
+            "f": "K",
+            "message": "K (Liquidation) is function #19, but it comes after L (Unfounded claims) (#24). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 1,
+            "pos": 3,
+            "f": "down",
+            "message": "↓ (Return) is function #20, but it comes after L (Unfounded claims) (#24). Within a move Propp's functions keep a fixed order."
+          }
+        ],
+        "refinementsUsed": [
+          "R-IMPLICIT",
+          "R-DEF-EARLY",
+          "R-AGENT-FREE"
+        ]
+      }
+    },
+    {
+      "id": "bear-dog-cat",
+      "title": "The Bear, the Dog, and the Cat",
+      "genre": "animal tale (control)",
+      "atu": "101 (tentative)",
+      "sequence": "α A D E F X K X X",
+      "strict": {
+        "ok": false,
+        "mode": "strict",
+        "violations": [
+          {
+            "code": "UNMAPPED",
+            "move": 0,
+            "pos": 5,
+            "f": "X",
+            "message": "An episode here fits none of the 31 functions (strict mode allows none)."
+          },
+          {
+            "code": "UNMAPPED",
+            "move": 0,
+            "pos": 7,
+            "f": "X",
+            "message": "An episode here fits none of the 31 functions (strict mode allows none)."
+          },
+          {
+            "code": "UNMAPPED",
+            "move": 0,
+            "pos": 8,
+            "f": "X",
+            "message": "An episode here fits none of the 31 functions (strict mode allows none)."
+          }
+        ],
+        "refinementsUsed": []
+      },
+      "refined": {
+        "ok": false,
+        "mode": "refined",
+        "violations": [
+          {
+            "code": "UNMAPPED_EXCESS",
+            "move": null,
+            "pos": null,
+            "f": "X",
+            "message": "3 of 9 entries are unidentified (over the 20% allowance)."
+          }
+        ],
+        "refinementsUsed": []
+      }
+    },
+    {
+      "id": "zamoryshek",
+      "title": "Bába Yagá and Zamorýshek",
+      "genre": "magic",
+      "atu": "327B (tentative)",
+      "sequence": "α a D F K  |  A C F H I F K*  |  a B ↑ G D E X  |  γ δ* A ↓ Pr Rs ↓",
+      "strict": {
+        "ok": false,
+        "mode": "strict",
+        "violations": [
+          {
+            "code": "ORDER",
+            "move": 1,
+            "pos": 5,
+            "f": "F",
+            "message": "F (Receipt of a magical agent) is function #14, but it comes after I (Victory) (#18). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "UNPAIRED",
+            "move": 1,
+            "pos": 0,
+            "f": "A",
+            "message": "A (Villainy) is never followed by K (Liquidation). Villainy must be liquidated within its move."
+          },
+          {
+            "code": "MISSING_PREREQ",
+            "move": 1,
+            "pos": 2,
+            "f": "F",
+            "message": "F (Receipt of a magical agent) appears without an earlier D (First function of the donor) or E (Hero's reaction). The magical agent normally follows the donor episode."
+          },
+          {
+            "code": "MISSING_PREREQ",
+            "move": 1,
+            "pos": 5,
+            "f": "F",
+            "message": "F (Receipt of a magical agent) appears without an earlier D (First function of the donor) or E (Hero's reaction). The magical agent normally follows the donor episode."
+          },
+          {
+            "code": "ORDER",
+            "move": 2,
+            "pos": 4,
+            "f": "D",
+            "message": "D (First function of the donor) is function #12, but it comes after G (Guidance) (#15). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 2,
+            "pos": 5,
+            "f": "E",
+            "message": "E (Hero's reaction) is function #13, but it comes after G (Guidance) (#15). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "UNMAPPED",
+            "move": 2,
+            "pos": 6,
+            "f": "X",
+            "message": "An episode here fits none of the 31 functions (strict mode allows none)."
+          },
+          {
+            "code": "UNPAIRED",
+            "move": 2,
+            "pos": 0,
+            "f": "a",
+            "message": "a (Lack) is never followed by K (Liquidation). A lack must be liquidated within its move."
+          },
+          {
+            "code": "ORDER",
+            "move": 3,
+            "pos": 5,
+            "f": "down",
+            "message": "↓ (Return) is function #20, but it comes after Rs (Rescue) (#22). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "UNPAIRED",
+            "move": 3,
+            "pos": 0,
+            "f": "gamma",
+            "message": "γ (Interdiction) is never followed by δ (Violation). An interdiction is paired with its violation."
+          },
+          {
+            "code": "UNPAIRED",
+            "move": 3,
+            "pos": 1,
+            "f": "A",
+            "message": "A (Villainy) is never followed by K (Liquidation). Villainy must be liquidated within its move."
+          }
+        ],
+        "refinementsUsed": []
+      },
+      "refined": {
+        "ok": false,
+        "mode": "refined",
+        "violations": [
+          {
+            "code": "ORDER",
+            "move": 2,
+            "pos": 4,
+            "f": "D",
+            "message": "D (First function of the donor) is function #12, but it comes after G (Guidance) (#15). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 2,
+            "pos": 5,
+            "f": "E",
+            "message": "E (Hero's reaction) is function #13, but it comes after G (Guidance) (#15). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "UNPAIRED",
+            "move": 2,
+            "pos": 0,
+            "f": "a",
+            "message": "a (Lack) is never followed by K (Liquidation). A lack must be liquidated within its move."
+          },
+          {
+            "code": "UNPAIRED",
+            "move": 3,
+            "pos": 2,
+            "f": "A",
+            "message": "A (Villainy) is never followed by K (Liquidation). Villainy must be liquidated within its move."
+          }
+        ],
+        "refinementsUsed": [
+          "R-IMPLICIT",
+          "R-TREBLE",
+          "R-AGENT-FREE",
+          "R-UNMAPPED"
+        ]
+      }
+    },
+    {
+      "id": "grey-wolf",
+      "title": "The Tale of Iván Tsarévich, the Bird of Light, and the Grey Wolf",
+      "genre": "magic",
+      "atu": "550",
+      "sequence": "α A B C X K  |  a B C ↑ X D F G γ δ M G γ δ M G N N N K ↓  |  A L F K ↓ Q Ex U W",
+      "strict": {
+        "ok": false,
+        "mode": "strict",
+        "violations": [
+          {
+            "code": "UNMAPPED",
+            "move": 0,
+            "pos": 4,
+            "f": "X",
+            "message": "An episode here fits none of the 31 functions (strict mode allows none)."
+          },
+          {
+            "code": "UNMAPPED",
+            "move": 1,
+            "pos": 4,
+            "f": "X",
+            "message": "An episode here fits none of the 31 functions (strict mode allows none)."
+          },
+          {
+            "code": "ORDER",
+            "move": 1,
+            "pos": 8,
+            "f": "gamma",
+            "message": "γ (Interdiction) is function #2, but it comes after G (Guidance) (#15). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 1,
+            "pos": 9,
+            "f": "delta",
+            "message": "δ (Violation) is function #3, but it comes after G (Guidance) (#15). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 1,
+            "pos": 11,
+            "f": "G",
+            "message": "G (Guidance) is function #15, but it comes after M (Difficult task) (#25). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 1,
+            "pos": 12,
+            "f": "gamma",
+            "message": "γ (Interdiction) is function #2, but it comes after M (Difficult task) (#25). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 1,
+            "pos": 13,
+            "f": "delta",
+            "message": "δ (Violation) is function #3, but it comes after M (Difficult task) (#25). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 1,
+            "pos": 15,
+            "f": "G",
+            "message": "G (Guidance) is function #15, but it comes after M (Difficult task) (#25). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 1,
+            "pos": 19,
+            "f": "K",
+            "message": "K (Liquidation) is function #19, but it comes after N (Solution) (#26). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 1,
+            "pos": 20,
+            "f": "down",
+            "message": "↓ (Return) is function #20, but it comes after N (Solution) (#26). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 2,
+            "pos": 2,
+            "f": "F",
+            "message": "F (Receipt of a magical agent) is function #14, but it comes after L (Unfounded claims) (#24). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 2,
+            "pos": 3,
+            "f": "K",
+            "message": "K (Liquidation) is function #19, but it comes after L (Unfounded claims) (#24). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 2,
+            "pos": 4,
+            "f": "down",
+            "message": "↓ (Return) is function #20, but it comes after L (Unfounded claims) (#24). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "MISSING_PREREQ",
+            "move": 2,
+            "pos": 2,
+            "f": "F",
+            "message": "F (Receipt of a magical agent) appears without an earlier D (First function of the donor) or E (Hero's reaction). The magical agent normally follows the donor episode."
+          }
+        ],
+        "refinementsUsed": []
+      },
+      "refined": {
+        "ok": false,
+        "mode": "refined",
+        "violations": [
+          {
+            "code": "ORDER",
+            "move": 1,
+            "pos": 8,
+            "f": "gamma",
+            "message": "γ (Interdiction) is function #2, but it comes after G (Guidance) (#15). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 1,
+            "pos": 9,
+            "f": "delta",
+            "message": "δ (Violation) is function #3, but it comes after G (Guidance) (#15). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 1,
+            "pos": 12,
+            "f": "gamma",
+            "message": "γ (Interdiction) is function #2, but it comes after G (Guidance) (#15). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 1,
+            "pos": 13,
+            "f": "delta",
+            "message": "δ (Violation) is function #3, but it comes after G (Guidance) (#15). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 2,
+            "pos": 2,
+            "f": "F",
+            "message": "F (Receipt of a magical agent) is function #14, but it comes after L (Unfounded claims) (#24). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 2,
+            "pos": 3,
+            "f": "K",
+            "message": "K (Liquidation) is function #19, but it comes after L (Unfounded claims) (#24). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 2,
+            "pos": 4,
+            "f": "down",
+            "message": "↓ (Return) is function #20, but it comes after L (Unfounded claims) (#24). Within a move Propp's functions keep a fixed order."
+          }
+        ],
+        "refinementsUsed": [
+          "R-AGENT-FREE",
+          "R-UNMAPPED"
+        ]
+      }
+    },
+    {
+      "id": "vasilisa",
+      "title": "Vasilísa the Fair",
+      "genre": "magic",
+      "atu": "480B* (tentative)",
+      "sequence": "α β F γ β A B ↑ D E D E D E F K ↓ U M N W",
+      "strict": {
+        "ok": false,
+        "mode": "strict",
+        "violations": [
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 3,
+            "f": "gamma",
+            "message": "γ (Interdiction) is function #2, but it comes after F (Receipt of a magical agent) (#14). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 4,
+            "f": "beta",
+            "message": "β (Absentation) is function #1, but it comes after F (Receipt of a magical agent) (#14). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 5,
+            "f": "A",
+            "message": "A (Villainy) is function #8, but it comes after F (Receipt of a magical agent) (#14). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 6,
+            "f": "B",
+            "message": "B (Mediation) is function #9, but it comes after F (Receipt of a magical agent) (#14). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 7,
+            "f": "up",
+            "message": "↑ (Departure) is function #11, but it comes after F (Receipt of a magical agent) (#14). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 8,
+            "f": "D",
+            "message": "D (First function of the donor) is function #12, but it comes after F (Receipt of a magical agent) (#14). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 9,
+            "f": "E",
+            "message": "E (Hero's reaction) is function #13, but it comes after F (Receipt of a magical agent) (#14). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 10,
+            "f": "D",
+            "message": "D (First function of the donor) is function #12, but it comes after F (Receipt of a magical agent) (#14). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 11,
+            "f": "E",
+            "message": "E (Hero's reaction) is function #13, but it comes after F (Receipt of a magical agent) (#14). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 12,
+            "f": "D",
+            "message": "D (First function of the donor) is function #12, but it comes after F (Receipt of a magical agent) (#14). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 13,
+            "f": "E",
+            "message": "E (Hero's reaction) is function #13, but it comes after F (Receipt of a magical agent) (#14). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 18,
+            "f": "M",
+            "message": "M (Difficult task) is function #25, but it comes after U (Punishment) (#30). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 19,
+            "f": "N",
+            "message": "N (Solution) is function #26, but it comes after U (Punishment) (#30). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "UNPAIRED",
+            "move": 0,
+            "pos": 3,
+            "f": "gamma",
+            "message": "γ (Interdiction) is never followed by δ (Violation). An interdiction is paired with its violation."
+          },
+          {
+            "code": "MISSING_PREREQ",
+            "move": 0,
+            "pos": 2,
+            "f": "F",
+            "message": "F (Receipt of a magical agent) appears without an earlier D (First function of the donor) or E (Hero's reaction). The magical agent normally follows the donor episode."
+          }
+        ],
+        "refinementsUsed": []
+      },
+      "refined": {
+        "ok": false,
+        "mode": "refined",
+        "violations": [
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 3,
+            "f": "gamma",
+            "message": "γ (Interdiction) is function #2, but it comes after F (Receipt of a magical agent) (#14). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 4,
+            "f": "beta",
+            "message": "β (Absentation) is function #1, but it comes after F (Receipt of a magical agent) (#14). Within a move Propp's functions keep a fixed order."
+          }
+        ],
+        "refinementsUsed": [
+          "R-DEF-EARLY",
+          "R-TREBLE",
+          "R-FLOAT-MN",
+          "R-VIRTUAL",
+          "R-AGENT-FREE"
+        ]
+      }
+    },
+    {
+      "id": "shemyak",
+      "title": "Shemyák the Judge",
+      "genre": "novella / anecdote (control)",
+      "atu": "1534",
+      "sequence": "α a X X X X K",
+      "strict": {
+        "ok": false,
+        "mode": "strict",
+        "violations": [
+          {
+            "code": "UNMAPPED",
+            "move": 0,
+            "pos": 2,
+            "f": "X",
+            "message": "An episode here fits none of the 31 functions (strict mode allows none)."
+          },
+          {
+            "code": "UNMAPPED",
+            "move": 0,
+            "pos": 3,
+            "f": "X",
+            "message": "An episode here fits none of the 31 functions (strict mode allows none)."
+          },
+          {
+            "code": "UNMAPPED",
+            "move": 0,
+            "pos": 4,
+            "f": "X",
+            "message": "An episode here fits none of the 31 functions (strict mode allows none)."
+          },
+          {
+            "code": "UNMAPPED",
+            "move": 0,
+            "pos": 5,
+            "f": "X",
+            "message": "An episode here fits none of the 31 functions (strict mode allows none)."
+          }
+        ],
+        "refinementsUsed": []
+      },
+      "refined": {
+        "ok": false,
+        "mode": "refined",
+        "violations": [
+          {
+            "code": "UNMAPPED_EXCESS",
+            "move": null,
+            "pos": null,
+            "f": "X",
+            "message": "4 of 7 entries are unidentified (over the 20% allowance)."
+          }
+        ],
+        "refinementsUsed": []
+      }
+    },
+    {
+      "id": "witch-sun",
+      "title": "The Witch and the Sister of the Sun",
+      "genre": "magic",
+      "atu": "313H* (tentative)",
+      "sequence": "α γ δ ↑ A B F ↓ X F  |  A ↓ Pr Rs Rs Rs Rs H I K*",
+      "strict": {
+        "ok": false,
+        "mode": "strict",
+        "violations": [
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 4,
+            "f": "A",
+            "message": "A (Villainy) is function #8, but it comes after ↑ (Departure) (#11). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 5,
+            "f": "B",
+            "message": "B (Mediation) is function #9, but it comes after ↑ (Departure) (#11). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "UNMAPPED",
+            "move": 0,
+            "pos": 8,
+            "f": "X",
+            "message": "An episode here fits none of the 31 functions (strict mode allows none)."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 9,
+            "f": "F",
+            "message": "F (Receipt of a magical agent) is function #14, but it comes after ↓ (Return) (#20). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "UNPAIRED",
+            "move": 0,
+            "pos": 4,
+            "f": "A",
+            "message": "A (Villainy) is never followed by K (Liquidation). Villainy must be liquidated within its move."
+          },
+          {
+            "code": "MISSING_PREREQ",
+            "move": 0,
+            "pos": 6,
+            "f": "F",
+            "message": "F (Receipt of a magical agent) appears without an earlier D (First function of the donor) or E (Hero's reaction). The magical agent normally follows the donor episode."
+          },
+          {
+            "code": "MISSING_PREREQ",
+            "move": 0,
+            "pos": 9,
+            "f": "F",
+            "message": "F (Receipt of a magical agent) appears without an earlier D (First function of the donor) or E (Hero's reaction). The magical agent normally follows the donor episode."
+          },
+          {
+            "code": "ORDER",
+            "move": 1,
+            "pos": 7,
+            "f": "H",
+            "message": "H (Struggle) is function #16, but it comes after Rs (Rescue) (#22). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 1,
+            "pos": 8,
+            "f": "I",
+            "message": "I (Victory) is function #18, but it comes after Rs (Rescue) (#22). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "UNPAIRED",
+            "move": 1,
+            "pos": 0,
+            "f": "A",
+            "message": "A (Villainy) is never followed by K (Liquidation). Villainy must be liquidated within its move."
+          }
+        ],
+        "refinementsUsed": []
+      },
+      "refined": {
+        "ok": false,
+        "mode": "refined",
+        "violations": [
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 4,
+            "f": "A",
+            "message": "A (Villainy) is function #8, but it comes after ↑ (Departure) (#11). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 5,
+            "f": "B",
+            "message": "B (Mediation) is function #9, but it comes after ↑ (Departure) (#11). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "UNPAIRED",
+            "move": 0,
+            "pos": 4,
+            "f": "A",
+            "message": "A (Villainy) is never followed by K (Liquidation). Villainy must be liquidated within its move."
+          },
+          {
+            "code": "ORDER",
+            "move": 1,
+            "pos": 7,
+            "f": "H",
+            "message": "H (Struggle) is function #16, but it comes after Rs (Rescue) (#22). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 1,
+            "pos": 8,
+            "f": "I",
+            "message": "I (Victory) is function #18, but it comes after Rs (Rescue) (#22). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 1,
+            "pos": 9,
+            "f": "K",
+            "message": "K (Liquidation) is function #19, but it comes after Rs (Rescue) (#22). Within a move Propp's functions keep a fixed order."
+          }
+        ],
+        "refinementsUsed": [
+          "R-IMPLICIT",
+          "R-TREBLE",
+          "R-AGENT-FREE",
+          "R-UNMAPPED"
+        ]
+      }
+    },
+    {
+      "id": "realms-copper",
+      "title": "The Realms of Copper, Silver and Gold",
+      "genre": "magic",
+      "atu": "301",
+      "sequence": "α a B ↑ D E ↓ B D E ↓ B ↑ D E G D E F D E F D E F K ↓  |  A D G D E F G K ↓ W",
+      "strict": {
+        "ok": false,
+        "mode": "strict",
+        "violations": [
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 7,
+            "f": "B",
+            "message": "B (Mediation) is function #9, but it comes after ↓ (Return) (#20). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 8,
+            "f": "D",
+            "message": "D (First function of the donor) is function #12, but it comes after ↓ (Return) (#20). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 9,
+            "f": "E",
+            "message": "E (Hero's reaction) is function #13, but it comes after ↓ (Return) (#20). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 11,
+            "f": "B",
+            "message": "B (Mediation) is function #9, but it comes after ↓ (Return) (#20). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 12,
+            "f": "up",
+            "message": "↑ (Departure) is function #11, but it comes after ↓ (Return) (#20). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 13,
+            "f": "D",
+            "message": "D (First function of the donor) is function #12, but it comes after ↓ (Return) (#20). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 14,
+            "f": "E",
+            "message": "E (Hero's reaction) is function #13, but it comes after ↓ (Return) (#20). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 15,
+            "f": "G",
+            "message": "G (Guidance) is function #15, but it comes after ↓ (Return) (#20). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 16,
+            "f": "D",
+            "message": "D (First function of the donor) is function #12, but it comes after ↓ (Return) (#20). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 17,
+            "f": "E",
+            "message": "E (Hero's reaction) is function #13, but it comes after ↓ (Return) (#20). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 18,
+            "f": "F",
+            "message": "F (Receipt of a magical agent) is function #14, but it comes after ↓ (Return) (#20). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 19,
+            "f": "D",
+            "message": "D (First function of the donor) is function #12, but it comes after ↓ (Return) (#20). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 20,
+            "f": "E",
+            "message": "E (Hero's reaction) is function #13, but it comes after ↓ (Return) (#20). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 21,
+            "f": "F",
+            "message": "F (Receipt of a magical agent) is function #14, but it comes after ↓ (Return) (#20). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 22,
+            "f": "D",
+            "message": "D (First function of the donor) is function #12, but it comes after ↓ (Return) (#20). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 23,
+            "f": "E",
+            "message": "E (Hero's reaction) is function #13, but it comes after ↓ (Return) (#20). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 24,
+            "f": "F",
+            "message": "F (Receipt of a magical agent) is function #14, but it comes after ↓ (Return) (#20). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 25,
+            "f": "K",
+            "message": "K (Liquidation) is function #19, but it comes after ↓ (Return) (#20). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 1,
+            "pos": 3,
+            "f": "D",
+            "message": "D (First function of the donor) is function #12, but it comes after G (Guidance) (#15). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 1,
+            "pos": 4,
+            "f": "E",
+            "message": "E (Hero's reaction) is function #13, but it comes after G (Guidance) (#15). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 1,
+            "pos": 5,
+            "f": "F",
+            "message": "F (Receipt of a magical agent) is function #14, but it comes after G (Guidance) (#15). Within a move Propp's functions keep a fixed order."
+          }
+        ],
+        "refinementsUsed": []
+      },
+      "refined": {
+        "ok": true,
+        "mode": "refined",
+        "violations": [],
+        "refinementsUsed": [
+          "R-TREBLE"
+        ]
+      }
+    },
+    {
+      "id": "nikita",
+      "title": "Nikíta the Tanner",
+      "genre": "magic / legend",
+      "atu": "300 (tentative)",
+      "sequence": "A ε ζ B C F ↑ H I X I K* ↓",
+      "strict": {
+        "ok": false,
+        "mode": "strict",
+        "violations": [
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 1,
+            "f": "epsilon",
+            "message": "ε (Reconnaissance) is function #4, but it comes after A (Villainy) (#8). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 2,
+            "f": "zeta",
+            "message": "ζ (Delivery) is function #5, but it comes after A (Villainy) (#8). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 6,
+            "f": "up",
+            "message": "↑ (Departure) is function #11, but it comes after F (Receipt of a magical agent) (#14). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "UNMAPPED",
+            "move": 0,
+            "pos": 9,
+            "f": "X",
+            "message": "An episode here fits none of the 31 functions (strict mode allows none)."
+          },
+          {
+            "code": "UNPAIRED",
+            "move": 0,
+            "pos": 0,
+            "f": "A",
+            "message": "A (Villainy) is never followed by K (Liquidation). Villainy must be liquidated within its move."
+          },
+          {
+            "code": "MISSING_PREREQ",
+            "move": 0,
+            "pos": 5,
+            "f": "F",
+            "message": "F (Receipt of a magical agent) appears without an earlier D (First function of the donor) or E (Hero's reaction). The magical agent normally follows the donor episode."
+          }
+        ],
+        "refinementsUsed": []
+      },
+      "refined": {
+        "ok": false,
+        "mode": "refined",
+        "violations": [
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 6,
+            "f": "up",
+            "message": "↑ (Departure) is function #11, but it comes after F (Receipt of a magical agent) (#14). Within a move Propp's functions keep a fixed order."
+          }
+        ],
+        "refinementsUsed": [
+          "R-IMPLICIT",
+          "R-HERO-RECON",
+          "R-AGENT-FREE",
+          "R-UNMAPPED"
+        ]
+      }
+    },
+    {
+      "id": "enchanted-tsarevich",
+      "title": "The Enchanted Tsarévich",
+      "genre": "magic",
+      "atu": "425C",
+      "sequence": "α β a γ* δ K  |  A ↑ D E D E D E  |  γ η θ δ A K ↓ W",
+      "strict": {
+        "ok": false,
+        "mode": "strict",
+        "violations": [
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 3,
+            "f": "delta",
+            "message": "δ (Violation) is function #3, but it comes after a (Lack) (#8). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "MISSING_PREREQ",
+            "move": 0,
+            "pos": 3,
+            "f": "delta",
+            "message": "δ (Violation) appears without an earlier γ (Interdiction). A violation presupposes an interdiction."
+          },
+          {
+            "code": "ORDER",
+            "move": 1,
+            "pos": 4,
+            "f": "D",
+            "message": "D (First function of the donor) is function #12, but it comes after E (Hero's reaction) (#13). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 1,
+            "pos": 6,
+            "f": "D",
+            "message": "D (First function of the donor) is function #12, but it comes after E (Hero's reaction) (#13). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "UNPAIRED",
+            "move": 1,
+            "pos": 0,
+            "f": "A",
+            "message": "A (Villainy) is never followed by K (Liquidation). Villainy must be liquidated within its move."
+          },
+          {
+            "code": "ORDER",
+            "move": 2,
+            "pos": 3,
+            "f": "delta",
+            "message": "δ (Violation) is function #3, but it comes after θ (Complicity) (#7). Within a move Propp's functions keep a fixed order."
+          }
+        ],
+        "refinementsUsed": []
+      },
+      "refined": {
+        "ok": false,
+        "mode": "refined",
+        "violations": [
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 3,
+            "f": "gamma",
+            "message": "γ (Interdiction) is function #2, but it comes after a (Lack) (#8). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 4,
+            "f": "delta",
+            "message": "δ (Violation) is function #3, but it comes after a (Lack) (#8). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "UNPAIRED",
+            "move": 1,
+            "pos": 0,
+            "f": "A",
+            "message": "A (Villainy) is never followed by K (Liquidation). Villainy must be liquidated within its move."
+          },
+          {
+            "code": "ORDER",
+            "move": 2,
+            "pos": 3,
+            "f": "delta",
+            "message": "δ (Violation) is function #3, but it comes after θ (Complicity) (#7). Within a move Propp's functions keep a fixed order."
+          }
+        ],
+        "refinementsUsed": [
+          "R-IMPLICIT",
+          "R-TREBLE"
+        ]
+      }
+    },
+    {
+      "id": "ivashko",
+      "title": "Iváshko and the Wise Woman",
+      "genre": "magic",
+      "atu": "327F",
+      "sequence": "α β ε ζ* η η θ A H I K ↓ X Pr Rs Pr Rs Q",
+      "strict": {
+        "ok": false,
+        "mode": "strict",
+        "violations": [
+          {
+            "code": "UNMAPPED",
+            "move": 0,
+            "pos": 11,
+            "f": "X",
+            "message": "An episode here fits none of the 31 functions (strict mode allows none)."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 14,
+            "f": "Pr",
+            "message": "Pr (Pursuit) is function #21, but it comes after Rs (Rescue) (#22). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "UNPAIRED",
+            "move": 0,
+            "pos": 2,
+            "f": "epsilon",
+            "message": "ε (Reconnaissance) is never followed by ζ (Delivery). Reconnaissance is paired with delivery of information."
+          },
+          {
+            "code": "MISSING_PREREQ",
+            "move": 0,
+            "pos": 16,
+            "f": "Q",
+            "message": "Q (Recognition) appears without an earlier J (Branding) or N (Solution). Recognition is by a mark or by a solved task."
+          }
+        ],
+        "refinementsUsed": []
+      },
+      "refined": {
+        "ok": true,
+        "mode": "refined",
+        "violations": [],
+        "refinementsUsed": [
+          "R-IMPLICIT",
+          "R-TREBLE",
+          "R-AGENT-FREE",
+          "R-UNMAPPED"
+        ]
+      }
+    },
+    {
+      "id": "language-birds",
+      "title": "The Language of the Birds",
+      "genre": "novella / fate tale",
+      "atu": "517 + 671",
+      "sequence": "α X A F G X M N W ↑ Q K",
+      "strict": {
+        "ok": false,
+        "mode": "strict",
+        "violations": [
+          {
+            "code": "UNMAPPED",
+            "move": 0,
+            "pos": 1,
+            "f": "X",
+            "message": "An episode here fits none of the 31 functions (strict mode allows none)."
+          },
+          {
+            "code": "UNMAPPED",
+            "move": 0,
+            "pos": 5,
+            "f": "X",
+            "message": "An episode here fits none of the 31 functions (strict mode allows none)."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 9,
+            "f": "up",
+            "message": "↑ (Departure) is function #11, but it comes after W (Wedding) (#31). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 10,
+            "f": "Q",
+            "message": "Q (Recognition) is function #27, but it comes after W (Wedding) (#31). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 11,
+            "f": "K",
+            "message": "K (Liquidation) is function #19, but it comes after W (Wedding) (#31). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "MISSING_PREREQ",
+            "move": 0,
+            "pos": 3,
+            "f": "F",
+            "message": "F (Receipt of a magical agent) appears without an earlier D (First function of the donor) or E (Hero's reaction). The magical agent normally follows the donor episode."
+          }
+        ],
+        "refinementsUsed": []
+      },
+      "refined": {
+        "ok": false,
+        "mode": "refined",
+        "violations": [
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 9,
+            "f": "up",
+            "message": "↑ (Departure) is function #11, but it comes after W (Wedding) (#31). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 10,
+            "f": "Q",
+            "message": "Q (Recognition) is function #27, but it comes after W (Wedding) (#31). Within a move Propp's functions keep a fixed order."
+          },
+          {
+            "code": "ORDER",
+            "move": 0,
+            "pos": 11,
+            "f": "K",
+            "message": "K (Liquidation) is function #19, but it comes after W (Wedding) (#31). Within a move Propp's functions keep a fixed order."
+          }
+        ],
+        "refinementsUsed": [
+          "R-AGENT-FREE",
+          "R-UNMAPPED"
+        ]
+      }
+    }
+  ]
+}
