@@ -94,7 +94,7 @@
   const OPENERS3 = ['Meanwhile, ', 'Not long after, ', 'And ', 'Well, ', 'Now ', 'Before long ', 'In time ', 'That same week ', 'As it happened, ', 'Wouldn’t you know it, ', 'Three days later ', 'Then, ', 'Of course ', 'Naturally, '];
 
   function cap(s) { return s ? s[0].toUpperCase() + s.slice(1) : s; }
-  const SHORT_FORMS = { hero: (c) => [c.heroShort, c.heroShort, c.heroShort, c.pro === 'she' ? 'the girl' : 'the lad', 'our ' + c.heroShort], villain: (c) => [c.villainShort, c.villainShort, 'the ' + c.villainKind] };
+  const SHORT_FORMS = { hero: (c) => [c.heroShort, c.heroShort, c.heroShort, c.pro === 'she' ? 'the girl' : 'the lad', 'our ' + c.heroShort], villain: (c) => [c.villainShort] };
   function expand(tpl, ctx, r, key, v2) {
     let n = 0;
     const v3 = v2 === 'v3';
@@ -293,7 +293,7 @@
         const lines = { G: '[{HelperShort} found {hero} and carried {him} by back ways|A stray thread of the road led {hero} on].', Pr: '{FalseHero} [heard of it and came running|sent dogs after {hero}].', Rs: '[{Hero} hid in a haystack until the dogs grew bored|A kind miller turned {hero} into a sack of flour for an afternoon].', B: 'Word reached {hero} that the court was waiting.' };
         pre = expand(v2 ? lines[e.f] : lines[e.f].replace(/\[([^|\]]+)[^\]]*\]/g, '$1'), ctx, r, key, v2);
       } else if (e.f === 'H') {
-        pre = expand(v2 ? '[At last|There at the heart of {realm}], {hero} stood before {villain}, {villainWhat}.' : '{Hero} found {villain}.', ctx, r, key + 'pre', v2);
+        pre = expand(v2 ? '[At last|There at the heart of {realm}|In the very middle of {lair}], {hero} stood before {villain}.' : '{Hero} found {villain}.', ctx, r, key + 'pre', v2);
         post = phrase(name, ctx, r, key, v2);
       } else {
         pre = phrase(name, ctx, r, key, v2, pos === 0);

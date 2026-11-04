@@ -22,7 +22,7 @@ A ferryman with no shadow unfolded a rag that held three things: a horse-hair th
 
 Following a hare that was not a hare, Kuzma went through the forest, where the trees whispered half of everything, until the stars changed at the Birch Thicket of Unfinished Sentences.
 
-There at the heart of the Birch Thicket of Unfinished Sentences, our Kuzma stood before the Widow of the Well, a wet grey woman who lived under the bucket. Then, the wet grey came out, and they fought.
+In the very middle of the bottom of the old well, our Kuzma stood before the Widow of the Well. Then, the Widow came out, and they fought.
 
 The Widow was beaten fair, which was the bitter part, and slunk away.
 
@@ -42,6 +42,6 @@ By luck and stubbornness, Kuzma did it, and yawned.
 
 By his old crooked grin, they knew Kuzma at last.
 
-Justice in that kingdom was strange but thorough: the wet grey was made to count the crows of the kingdom, and is counting still.
+Justice in that kingdom was strange but thorough: the Widow was made to count the crows of the kingdom, and is counting still.
 
 So Kuzma married Tsarevna Lumina, with pancakes stacked to the rafters.

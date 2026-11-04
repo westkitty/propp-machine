@@ -10,7 +10,7 @@ Three days later a one-eyed stranger came asking whose child that was. It was Ol
 
 A chattering neighbour told the Mist everything.
 
-Not long after, That night, the fog, a fog with teeth and an appetite for names, came down the chimney and snatched away Tsarevna Lumina to the marsh where the road gave up.
+Not long after, That night, the Mist, a fog with teeth and an appetite for names, came down the chimney and snatched away Tsarevna Lumina to the marsh where the road gave up.
 
 “Is there anyone not busy?” cried the village elder with the brass ear-trumpet. Only Marfa stood up.
 
@@ -28,7 +28,7 @@ The cage swung open, and Tsarevna Lumina stepped out blinking.
 
 Then, our Marfa went back the way she had come.
 
-Behind came the fog, chasing.
+Behind came the Mist, chasing.
 
 A talkative skull with lantern eyes carried the girl away to safety.
 

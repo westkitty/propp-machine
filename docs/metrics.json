@@ -203,5 +203,117 @@
         "heroFullNameMentionsPerTale": 1.22
       }
     }
+  },
+  "final": {
+    "generatedAt": "2026-11-04T13:02:25.913Z",
+    "structure": {
+      "generated": {
+        "tales": 1000,
+        "distinct": 988,
+        "distinctRatio": 0.988,
+        "sequenceEntropyBits": 9.942,
+        "maxPossibleBits": 9.966,
+        "functionEntropyBits": 4.916,
+        "transitionCondEntropyBits": 0.923,
+        "distinctTransitions": 114,
+        "meanLength": 21.39,
+        "bigramsTotal": 22394
+      },
+      "generatedFirst12": {
+        "tales": 12,
+        "distinct": 12,
+        "distinctRatio": 1,
+        "sequenceEntropyBits": 3.585,
+        "maxPossibleBits": 3.585,
+        "functionEntropyBits": 4.906,
+        "transitionCondEntropyBits": 0.694,
+        "distinctTransitions": 68,
+        "meanLength": 21.58,
+        "bigramsTotal": 271
+      },
+      "real12": {
+        "tales": 12,
+        "distinct": 12,
+        "distinctRatio": 1,
+        "sequenceEntropyBits": 3.585,
+        "maxPossibleBits": 3.585,
+        "functionEntropyBits": 4.649,
+        "transitionCondEntropyBits": 1.881,
+        "distinctTransitions": 128,
+        "meanLength": 19.83,
+        "bigramsTotal": 250
+      },
+      "realMagic": {
+        "tales": 9,
+        "distinct": 9,
+        "distinctRatio": 1,
+        "sequenceEntropyBits": 3.17,
+        "maxPossibleBits": 3.17,
+        "functionEntropyBits": 4.67,
+        "transitionCondEntropyBits": 1.728,
+        "distinctTransitions": 115,
+        "meanLength": 23.33,
+        "bigramsTotal": 219
+      }
+    },
+    "prose": {
+      "v1": {
+        "tales": 50,
+        "words": 15850,
+        "sentences": 1218,
+        "distinct1": 0.037,
+        "distinct2": 0.143,
+        "distinct3": 0.243,
+        "repeatedOpeningRate": 0.903,
+        "topOpenings": [
+          "dunya of (64)",
+          "kuzma crookedcap (53)",
+          "agafya last (49)",
+          "ivashka ninth (42)",
+          "tikhon who (37)"
+        ],
+        "duplicateSentenceRate": 0.565,
+        "meanPairwise4gramJaccard": 0.0594,
+        "heroFullNameMentionsPerTale": 15.34
+      },
+      "v2": {
+        "tales": 50,
+        "words": 20483,
+        "sentences": 1272,
+        "distinct1": 0.05,
+        "distinct2": 0.209,
+        "distinct3": 0.343,
+        "repeatedOpeningRate": 0.79,
+        "topOpenings": [
+          "by then (75)",
+          "so it (58)",
+          "not long (57)",
+          "when the (25)",
+          "in the (22)"
+        ],
+        "duplicateSentenceRate": 0.209,
+        "meanPairwise4gramJaccard": 0.0392,
+        "heroFullNameMentionsPerTale": 14.54
+      },
+      "v3": {
+        "tales": 50,
+        "words": 18477,
+        "sentences": 1272,
+        "distinct1": 0.056,
+        "distinct2": 0.231,
+        "distinct3": 0.373,
+        "repeatedOpeningRate": 0.718,
+        "topOpenings": [
+          "then the (25)",
+          "when the (25)",
+          "the lad (23)",
+          "the count (22)",
+          "in the (22)"
+        ],
+        "duplicateSentenceRate": 0.216,
+        "meanPairwise4gramJaccard": 0.0401,
+        "heroFullNameMentionsPerTale": 1.22
+      }
+    }
   }
 }

@@ -24,6 +24,6 @@ Far from home, Prokop met a king short of exactly one brave fool.
 
 Somehow, our Prokop came back into the light, cross but whole.
 
-And the wet grey was turned into a draughty doorway that everyone complained about.
+And the Widow was turned into a draughty doorway that everyone complained about.
 
 The lad and Tsarevich Lev Pale-Hands were wed, and are living still, if they have not died.

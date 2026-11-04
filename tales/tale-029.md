@@ -20,9 +20,9 @@ Well, Our Prokop answered politely.
 
 A birch tree with a terrible cough unfolded a rag that held three things: a ball of red thread that knows the way; a handkerchief that unfolds into a lake; a birch-bark flute that makes the dead dance politely. A birch tree with a terrible cough gave Prokop a handkerchief that unfolds into a lake.
 
-There at the heart of the Copper Kingdom under the earth, the lad stood before the lord, a lord made of dust and good manners. The Count came out, and they fought.
+In the very middle of a castle where every candle was afraid, the lad stood before the Count. The Count came out, and they fought.
 
-The lord was beaten.
+The Count was beaten.
 
 Then, the sunrise was let out of its sack, and Tsarevich Lev Pale-Hands laughed for the first time in a year.
 

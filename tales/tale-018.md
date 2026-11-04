@@ -26,9 +26,9 @@ The Grandmother of Owls unfolded a rag that held three things: a handkerchief th
 
 On the back of the judge-goose, Tikhon went down a ladder of roots, deeper than the wells go, until the road ran out at the Copper Kingdom under the earth.
 
-There at the heart of the Copper Kingdom under the earth, Tikhon stood before Pickleback, a salt-green serpent with three heads and one opinion. Not long after, Pickleback came out, and they fought.
+In the very middle of a cave that smelled of brine, Tikhon stood before Pickleback. Not long after, Pickleback came out, and they fought.
 
-The salt-green serpent was beaten.
+Pickleback was beaten.
 
 Everything that had been taken was put right.
 

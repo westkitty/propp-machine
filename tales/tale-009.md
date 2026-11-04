@@ -22,7 +22,7 @@ A ferryman with no shadow opened a sack that held three things: a birch-bark flu
 
 Then Kuzma travelled through the forest, where the trees whispered half of everything, and came to the Birch Thicket of Unfinished Sentences.
 
-There at the heart of the Birch Thicket of Unfinished Sentences, Kuzma stood before Count Moth, a lord made of dust and good manners. Kuzma tricked the Count instead of fighting.
+There at the heart of the Birch Thicket of Unfinished Sentences, Kuzma stood before Count Moth. Kuzma tricked the Count instead of fighting.
 
 And so the Count was defeated.
 

@@ -8,7 +8,7 @@ In a hut beside a river that ran uphill on Sundays there lived Olya Ashpocket, w
 
 Our Olya took the cake and fell asleep.
 
-Then the lord came and took Princess Vasilka the Unhurried away.
+Then the Count came and took Princess Vasilka the Unhurried away.
 
 The news went round, and at last it reached the girl.
 
@@ -24,7 +24,7 @@ An old woman knitting fog unfolded a rag that held three things: a handkerchief 
 
 Then our Olya travelled over the sea, where the fish kept diaries and the waves read them aloud, and came to the Thrice-Tenth Sea.
 
-At last, our Olya stood before the Count, a lord made of dust and good manners. The lord proposed a contest.
+At last, our Olya stood before the Count. The Count proposed a contest.
 
 The Count was beaten.
 
@@ -32,9 +32,9 @@ The sunrise was let out of its sack, and Princess Vasilka the Unhurried stepped 
 
 Then the girl turned back toward a hut beside a river that ran uphill on Sundays.
 
-Behind came the lord, chasing.
+Behind came the Count, chasing.
 
-Olya unstopped the jar, and borrowed thunder rolled out, very loud and slightly apologetic, and the lord had to go round, grumbling.
+Olya unstopped the jar, and borrowed thunder rolled out, very loud and slightly apologetic, and the Count had to go round, grumbling.
 
 Three days later unremembered, Olya took work in the royal kitchen and waited.
 

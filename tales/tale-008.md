@@ -14,7 +14,7 @@ Of course the weathervane told the stranger everything, and Ninetoes smiled with
 
 The girl took the cake and fell asleep.
 
-When the dogs fell silent, the witch, a witch who lived in a hut that paced like a dog, seeped under the door and wrapped up and took Princess Vasilka the Unhurried to her pacing hut.
+When the dogs fell silent, Ninetoes, a witch who lived in a hut that paced like a dog, seeped under the door and wrapped up and took Princess Vasilka the Unhurried to her pacing hut.
 
 “Is there anyone not busy?” cried old father Foma. Only Olya stood up.
 
@@ -28,7 +28,7 @@ Olya answered politely.
 
 A birch tree with a terrible cough opened a sack that held three things: a birch-bark flute that makes the dead dance politely; boots that walk only forward; a jar of borrowed thunder. A birch tree with a terrible cough gave Olya a jar of borrowed thunder.
 
-At last, the girl stood before Ninetoes, a witch who lived in a hut that paced like a dog. Olya hid in a cream jug, and Ninetoes fell for it.
+There at the heart of the Copper Kingdom under the earth, the girl stood before Ninetoes. Olya hid in a cream jug, and Ninetoes fell for it.
 
 Princess Vasilka the Unhurried pressed a ring into her hand. “So I will know you.”
 

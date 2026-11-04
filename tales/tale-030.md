@@ -20,7 +20,7 @@ At a crossroads, Dunya met a ferryman with no shadow at a river that had forgott
 
 Dunya laughed and refused.
 
-There at the heart of the Thrice-Tenth Sea, our Dunya stood before the Tallow King, a monarch who melted a little whenever he lied. The waxen king came out, and they fought.
+In the very middle of a palace of dripping wax, our Dunya stood before the Tallow King. The waxen king came out, and they fought.
 
 At the cock’s first crow, the waxen king was undone.
 

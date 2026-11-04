@@ -14,7 +14,7 @@ The Widow of the Well put on a kindly face and a borrowed voice.
 
 Agafya took the cake and fell asleep.
 
-The wet grey, a wet grey woman who lived under the bucket, stole the singing apple that told the truth.
+The Widow, a wet grey woman who lived under the bucket, stole the singing apple that told the truth.
 
 The hero’s grandmother called our Agafya and said: “Go, and bring it back.”
 
@@ -30,7 +30,7 @@ A hedgehog wearing a bishop’s hat unfolded a rag that held three things: a hor
 
 Then Agafya travelled over the sea, where the fish kept diaries and the waves read them aloud, and came to the Thrice-Tenth Sea.
 
-There at the heart of the Thrice-Tenth Sea, the girl stood before the Widow, a wet grey woman who lived under the bucket. And the wet grey set out the scales of the dead, and they matched wits three rounds.
+In the very middle of the bottom of the old well, the girl stood before the Widow. And the Widow set out the scales of the dead, and they matched wits three rounds.
 
 With a sound like a wet bell, the Widow burst into moths.
 

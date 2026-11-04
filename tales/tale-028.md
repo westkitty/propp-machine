@@ -22,11 +22,11 @@ The Grandmother of Owls opened a sack that held three things: boots that walk on
 
 Following a hare that was not a hare, Savva went down a ladder of roots, deeper than the wells go, until the stars changed at the Copper Kingdom under the earth.
 
-There at the heart of the Copper Kingdom under the earth, the lad stood before the monarch, a monarch who melted a little whenever he lied. The waxen king proposed a contest.
+In the very middle of a palace of dripping wax, the lad stood before the waxen king. The waxen king proposed a contest.
 
 In the fight, the waxen king scorched Savva on the palm: a mark like a little moon.
 
-With a last blow, the monarch burst into moths.
+With a last blow, the waxen king burst into moths.
 
 Three days later everything that had been taken was put right.
 

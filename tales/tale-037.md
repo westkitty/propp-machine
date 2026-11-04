@@ -8,7 +8,7 @@ In time the Tallow King forged a voice at the smithy.
 
 Marfa nodded, which was exactly what was wanted.
 
-That night the monarch, a monarch who melted a little whenever he lied, carried off Tsarevna Lumina to a palace of dripping wax.
+That night the waxen king, a monarch who melted a little whenever he lied, carried off Tsarevna Lumina to a palace of dripping wax.
 
 “Must I go myself, with my knees?” cried old father Foma. Even the cat looked away.
 

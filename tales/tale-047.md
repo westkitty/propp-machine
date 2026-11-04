@@ -26,9 +26,9 @@ An old woman knitting fog on a stump at the edge of the road asked for a name an
 
 Dunya was rude and walked on.
 
-At last, Dunya stood before the lord, a lord made of dust and good manners. The lord set out a board of black and bone, and they matched wits three rounds.
+There at the heart of the Birch Thicket of Unfinished Sentences, Dunya stood before the Count. The Count set out a board of black and bone, and they matched wits three rounds.
 
-The lord was beaten.
+The Count was beaten.
 
 Everything that had been taken was put right.
 

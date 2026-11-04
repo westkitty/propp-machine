@@ -6,7 +6,7 @@ Once, in a kingdom so small that the Tsar could hear every sneeze in it, lived Y
 
 Well, a polite stranger came asking what the house was afraid of. It was Count Moth.
 
-A chattering neighbour told the lord everything.
+A chattering neighbour told the Count everything.
 
 The Count bottled up the singing apple that told the truth, and the clocks ran backwards.
 
@@ -24,7 +24,7 @@ An old woman knitting fog unfolded a rag that held three things: a bone comb tha
 
 So Yelena came to the Copper Kingdom under the earth, having gone down a ladder of roots, deeper than the wells go.
 
-There at the heart of the Copper Kingdom under the earth, Yelena stood before the Count, a lord made of dust and good manners. The lord challenged Yelena to a contest of riddles.
+In the very middle of a castle where every candle was afraid, Yelena stood before the Count. The Count challenged Yelena to a contest of riddles.
 
 And so the Count was defeated.
 
@@ -34,7 +34,7 @@ With the prize in her cap, the girl took the road back to a kingdom so small tha
 
 The Count flew after our Yelena.
 
-Yelena let the red thread roll ahead, and it found the crooked path, and the lord was stuck behind it for three days.
+Yelena let the red thread roll ahead, and it found the crooked path, and the Count was stuck behind it for three days.
 
 At home nobody recognised Yelena.
 

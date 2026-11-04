@@ -22,7 +22,7 @@ The girl set out along the road. Where three ways met, the girl took the road do
 
 Riding the wind’s spare horse, Agafya went down a ladder of roots, deeper than the wells go, until the road ran out at the Copper Kingdom under the earth.
 
-There at the heart of the Copper Kingdom under the earth, Agafya stood before the salt-green serpent, a salt-green serpent with three heads and one opinion. Agafya played a trick on Pickleback.
+There at the heart of the Copper Kingdom under the earth, Agafya stood before Pickleback. Agafya played a trick on Pickleback.
 
 Pickleback was beaten fair, which was the bitter part, and went to pieces, quite literally.
 
@@ -30,7 +30,7 @@ As it happened, the cage swung open, and Tsarevich Lev Pale-Hands stepped out bl
 
 Meanwhile, Agafya went home.
 
-Three days later the salt-green serpent flew after the girl.
+Three days later Pickleback flew after the girl.
 
 A goose who used to be a judge carried the girl away to safety.
 

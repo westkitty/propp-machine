@@ -24,7 +24,7 @@ On the way the lad met a hedgehog wearing a bishop’s hat under a cart that had
 
 Following a hare that was not a hare, the lad went down a ladder of roots, deeper than the wells go, until the stars changed at the Copper Kingdom under the earth.
 
-There at the heart of the Copper Kingdom under the earth, our Kuzma stood before Zmei Pickleback, a salt-green serpent with three heads and one opinion. Pickleback challenged our Kuzma to a contest of riddles.
+In the very middle of a cave that smelled of brine, our Kuzma stood before Zmei Pickleback. Pickleback challenged our Kuzma to a contest of riddles.
 
 And so Pickleback was defeated.
 

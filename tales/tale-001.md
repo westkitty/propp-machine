@@ -18,7 +18,7 @@ So Dunya left home. Where three ways met, Dunya took the road that went through 
 
 Then Dunya travelled through the forest, where the trees whispered half of everything, and came to the Birch Thicket of Unfinished Sentences.
 
-At last, Dunya stood before Ninetoes, a witch who lived in a hut that paced like a dog. “Fighting is for peasants,” said Ninetoes. “Let us weigh ourselves on the great scales.”
+At last, Dunya stood before Ninetoes. “Fighting is for peasants,” said Ninetoes. “Let us weigh ourselves on the great scales.”
 
 With a last blow, Ninetoes melted into a puddle that complained.
 
@@ -38,6 +38,6 @@ By the mark, they knew Dunya at last.
 
 Then, a little wooden doll that ate porridge gave the girl new clothes.
 
-And the witch: Ninetoes was tied to a mule’s tail and taken to a very long sermon.
+And Ninetoes: Ninetoes was tied to a mule’s tail and taken to a very long sermon.
 
 So Dunya married the Moonmiller’s daughter, and I was there, and drank mead; it ran down my beard but never reached my mouth.

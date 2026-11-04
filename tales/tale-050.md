@@ -12,7 +12,7 @@ Forbidden things are heavy; Tikhon Who Counts Crows put it down in exactly the w
 
 A one-eyed stranger came asking whose child that was. It was the Widow of the Well.
 
-And so the wet grey learned all that was needed.
+And so the Widow learned all that was needed.
 
 That night, the Widow, a wet grey woman who lived under the bucket, came down the chimney and wrapped up and took Tsarevna Lumina to the bottom of the old well.
 
@@ -30,7 +30,7 @@ A drowned soldier who still kept watch opened a sack that held three things: a h
 
 Our Tikhon was led down a ladder of roots, deeper than the wells go as far as the Copper Kingdom under the earth.
 
-There at the heart of the Copper Kingdom under the earth, our Tikhon stood before the wet grey, a wet grey woman who lived under the bucket. The Widow set out a board of black and bone, and they played three rounds.
+There at the heart of the Copper Kingdom under the earth, our Tikhon stood before the Widow. The Widow set out a board of black and bone, and they played three rounds.
 
 In the fight, the Widow scorched Tikhon on the palm: a mark that would matter later.
 
@@ -54,6 +54,6 @@ By his old crooked grin, they knew our Tikhon at last.
 
 The elder brothers Glib and Gleb went red, but everyone had seen.
 
-The wet grey was put in a barrel and rolled into the sea, which rolled her back out, ashamed.
+The Widow was put in a barrel and rolled into the sea, which rolled her back out, ashamed.
 
 Tikhon married Tsarevna Lumina, and there was a feast.

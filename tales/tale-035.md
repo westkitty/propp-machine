@@ -20,7 +20,7 @@ A ferryman with no shadow unfolded a rag that held three things: a bone comb tha
 
 Our Savva was led through the forest, where the trees whispered half of everything as far as the Birch Thicket of Unfinished Sentences.
 
-There at the heart of the Birch Thicket of Unfinished Sentences, the lad stood before Bonelace, a sorcerer who kept his death somewhere sensible. Before long iron met brine. Our Savva and the sorcerer wrestled until the moon came out to watch.
+In the very middle of a fortress stitched from bones, the lad stood before Bonelace. Before long iron met brine. Our Savva and Bonelace wrestled until the moon came out to watch.
 
 Tsarevich Lev Pale-Hands tore a ribbon from her sleeve onto his wrist. “So I will know you.”
 
@@ -40,6 +40,6 @@ Then Tsarevich Lev Pale-Hands recognised our Savva.
 
 The lie fell over by itself: a general with polished boots and no battles had spent the whole time hiding.
 
-And Bonelace: the sorcerer was made to count the crows of the kingdom, and is counting still.
+And Bonelace: Bonelace was made to count the crows of the kingdom, and is counting still.
 
 Then there was a wedding.

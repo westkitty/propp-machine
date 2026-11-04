@@ -26,7 +26,7 @@ A ferryman with no shadow unfolded a rag that held three things: a ball of red t
 
 Kuzma was led through the forest, where the trees whispered half of everything as far as the Birch Thicket of Unfinished Sentences.
 
-There at the heart of the Birch Thicket of Unfinished Sentences, the lad stood before the monarch, a monarch who melted a little whenever he lied. Meanwhile, the waxen king came out roaring, and they fought till the grass was flattened, while the crows kept score.
+In the very middle of a palace of dripping wax, the lad stood before the waxen king. Meanwhile, the waxen king came out roaring, and they fought till the grass was flattened, while the crows kept score.
 
 And so the waxen king was defeated.
 

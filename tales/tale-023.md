@@ -10,9 +10,9 @@ Before the porridge cooled, a visiting aunt did it anyway.
 
 Old Hungry Mist sent a crow to find out where things were kept.
 
-Meanwhile, what one hears at a keyhole is soon known in a lair: the fog learned it all.
+Meanwhile, what one hears at a keyhole is soon known in a lair: the Mist learned it all.
 
-The fog came in disguise, holding out a sweet cake.
+The Mist came in disguise, holding out a sweet cake.
 
 Well, Ivashka took the cake and fell asleep.
 
@@ -34,7 +34,7 @@ Tsarevich Lev Pale-Hands was free.
 
 And so, Ivashka went back the way he had come.
 
-Behind came the fog, chasing.
+Behind came the Mist, chasing.
 
 Ivashka flung the comb, and a forest sprang up thick as a brush, and escaped.
 
@@ -48,6 +48,6 @@ Tsarevich Lev Pale-Hands looked twice and cried, “This is the one!”
 
 The lie of the elder brothers Glib and Gleb came out.
 
-As for the fog: the Mist was turned into a draughty doorway that everyone complained about.
+As for the Mist: the Mist was turned into a draughty doorway that everyone complained about.
 
 Ivashka and Tsarevich Lev Pale-Hands ruled together, and lived long.

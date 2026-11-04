@@ -20,7 +20,7 @@ Being polite, Tikhon bowed low.
 
 The Grandmother of Owls opened a sack that held three things: a handkerchief that unfolds into a lake; a bone comb that grows forests when thrown; boots that walk only forward. In return our Tikhon received a bone comb that grows forests when thrown.
 
-There at the heart of the Copper Kingdom under the earth, Tikhon stood before the Widow of the Well, a wet grey woman who lived under the bucket. Then, the Widow proposed a contest.
+There at the heart of the Copper Kingdom under the earth, Tikhon stood before the Widow of the Well. Then, the Widow proposed a contest.
 
 And so the Widow was defeated.
 

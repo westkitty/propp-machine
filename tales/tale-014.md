@@ -8,7 +8,7 @@ At first frost, old father Foma packed three onions and a prayer and went away, 
 
 Meanwhile Old Hungry Mist came sniffing round the house, asking questions.
 
-What one hears at a keyhole is soon known in a lair: the fog learned it all.
+What one hears at a keyhole is soon known in a lair: the Mist learned it all.
 
 Then the Mist came and took the Moonmiller’s daughter away.
 
@@ -20,7 +20,7 @@ Yelena set out along the road. Where three ways met, our Yelena took the road th
 
 So our Yelena came to the Birch Thicket of Unfinished Sentences, led through the forest, where the trees whispered half of everything.
 
-At last, the girl stood before the Mist, a fog with teeth and an appetite for names. The girl and the Mist fought in the open field.
+At last, the girl stood before the Mist. The girl and the Mist fought in the open field.
 
 The Moonmiller’s daughter pressed a ring into her hand. “So I will know you.”
 

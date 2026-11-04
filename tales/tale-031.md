@@ -10,7 +10,7 @@ At first frost, the hero’s grandmother took a staff and went away, and the hou
 
 That same week Our Olya yawned, which was exactly what was wanted.
 
-The wet grey, a wet grey woman who lived under the bucket, stole the kingdom’s last true sunrise.
+The Widow, a wet grey woman who lived under the bucket, stole the kingdom’s last true sunrise.
 
 Now the hero’s grandmother called Olya and said: “Go, and bring it back.”
 
@@ -26,7 +26,7 @@ A birch tree with a terrible cough unfolded a rag that held three things: a birc
 
 Riding the wind’s spare horse, our Olya went through the forest, where the trees whispered half of everything, until the road ran out at the Birch Thicket of Unfinished Sentences.
 
-At last, the girl stood before the Widow, a wet grey woman who lived under the bucket. The girl mended the villain’s shadow badly on purpose, and the Widow fell for it.
+There at the heart of the Birch Thicket of Unfinished Sentences, the girl stood before the Widow. The girl mended the villain’s shadow badly on purpose, and the Widow fell for it.
 
 The Widow was beaten.
 

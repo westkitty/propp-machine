@@ -26,7 +26,7 @@ A birch tree with a terrible cough opened a sack that held three things: a handk
 
 So our Marfa came to the Copper Kingdom under the earth, having gone down a ladder of roots, deeper than the wells go.
 
-There at the heart of the Copper Kingdom under the earth, Marfa stood before Bonelace, a sorcerer who kept his death somewhere sensible. Marfa and Bonelace fought in the open field.
+There at the heart of the Copper Kingdom under the earth, Marfa stood before Bonelace. Marfa and Bonelace fought in the open field.
 
 At the cock’s first crow, Bonelace burst into moths.
 
@@ -34,7 +34,7 @@ Marfa found the kingdom’s last true sunrise again.
 
 After that, Marfa went back the way she had come.
 
-Not long after, the sorcerer flew in a mortar after Marfa, shrieking.
+Not long after, Bonelace flew in a mortar after Marfa, shrieking.
 
 When the teeth were an inch away, the skull turned her into a spoon nobody looks at.
 

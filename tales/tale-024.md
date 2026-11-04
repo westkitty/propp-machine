@@ -12,7 +12,7 @@ The hero’s grandmother wept loudly in the square, and Dunya heard.
 
 Our Dunya set out along the road. At the crossroads stone, Dunya chose the road that went down a ladder of roots, deeper than the wells go.
 
-There at the heart of the Copper Kingdom under the earth, Dunya stood before the lord, a lord made of dust and good manners. “Show me how it is done," said our Dunya, and the lord, eager to show off, leaned over the edge.
+In the very middle of a castle where every candle was afraid, Dunya stood before the Count. “Show me how it is done," said our Dunya, and the Count, eager to show off, leaned over the edge.
 
 In the struggle, the Count scratched Dunya across the brow: a mark like a little moon.
 

@@ -12,7 +12,7 @@ Ninetoes put on a kindly face and a borrowed voice.
 
 Our Dunya nodded, which was exactly what was wanted.
 
-The witch stole the egg in which a certain death was kept, and the cows gave sour milk.
+Ninetoes stole the egg in which a certain death was kept, and the cows gave sour milk.
 
 The news went round, and at last it reached Dunya.
 
@@ -22,7 +22,7 @@ So Dunya left home. At the crossroads stone, Dunya took the road down a ladder o
 
 Following a hare that was not a hare, Dunya went down a ladder of roots, deeper than the wells go, until the stars changed at the Copper Kingdom under the earth.
 
-There at the heart of the Copper Kingdom under the earth, Dunya stood before Ninetoes, a witch who lived in a hut that paced like a dog. Our Dunya tricked Ninetoes instead of fighting.
+There at the heart of the Copper Kingdom under the earth, Dunya stood before Ninetoes. Our Dunya tricked Ninetoes instead of fighting.
 
 In the struggle Dunya was marked on the cheek.
 

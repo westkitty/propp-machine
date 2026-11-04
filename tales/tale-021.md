@@ -12,7 +12,7 @@ The Mist disguised himself as a pedlar of ribbons.
 
 Well, Ivashka said yes, which was the worst thing to say.
 
-That night the fog, a fog with teeth and an appetite for names, carried off Princess Vasilka the Unhurried to the marsh where the road gave up.
+That night the Mist, a fog with teeth and an appetite for names, carried off Princess Vasilka the Unhurried to the marsh where the road gave up.
 
 The news went round, and at last it reached Ivashka.
 

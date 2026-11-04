@@ -8,7 +8,7 @@ At dusk, Zmei Pickleback listened.
 
 The youngest cousin told the stranger everything, and Pickleback smiled with too many teeth.
 
-Then the salt-green serpent came and took Tsarevich Lev Pale-Hands away.
+Then Pickleback came and took Tsarevich Lev Pale-Hands away.
 
 “Who will go?” cried the hero’s grandmother. Only the girl stood up.
 
@@ -22,9 +22,9 @@ Not long after, since she had been raised properly, Yelena bowed low.
 
 A ferryman with no shadow unfolded a rag that held three things: a birch-bark flute that makes the dead dance politely; a jar of borrowed thunder; a handkerchief that unfolds into a lake. In return Yelena received a birch-bark flute that makes the dead dance politely.
 
-At last, Yelena stood before Pickleback, a salt-green serpent with three heads and one opinion. Yelena and the salt-green serpent fought in the open field.
+At last, Yelena stood before Pickleback. Yelena and Pickleback fought in the open field.
 
-With a last blow, the salt-green serpent burst into moths.
+With a last blow, Pickleback burst into moths.
 
 Tsarevich Lev Pale-Hands was free.
 

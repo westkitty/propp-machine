@@ -24,7 +24,7 @@ The Grandmother of Owls opened a sack that held three things: a horse-hair that 
 
 Dunya was led through the forest, where the trees whispered half of everything as far as the Birch Thicket of Unfinished Sentences.
 
-At last, Dunya stood before Ninetoes, a witch who lived in a hut that paced like a dog. Ninetoes came out roaring, and they fought till the grass was flattened, maybe long, maybe short.
+There at the heart of the Birch Thicket of Unfinished Sentences, Dunya stood before Ninetoes. Ninetoes came out roaring, and they fought till the grass was flattened, maybe long, maybe short.
 
 With a last blow, Ninetoes melted into a puddle that complained.
 

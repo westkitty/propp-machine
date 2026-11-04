@@ -28,6 +28,6 @@ The girl came back with a beard of dust, and nobody knew her.
 
 The girl washed and became handsome.
 
-As for the salt-green serpent: Pickleback was turned into a draughty doorway that everyone complained about.
+As for Pickleback: Pickleback was turned into a draughty doorway that everyone complained about.
 
 Then there was a wedding.

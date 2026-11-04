@@ -10,7 +10,7 @@ Within the hour, the youngest cousin did it anyway.
 
 A polite stranger came asking the way to the well. It was Count Moth.
 
-And so the lord learned all that was needed.
+And so the Count learned all that was needed.
 
 Before cockcrow there was a cold place where Tsarevich Lev Pale-Hands had been. The Count had come.
 

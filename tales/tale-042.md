@@ -56,6 +56,6 @@ Tsarevich Lev Pale-Hands looked twice and cried, “This is the one!”
 
 The lie fell over by itself: the elder brothers Glib and Gleb had done nothing at all.
 
-And the sorcerer was made to count the crows of the kingdom, and is counting still.
+And Bonelace was made to count the crows of the kingdom, and is counting still.
 
 Then there was a wedding.

@@ -1,0 +1,77 @@
+:root { --ink:#23170f; --paper:#f3e7cb; --paper2:#ead9b4; --red:#a3321f; --ochre:#c08a2b; --night:#1b1511; --focus:#0b57d0; }
+* { box-sizing: border-box; }
+html { background: var(--night); }
+body { margin:0; color: var(--ink); font: 18px/1.6 "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+  background: radial-gradient(ellipse at top, #3a2a1d 0%, var(--night) 70%); min-height: 100vh; }
+.skip { position:absolute; left:-999px; top:0; background:var(--paper); padding:.5em 1em; z-index:9; }
+.skip:focus { left: 1em; }
+.masthead { display:flex; flex-wrap:wrap; gap:1rem 2rem; align-items:flex-end; justify-content:space-between; padding:1.2rem clamp(1rem,4vw,3rem) .6rem; color: var(--paper); }
+h1 { margin:0; font-size: clamp(1.8rem, 4.5vw, 3rem); letter-spacing:.04em; font-variant: small-caps; line-height:1.05;
+  text-shadow: 0 2px 0 #000; }
+.sub { margin:.2rem 0 0; color:#e4cf9f; font-style: italic; }
+.controls { display:flex; flex-wrap:wrap; gap:.4rem; align-items:center; }
+.controls label { font-variant: small-caps; color:#e4cf9f; }
+input, button { font: inherit; font-size: .9rem; border-radius: 4px; }
+input { width: 9.5em; padding:.35em .5em; border:2px solid var(--ochre); background: var(--paper); color: var(--ink); }
+button { cursor:pointer; padding:.38em .8em; border:2px solid var(--ink); background: var(--paper2); color: var(--ink); box-shadow: 0 2px 0 var(--ink); }
+button:hover { background: #fff3d6; }
+button:active { transform: translateY(2px); box-shadow:none; }
+button:disabled { opacity:.45; cursor:not-allowed; }
+:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+.masthead button { background: var(--ochre); border-color:#000; }
+.msg { color:#f6e3b0; font-size:.85rem; min-width: 6em; }
+.layout { display:grid; grid-template-columns: minmax(0,1fr) 20rem; gap: 1.5rem; padding: .6rem clamp(1rem,4vw,3rem) 1rem; align-items:start; }
+.book { display:grid; grid-template-columns: 1fr 1fr; background: var(--paper); border-radius: 6px 6px 10px 10px; position:relative;
+  box-shadow: 0 18px 40px rgba(0,0,0,.55), inset 0 0 60px rgba(120,80,30,.25); min-height: 31rem; outline:none; }
+.book::after { content:""; position:absolute; left:50%; top:0; bottom:0; width:40px; transform:translateX(-50%);
+  background: linear-gradient(90deg, transparent, rgba(80,50,20,.22) 45%, rgba(80,50,20,.32) 50%, rgba(80,50,20,.22) 55%, transparent); pointer-events:none; }
+.leaf { padding: clamp(1rem, 2.5vw, 2rem); }
+.leaf-art { border-right: 1px solid rgba(35,23,15,.15); display:flex; flex-direction:column; justify-content:center; }
+.art { margin:0; }
+.art svg { width:100%; height:auto; display:block; }
+.artcap { font-size:.8rem; text-align:center; font-style:italic; margin-top:.4rem; color:#5a4330; }
+.fn { margin:0 0 .6rem; font-variant: small-caps; letter-spacing:.06em; color: var(--red); font-weight:bold; border-bottom: 2px solid var(--ink); padding-bottom:.25rem; }
+.fn .sym { display:inline-block; min-width:1.8em; text-align:center; background: var(--ink); color: var(--paper); border-radius: 3px; margin-right:.4em; padding:0 .25em; }
+.text p { margin: 0 0 .8em; }
+.text p.first::first-letter { float:left; font-size: 3.4em; line-height:.85; padding: .05em .08em 0 0; color: var(--red); font-weight:bold; }
+.text .post { border-left: 3px solid var(--ochre); padding-left: .6em; }
+.choices { display:flex; flex-direction:column; gap:.45rem; margin: .6rem 0 1rem; }
+.choices .prompt { font-style: italic; margin:0; }
+.choices button { text-align:left; background:#fff7e2; }
+.choices button .k { display:inline-block; width:1.4em; font-weight:bold; color: var(--red); }
+.turn { display:flex; justify-content:space-between; align-items:center; gap:.5rem; margin-top: 1rem; }
+.pageno { font-size:.85rem; color:#5a4330; }
+.end { text-align:center; font-variant: small-caps; font-size:1.4rem; letter-spacing:.2em; color: var(--red); }
+.verdict { border:2px solid var(--ink); background:#fff7e2; padding:.5rem .8rem; font-size:.9rem; }
+.verdict.ok { border-color:#2f6b2f; }
+.grammar { background: #2a1f17; color: #f1e2c0; border:1px solid #5b442f; border-radius: 6px; padding: 1rem 1.1rem; font-size:.9rem; position: sticky; top: 1rem; }
+.grammar h2 { margin:0 0 .3rem; font-variant: small-caps; color: var(--ochre); font-size:1.15rem; }
+.grammar h3 { margin: .9rem 0 .3rem; font-size:.8rem; text-transform: uppercase; letter-spacing:.1em; color:#d7b77a; }
+.hint { margin:0; color:#d9c59b; font-size:.82rem; }
+.seq { list-style:none; margin:0; padding:0; display:flex; flex-wrap:wrap; gap:.25rem; }
+.seq li { background: var(--paper); color: var(--ink); border-radius:3px; padding: 0 .35em; font-weight:bold; min-width:1.6em; text-align:center; }
+.seq li.m2 { background: #e9c27a; }
+.seq li.m3 { background: #d99a83; }
+.seq li.cur { outline: 3px solid var(--red); }
+.seq li.sep { background: none; color:#d7b77a; }
+.status.ok::before { content:"✓ "; color:#8fd18f; }
+.status.bad::before { content:"✗ "; color:#ff9a8a; }
+.allowed, .owed { word-spacing: .3em; margin:0; }
+.legend { display:grid; grid-template-columns: 2.4em 1fr; gap:.1rem .5rem; margin:.5rem 0 0; font-size:.8rem; }
+.legend dt { font-weight:bold; color: var(--ochre); }
+.legend dd { margin:0; }
+details summary { cursor:pointer; color: var(--ochre); margin-top:.8rem; }
+.foot { color:#bfa77c; font-size:.8rem; padding: 0 clamp(1rem,4vw,3rem) 1.5rem; }
+.fulltale { max-height: 16rem; overflow:auto; font-size:.9rem; background:#fff7e2; padding:.6rem .8rem; border:1px solid #c9b08a; }
+@media (max-width: 980px) { .layout { grid-template-columns: 1fr; } .grammar { position: static; } }
+@media (max-width: 680px) {
+  body { font-size: 17px; }
+  .book { grid-template-columns: 1fr; min-height: 0; }
+  .book::after { display:none; }
+  .leaf-art { border-right: 0; border-bottom: 1px solid rgba(35,23,15,.15); padding-bottom: .5rem; }
+  .controls input { width: 7.5em; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .book.turning .leaf-text, .book.turning .leaf-art { animation: turn .35s ease-out; }
+  @keyframes turn { from { opacity:.2; transform: translateX(8px); } to { opacity:1; transform:none; } }
+}

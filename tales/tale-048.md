@@ -30,12 +30,12 @@ Everything that had been taken was put right.
 
 Our Ivashka went home.
 
-Behind came the witch, chasing.
+Behind came Ninetoes, chasing.
 
 At the last breath, the doll snatched Ivashka up.
 
 The lad arrived home, but nobody knew him.
 
-And the witch: Ninetoes was made to count the crows of the kingdom, and is counting still.
+And Ninetoes: Ninetoes was made to count the crows of the kingdom, and is counting still.
 
 Then there was a wedding.

@@ -26,9 +26,9 @@ The Grandmother of Owls unfolded a rag that held three things: a horse-hair that
 
 Following a hare that was not a hare, the girl went down a ladder of roots, deeper than the wells go, until the stars changed at the Copper Kingdom under the earth.
 
-At last, the girl stood before Pickleback, a salt-green serpent with three heads and one opinion. Dunya whispered the wrong name, and the salt-green serpent fell for it.
+At last, the girl stood before Pickleback. Dunya whispered the wrong name, and Pickleback fell for it.
 
-And so the salt-green serpent was defeated.
+And so Pickleback was defeated.
 
 Tsarevna Lumina was free.
 

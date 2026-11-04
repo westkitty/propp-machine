@@ -12,7 +12,7 @@ Forbidden things are heavy; Agafya Last-of-Eleven could not stop carrying this o
 
 Meanwhile the Widow of the Well came sniffing round the house, asking questions.
 
-The goat told the stranger everything, and the wet grey wrote it on a fingernail.
+The goat told the stranger everything, and the Widow wrote it on a fingernail.
 
 In the morning there was a wet place where Tsarevna Lumina had been. The Widow had come.
 
@@ -32,7 +32,7 @@ The spell came unstitched, and Tsarevna Lumina was free.
 
 With the prize in her cap, the girl turned for home.
 
-The wet grey scuttled on a hundred borrowed legs after Agafya, shrieking.
+The Widow scuttled on a hundred borrowed legs after Agafya, shrieking.
 
 When the teeth were an inch away, the doll snatched Agafya up.
 

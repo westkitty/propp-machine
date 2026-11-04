@@ -12,7 +12,7 @@ By the third day, Agafya Last-of-Eleven broke the rule, as rules are broken.
 
 At dusk, the Tallow King asked the wind where the precious things were kept.
 
-A chattering neighbour told the monarch everything.
+A chattering neighbour told the waxen king everything.
 
 Then the waxen king came and stole a bride who could laugh, and the whole land went dim.
 
@@ -30,9 +30,9 @@ An old woman knitting fog unfolded a rag that held three things: a jar of borrow
 
 So Agafya came to the Copper Kingdom under the earth, led down a ladder of roots, deeper than the wells go.
 
-At last, the girl stood before the waxen king, a monarch who melted a little whenever he lied. Wouldn’t you know it, the waxen king proposed a contest.
+There at the heart of the Copper Kingdom under the earth, the girl stood before the waxen king. Wouldn’t you know it, the waxen king proposed a contest.
 
-And so the monarch was defeated.
+And so the waxen king was defeated.
 
 Then, Agafya found a bride who could laugh again.
 

@@ -38,6 +38,6 @@ Then Princess Vasilka the Unhurried recognised Marfa.
 
 The elder brothers Glib and Gleb tried to slip out by the scullery, but the goose remembered.
 
-And the lord was made to count the crows of the kingdom, and is counting still.
+And the Count was made to count the crows of the kingdom, and is counting still.
 
 Marfa and Princess Vasilka the Unhurried were wed, and lived long.

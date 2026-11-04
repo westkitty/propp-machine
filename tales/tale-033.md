@@ -10,7 +10,7 @@ Then the village elder with the brass ear-trumpet set off on business and left P
 
 Wouldn’t you know it, the lad nodded, which was the worst thing to say.
 
-At the stroke of nobody’s clock, the lord, a lord made of dust and good manners, swept in and snatched away the Moonmiller’s daughter to a castle where every candle was afraid.
+At the stroke of nobody’s clock, the Count, a lord made of dust and good manners, swept in and snatched away the Moonmiller’s daughter to a castle where every candle was afraid.
 
 “Give me a crust and a blessing, and I will go,” said the lad.
 
@@ -42,6 +42,6 @@ Everyone recognised Prokop at last.
 
 A general with polished boots and no battles tried to slip out by the scullery, but the goose remembered.
 
-The lord was made to count the crows of the kingdom, and is counting still.
+The Count was made to count the crows of the kingdom, and is counting still.
 
 Prokop and the Moonmiller’s daughter ruled together, and lived long.

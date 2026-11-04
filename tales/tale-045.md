@@ -6,13 +6,13 @@ They still tell of Tikhon Who Counts Crows in a town whose church bell rang a mi
 
 Under the window, Bonelace the Deathless counted the family twice.
 
-Well, the youngest cousin could not keep a secret, and the sorcerer wrote it on a fingernail.
+Well, the youngest cousin could not keep a secret, and Bonelace wrote it on a fingernail.
 
 Bonelace forged a voice at the smithy.
 
 Tikhon said yes, which was exactly what was wanted.
 
-When the dogs fell silent, the sorcerer, a sorcerer who kept his death somewhere sensible, swept in and snatched away Princess Vasilka the Unhurried to a fortress stitched from bones.
+When the dogs fell silent, Bonelace, a sorcerer who kept his death somewhere sensible, swept in and snatched away Princess Vasilka the Unhurried to a fortress stitched from bones.
 
 Wouldn’t you know it, a widowed Tsar called our Tikhon and said: “Go, and bring it back.”
 
@@ -28,7 +28,7 @@ A hedgehog wearing a bishop’s hat opened a sack that held three things: a hand
 
 Then the lad travelled through the forest, where the trees whispered half of everything, and came to the Birch Thicket of Unfinished Sentences.
 
-There at the heart of the Birch Thicket of Unfinished Sentences, Tikhon stood before the sorcerer, a sorcerer who kept his death somewhere sensible. Bonelace challenged Tikhon to a contest of riddles.
+There at the heart of the Birch Thicket of Unfinished Sentences, Tikhon stood before Bonelace. Bonelace challenged Tikhon to a contest of riddles.
 
 And so Bonelace was defeated.
 

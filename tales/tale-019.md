@@ -22,7 +22,7 @@ A drowned soldier who still kept watch opened a sack that held three things: a j
 
 So Savva came to the Thrice-Tenth Sea, led over the sea, where the fish kept diaries and the waves read them aloud.
 
-At last, Savva stood before the salt-green serpent, a salt-green serpent with three heads and one opinion. Pickleback set out two bowls and a riddle, and they matched wits until the candle drowned.
+There at the heart of the Thrice-Tenth Sea, Savva stood before Pickleback. Pickleback set out two bowls and a riddle, and they matched wits until the candle drowned.
 
 The Moonmiller’s daughter tied a ribbon round his wrist.
 

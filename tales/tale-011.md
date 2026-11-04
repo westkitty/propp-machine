@@ -18,9 +18,9 @@ The Grandmother of Owls in a hut built entirely of locked doors asked for a name
 
 The Grandmother of Owls unfolded a rag that held three things: boots that walk only forward; a handkerchief that unfolds into a lake; a birch-bark flute that makes the dead dance politely. From under the moss, the Grandmother of Owls brought a birch-bark flute that makes the dead dance politely, and somewhere a bell rang.
 
-At last, Savva stood before Count Moth, a lord made of dust and good manners. The Count set out the scales of the dead, and they played three rounds.
+At last, Savva stood before Count Moth. The Count set out the scales of the dead, and they played three rounds.
 
-And so the lord was defeated.
+And so the Count was defeated.
 
 By the gift’s doing, Savva won back the singing apple that told the truth.
 
@@ -40,6 +40,6 @@ Then Tsarevich Lev Pale-Hands recognised Savva.
 
 Our Savva stepped through the cat’s ear and out the other and came out handsome.
 
-The lord was put in a barrel and rolled into the sea, which rolled him back out, ashamed.
+The Count was put in a barrel and rolled into the sea, which rolled him back out, ashamed.
 
 Our Savva married Tsarevich Lev Pale-Hands, and there was a feast.
