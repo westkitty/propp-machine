@@ -1,5 +1,7 @@
 # The Propp Machine
 
+**Play it live:** https://westkitty.github.io/propp-machine/
+
 A formal story grammar after Vladimir Propp's *Morphology of the Folktale*, with four parts:
 - a **validator** that explains violations in plain words
 - an **annotated corpus** of 12 public-domain tales from Afanas'ev (Magnus translation, 1915), with an acceptance report

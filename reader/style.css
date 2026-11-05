@@ -75,3 +75,7 @@ details summary { cursor:pointer; color: var(--ochre); margin-top:.8rem; }
   .book.turning .leaf-text, .book.turning .leaf-art { animation: turn .35s ease-out; }
   @keyframes turn { from { opacity:.2; transform: translateX(8px); } to { opacity:1; transform:none; } }
 }
+
+/* Touch / tablet: larger tap targets, no double-tap zoom delay */
+button { touch-action: manipulation; }
+@media (pointer: coarse) { button { min-height: 44px; font-size: 1rem; } .choices button { padding: .7em .9em; } }
